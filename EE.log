@@ -1,0 +1,1678 @@
+0.409 Sys [Diag]: Process Command-line: -fullscreen:0 -dx10:1 -dx11:0 -threadedworker:1 -cluster:public -language:en -clienttype:Steam
+0.409 Sys [Diag]: Build Label: 2019.03.07.23.02 Retail Windows x64 [Stripped]
+0.421 Sys [Diag]: Build Unique ID: 182925283
+0.435 Sys [Diag]: Windows user-name: Dex
+0.436 Sys [Diag]: Windows computer-name: Dexter
+0.440 Sys [Diag]: Current time: Fri Mar  8 02:30:07 2019 [UTC: Fri Mar  8 08:30:07 2019]
+0.440 Sys [Diag]: Current directory: D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools
+0.452 Sys [Diag]: Processor: Intel Quad-HT Core i7-3770 3400MHz HT/MMX/SSE/SSE2/SSE3/SSSE3/SSE41/SSE42/AVX/POPCNT/F16C F/M/S/EF/EM: 6/A/9/0/3
+0.453 Sys [Diag]: Physical Memory: 10GB / 16GB free
+0.453 Sys [Diag]: Address Space: 128TB / 128TB free
+0.453 Sys [Diag]: C:\pagefile.sys: 2,318MB of 2,432MB free
+0.453 Sys [Diag]: Page size: 4KB (Granularity: 64KB)
+0.453 Sys [Diag]: Operating System: Windows 10 [64-bit]
+0.461 Sys [Diag]: System Processes: 200
+0.461 Sys [Diag]: System Threads: 3,041
+0.461 Sys [Diag]: System Handles: 100,363
+0.466 Sys [Diag]: System GDI Objects: 0
+0.466 Sys [Diag]: System USER Objects: 0
+0.466 Sys [Diag]: System Up-Time: 1d 11h 37m 40s
+0.466 Sys [Diag]: Free Disk Space on C: 37,808,091,136 bytes
+0.467 Sys [Diag]: Free Disk Space on D: 888,111,185,920 bytes
+0.467 Sys [Diag]: Found Monitor: (0, 0) - (1920, 1080) : 1920x1080
+0.467 Sys [Diag]: Found Monitor: (1920, 0) - (3456, 864) : 1536x864
+0.467 Sys [Diag]: Clock frequency: 3,312,792Hz
+0.490 Gfx [Info]: Private shader options need 35 bits
+0.491 Sys [Info]: CancelJobs batchcount 0
+0.511 Sys [Info]: Loading packages took 0.0ms
+0.511 Sys [Info]: Redirecting package load to: C:\Users\Dex\AppData\Local\Warframe\Editor.cfg
+0.512 Sys [Info]: Windows caching enabled
+0.512 Sys [Info]: Dx9 caching enabled
+0.512 Sys [Info]: Dx11 caching enabled
+0.512 Sys [Info]: Scanning D:\Program Files (x86)\Steam\steamapps\common\Warframe\Cache.Windows\ for cache blocks...
+0.514 Sys [Info]: Found 111 cache blocks...
+0.545 Sys [Info]: Cache languages enabled: _en
+0.545 Sys [Info]: Loading Oodle DLL: oo2core_7_win64.dll
+0.551 Sys [Info]: Loading Net Oodle DLL: oo2net_7_win64.dll
+
+
+0.609 Sys [Info]: Downloading cache manifest index...
+1.047 Sys [Info]: Loaded TOC for Windows/H.Misc (took 213ms, loaded 102417 entries, found 1326 deleted)
+1.050 Sys [Info]: Used shared /H.Cache.bin (883B Copy: 0.00s Write: 0.22s Latency: 0.44s)
+1.062 Sys [Info]: Budget overrun commiting write of H.Misc/H.Cache.bin (2.45 ms)
+1.097 Sys [Info]: Loaded TOC for Windows/H.Font (took 7.89ms, loaded 2399 entries, found 52 deleted)
+1.105 Sys [Info]: Loaded TOC for Windows/B.Font (took 4.93ms, loaded 2388 entries, found 110 deleted)
+1.119 Sys [Info]: Loaded TOC for Windows/H.AnimRetarget (took 13.0ms, loaded 3960 entries, found 191 deleted)
+1.135 Sys [Info]: Loaded TOC for Windows/B.AnimRetarget (took 11.7ms, loaded 3539 entries, found 177 deleted)
+1.211 Sys [Info]: Loaded TOC for Windows/B.Misc (took 72.8ms, loaded 66181 entries, found 293 deleted)
+1.494 Sys [Info]: Loaded TOC for Windows/H.VideoTexture (took 0.08ms, loaded 24 entries, found 0 deleted)
+1.494 Sys [Info]: Loaded TOC for Windows/B.CharacterCodesCache (took 0.01ms, loaded 1 entries, found 1 deleted)
+1.494 Sys [Info]: Loaded TOC for Windows/H.CharacterCodesCache (took 0.00ms, loaded 1 entries, found 1 deleted)
+1.603 Sys [Info]: Cache manifest hash hVmdizyGsly5BFTCmngwig
+1.612 Sys [Info]: Loaded TOC for Windows/F.Misc (took 6.19ms, loaded 4287 entries, found 21 deleted)
+1.614 Sys [Info]: Loaded TOC for Windows/F.VideoTexture (took 0.05ms, loaded 24 entries, found 0 deleted)
+1.614 Sys [Info]: Loaded TOC for Windows/H.VideoTextureStreaming (took 0.02ms, loaded 16 entries, found 0 deleted)
+1.631 Sys [Info]: Loaded TOC for Windows/F.VideoTextureStreaming (took 0.05ms, loaded 16 entries, found 0 deleted)
+1.633 Sys [Info]: Loaded TOC for Windows/H.Misc_en (took 0.13ms, loaded 65 entries, found 0 deleted)
+1.640 Sys [Info]: Loaded TOC for Windows/B.Misc_en (took 0.21ms, loaded 65 entries, found 0 deleted)
+1.641 Sys [Error]: Reading large file /Windows/H.Misc/Packages.bin (file size 116087980)
+1.643 Sys [Info]: Loaded TOC for Windows/F.Misc_en (took 0.12ms, loaded 53 entries, found 1 deleted)
+2.662 Sys [Info]: Loading package cache took 1.0s (Parse: 0.8s)
+2.735 Sys [Info]: Loaded TOC for Dx10/B.CharacterCodesCache (took 0.13ms, loaded 87 entries, found 6 deleted)
+2.736 Sys [Info]: Loaded TOC for Dx10/H.CharacterCodesCache (took 0.31ms, loaded 296 entries, found 30 deleted)
+3.077 Sys [Info]: Load deps cache took 344ms
+3.117 Sys [Info]: Redirecting package load to: C:\Users\Dex\AppData\Local\Warframe\EE.cfg
+3.118 Sys [Diag]: Engine config profile: /Configs/EE.cfg/Windows_Config
+3.118 Sys [Info]: JobMgr: 6 threads
+3.154 Sys [Info]: Driver registered: ScriptDriver Supported types: [Script]
+3.156 Script [Info]: ScriptMgr::Initialize() 2,541,952 bytes, 24,262 allocs
+3.156 Sys [Info]: Using language: _en
+3.158 Sys [Info]: Loaded TOC for Dx10/B.Shader (took 0.10ms, loaded 69 entries, found 1 deleted)
+3.158 Sys [Info]: Loaded TOC for Dx10/H.Shader (took 0.26ms, loaded 180 entries, found 9 deleted)
+3.273 Sys [Info]: Loading language cache took 0.116989s
+3.273 Sys [Diag]: Command line: -client
+3.277 Sys [Diag]: SRand seeded with: 1826628312470308378
+3.277 Phys [Info]: Custom physx allocator in use
+3.341 Gfx [Info]: PhysX Core Version: 3.4.2.0
+3.341 Phys [Info]: PhysX scene manager initialized.
+3.341 Sys [Info]: Driver registered: MaterialLibrary Supported types: [PhysicsMaterial]
+3.341 Sys [Info]: Spot-building /EE/Types/Physics/Materials/Default
+3.342 Sys [Info]: Found 800 items to load (1ms) [Heap: 174,481,984/174,653,440 Footprint: 210,165,760 Handles: 481]
+3.347 Sys [Info]: Loaded TOC for Dx10/B.ShaderPermutation (took 5.62ms, loaded 8220 entries, found 210 deleted)
+3.353 Sys [Info]: Loaded TOC for Dx10/H.ShaderPermutation (took 5.54ms, loaded 8220 entries, found 213 deleted)
+3.357 Sys [Info]: Loaded TOC for Dx9/H.CharacterCodesCache (took 0.85ms, loaded 296 entries, found 29 deleted, spot-loaded)
+3.375 Sys [Info]: Loaded TOC for Dx11/B.CharacterCodesCache (took 0.14ms, loaded 87 entries, found 6 deleted)
+3.375 Sys [Info]: Loaded TOC for Dx11/H.CharacterCodesCache (took 0.27ms, loaded 296 entries, found 33 deleted)
+3.392 Sys [Info]: Loaded TOC for Dx11/H.Shader (took 0.23ms, loaded 180 entries, found 9 deleted)
+3.393 Sys [Info]: Loaded TOC for Dx9/B.CharacterCodesCache (took 0.69ms, loaded 87 entries, found 5 deleted, spot-loaded)
+3.403 Sys [Info]: Finished load of CharacterCodesCache batch [0.05s and 2 frames at 23 ms/frame avg, 16 ms/update peak, 0.05s IO wait], 27 item(s)
+3.410 Sys [Info]: Loaded TOC for Dx9/H.ShaderPermutation (took 6.82ms, loaded 8220 entries, found 192 deleted, spot-loaded)
+3.434 Sys [Info]: Loaded TOC for Dx11/H.ShaderPermutation (took 7.40ms, loaded 8220 entries, found 196 deleted)
+3.434 Sys [Info]: Loaded TOC for Dx11/B.Shader (took 0.13ms, loaded 69 entries, found 1 deleted)
+3.455 Sys [Info]: Loaded TOC for Dx11/B.ShaderPermutation (took 4.88ms, loaded 8220 entries, found 214 deleted)
+3.463 Sys [Info]: Loaded TOC for Dx9/B.ShaderPermutation (took 5.73ms, loaded 8220 entries, found 269 deleted, spot-loaded)
+3.482 Sys [Info]: Loaded TOC for Dx9/H.Emblem (took 1.51ms, loaded 2118 entries, found 0 deleted)
+3.500 Sys [Info]: Loaded TOC for Dx9/B.Emblem (took 1.70ms, loaded 2118 entries, found 0 deleted)
+3.500 Sys [Info]: Finished load of ShaderPermutation batch [0.10s and 4 frames at 24 ms/frame avg, 19 ms/update peak, 0.09s IO wait], 102 item(s)
+3.518 Sys [Info]: Loaded TOC for Dx9/B.Shader (took 0.09ms, loaded 69 entries, found 1 deleted)
+3.518 Sys [Info]: Loaded TOC for Dx9/H.Shader (took 0.18ms, loaded 180 entries, found 9 deleted)
+3.574 Sys [Info]: Loaded TOC for Dx9/H.Texture (took 39.8ms, loaded 53606 entries, found 260 deleted)
+3.632 Sys [Info]: Loaded TOC for Dx9/B.Texture (took 35.3ms, loaded 46149 entries, found 564 deleted)
+3.684 Sys [Info]: Loaded TOC for Dx9/F.Texture (took 33.9ms, loaded 42779 entries, found 382 deleted)
+3.703 Sys [Info]: Loaded TOC for Dx9/B.Texture_en (took 0.11ms, loaded 12 entries, found 0 deleted)
+3.703 Sys [Info]: Loaded TOC for Dx9/H.Texture_en (took 0.07ms, loaded 12 entries, found 0 deleted)
+4.038 Sys [Info]: Finished load of Font batch [0.54s and 24 frames at 22 ms/frame avg, 46 ms/update peak, 0.07s IO wait], 1 item(s)
+4.050 Sys [Info]: Loaded TOC for Windows/H.Misc_xx (took 12.8ms, loaded 10643 entries, found 383 deleted, spot-loaded)
+4.097 Sys [Info]: Loaded TOC for Windows/B.Misc_xx (took 13.1ms, loaded 10643 entries, found 1506 deleted, spot-loaded)
+4.174 Sys [Error]: Could not find game rules: /EE/Types/GameRules/DefaultGameRules
+4.174 Sys [Error]: Required by game config /EE/Types/GameRules/GameConfig
+4.174 Sys [Error]: Failed to create run-time type: DefaultGameRules (parent GameRules is abstract)
+4.174 Sys [Error]: Could not create /EE/Types/GameRules/DefaultGameRules as a GameRules
+4.174 Sys [Error]: Could not find game rules: /EE/Types/GameRules/MultiplayerGameRules
+4.174 Sys [Error]: Required by game config /EE/Types/GameRules/GameConfig
+4.174 Sys [Error]: Failed to create run-time type: MultiplayerGameRules (parent GameRules is abstract)
+4.174 Sys [Error]: Could not create /EE/Types/GameRules/MultiplayerGameRules as a GameRules
+4.174 Sys [Error]: Could not use game rules: /EE/Types/GameRules/DefaultGameRules (broken)
+4.174 Sys [Error]: Required by game config /EE/Types/GameRules/GameConfig
+4.174 Sys [Error]: Could not use game rules: /EE/Types/GameRules/MultiplayerGameRules (broken)
+4.174 Sys [Error]: Required by game config /EE/Types/GameRules/GameConfig
+4.217 Sys [Info]: Spot-loading /EE/Types/UISys/FontMapper during batch loading!
+4.220 Sys [Info]: Flushing async load of /Lotus/Interface/ModLibrary_l.swf
+4.226 Sys [Info]: Flush completed.
+4.260 Sys [Info]: Finished load of Misc batch [0.22s and 8 frames at 28 ms/frame avg, 46 ms/update peak, 0.08s IO wait], 406 item(s)
+4.331 Sys [Info]: Finished load of Texture batch [0.07s and 4 frames at 18 ms/frame avg, 1 ms/update peak, 0.04s IO wait], 225 item(s)
+4.402 Sys [Info]: /Lotus/Characters/Tenno/TennoRangeOfMotion_physics.fbx built 30 objects in 3.02 ms
+4.402 Sys [Info]: Finished load of AnimRetarget batch [0.07s and 4 frames at 18 ms/frame avg, 3 ms/update peak, 0.07s IO wait], 4 item(s)
+4.402 Sys [Info]: Resource load completed in one pass and 1.1s (I/O ~= 3.2%, inherited 0 of 800)
+4.402 Sys [Info]: Frames issuing: 13, frames loading: 1, frames retiring: 46
+4.402 Sys [Info]: Total budget min: 0.00ms, max: 0.00ms, avg: 0.00ms, stddev: 0.00ms, num samples: 47, samples below 2.00ms: 47
+4.402 Sys [Info]: Total time min: 0.02ms, max: 46.0ms, avg: 6.36ms, stddev: 12.2ms, num samples: 46, samples below 2.00ms: 31
+4.402 Sys [Info]: ResLoader time min: 0.00ms, max: 46.0ms, avg: 1.60ms, stddev: 7.09ms, num samples: 46, samples below 2.00ms: 42
+4.402 Sys [Info]: CacheMgr min: 0.01ms, max: 45.6ms, avg: 4.70ms, stddev: 10.2ms, num samples: 47, samples below 2.00ms: 34
+4.420 Net [Info]: UPnP enabled.
+4.420 Net [Info]: NAT-PMP enabled.
+4.420 Sys [Info]: Spot-building /EE/Types/Net/UDPDriver
+4.420 Sys [Info]: Initializing UPnP
+4.423 Sys [Info]: Spot-building /EE/Sounds/Mixer/MusicSubmixCfg
+4.423 Sys [Info]: Spot-building /EE/Sounds/Mixer/DialogCfg
+4.423 Sys [Info]: Spot-building /EE/Sounds/Mixer/MPNarrativeDialogMixerCfg
+4.423 Sys [Info]: Spot-building /EE/Sounds/Mixer/OrdisDialogMixerCfg
+4.423 Sys [Info]: Spot-building /EE/Types/Input/GamepadPresetOne
+4.423 Sys [Info]: Spot-building /EE/Types/Input/GamepadPresetTwo
+4.427 Sys [Info]: Profile hash on read: D72AE87AE378A511FF4BA25AC1C5F3AA
+4.427 Sys [Info]: Serializing profile...
+4.434 Sys [Info]: Spot-building /Lotus/Types/Boosters/CreditBooster
+4.434 Sys [Info]: Spot-building /Lotus/Types/Boosters/AffinityBooster
+4.434 Sys [Info]: Spot-building /Lotus/Types/Boosters/ResourceDropChanceBooster
+4.435 Sys [Info]: Spot-building /Lotus/Types/Boosters/ResourceAmountBooster
+4.435 Sys [Info]: Spot-building /EE/Types/Input/LoadingInputFilter
+4.435 Sys [Info]: Spot-building /EE/Types/Input/SkippableVideoInputFilter
+4.435 Sys [Info]: Spot-building /EE/Editor/ToolMenus/Menus/EmptyMenu
+4.436 Sys [Info]: Spot-building /EE/Types/Drivers/GraphicsWorker
+4.436 Sys [Info]: Spot-building /EE/Types/Drivers/Dx11PCDriver
+4.447 Sys [Info]: Getting INATEventManager
+4.682 Gfx [Info]: Found D3D adapter 0: NVIDIA GeForce GTX 1050 Ti (D3D_FEATURE_LEVEL_10_1)
+4.693 Gfx [Info]: Borderless mode. Desktop resolution is 1920x1080
+4.934 Gfx [Info]: Using D3D adapter 0: NVIDIA GeForce GTX 1050 Ti VendorId: 0x10DE DeviceId: 0x1C82 SubSysId: 0x62553842 Revision: 161
+4.934 Gfx [Info]: Dedicated Video Memory: 4GB
+4.934 Gfx [Info]: Shared System Memory: 8GB
+4.973 Sys [Info]: NVIDIA driver version is: 41935 (Driver string: r419_29)
+4.973 Gfx [Info]: DriverConcurrentCreates are supported
+4.973 Gfx [Info]: Device supports DXGI_FORMAT_B5G6R5_UNORM
+5.036 Gfx [Info]: Using a minimum sync-interval of 30.0Hz
+5.040 Sys [Info]: Driver registered: Dx11PCDriver Supported types: [Texture, VideoTexture, Material, Shader, ShaderPermutation, VertexInputLayout, Mesh]
+5.040 Sys [Info]: Spot-loading /EE/Shaders/CombinerFXFill.hlsl during batch loading!
+5.043 Sys [Info]: Spot-loading /EE/Shaders/Distortion.hlsl during batch loading!
+5.046 Sys [Info]: Spot-loading /Lotus/Shaders/SpotGlow.hlsl during batch loading!
+5.049 Sys [Info]: Spot-loading /EE/Shaders/Emissive.hlsl during batch loading!
+5.052 Sys [Info]: Spot-loading /EE/Shaders/PBRFill.hlsl during batch loading!
+5.056 Sys [Info]: Spot-loading /EE/Shaders/PBR.hlsl during batch loading!
+5.059 Sys [Info]: Spot-loading /EE/Shaders/Lighting/ShadowMap.hlsl during batch loading!
+5.062 Sys [Info]: Spot-loading /EE/Shaders/Lighting/ShadowProject.hlsl during batch loading!
+5.065 Sys [Info]: Spot-loading /EE/Shaders/Lighting/OmniShadow.hlsl during batch loading!
+5.068 Sys [Info]: Spot-loading /EE/Shaders/Lighting/ShadowLightMap.hlsl during batch loading!
+5.071 Sys [Info]: Spot-loading /EE/Shaders/Lighting/OmniShadowLightMap.hlsl during batch loading!
+5.073 Sys [Info]: Spot-loading /EE/Shaders/Lighting/ProjectOnly.hlsl during batch loading!
+5.076 Sys [Info]: Spot-loading /EE/Shaders/PostFX/EdgeHighlightNormal.hlsl during batch loading!
+5.079 Sys [Info]: Spot-loading /EE/Shaders/Depth.hlsl during batch loading!
+5.082 Sys [Info]: Spot-loading /EE/Shaders/PostFX/LocalReflection.hlsl during batch loading!
+5.085 Sys [Info]: Spot-loading /EE/Shaders/Lighting/MotionBlur.hlsl during batch loading!
+5.087 Sys [Info]: Spot-loading /EE/Editor/Darkitect/Materials/Shaders/UnlitAmbient.hlsl during batch loading!
+5.090 Sys [Info]: Spot-loading /EE/Shaders/NotLit.hlsl during batch loading!
+5.092 Sys [Info]: Spot-loading /EE/Shaders/Particles/LensFlare.hlsl during batch loading!
+5.095 Sys [Info]: Spot-loading /EE/Shaders/SDFProcedurals.hlsl during batch loading!
+5.098 Sys [Info]: Spot-loading /EE/Shaders/FlashProcedurals.hlsl during batch loading!
+5.101 Sys [Info]: Spot-loading /EE/Shaders/Projectors/ProjectedBadge.hlsl during batch loading!
+5.104 Sys [Info]: Spot-loading /EE/Shaders/Particles/GPUParticlesDraw.hlsl during batch loading!
+5.106 Sys [Info]: Spot-loading /EE/Shaders/Particles/ParticleShading.hlsl during batch loading!
+5.109 Sys [Info]: Spot-loading /EE/Shaders/Particles/SmokeSpriteShading.hlsl during batch loading!
+5.113 Sys [Info]: Found 455 items to load (1ms) [Heap: 192,618,976/193,265,664 Footprint: 275,456,000 Handles: 605]
+5.147 Sys [Info]: Finished load of CharacterCodesCache batch [0.03s and 2 frames at 17 ms/frame avg, 0 ms/update peak, 0.03s IO wait], 2 item(s)
+5.251 Sys [Info]: Finished load of ShaderPermutation batch [0.10s and 6 frames at 17 ms/frame avg, 3 ms/update peak, 0.10s IO wait], 102 item(s)
+5.328 Sys [Info]: Finished load of Misc batch [0.08s and 4 frames at 19 ms/frame avg, 5 ms/update peak, 0.08s IO wait], 95 item(s)
+5.550 Sys [Info]: Finished load of Texture batch [0.22s and 10 frames at 22 ms/frame avg, 31 ms/update peak, 0.15s IO wait], 225 item(s)
+5.550 Sys [Info]: Resource load completed in one pass and 0.4s (I/O ~= 23%, inherited 25 of 455)
+5.550 Sys [Info]: Frames issuing: 5, frames loading: 1, frames retiring: 22
+5.550 Sys [Info]: Total budget min: 0.00ms, max: 0.00ms, avg: 0.00ms, stddev: 0.00ms, num samples: 23, samples below 2.00ms: 23
+5.550 Sys [Info]: Total time min: 0.02ms, max: 30.8ms, avg: 2.97ms, stddev: 6.74ms, num samples: 22, samples below 2.00ms: 15
+5.550 Sys [Info]: ResLoader time min: 0.00ms, max: 0.64ms, avg: 0.09ms, stddev: 0.15ms, num samples: 22, samples below 2.00ms: 22
+5.550 Sys [Info]: CacheMgr min: 0.00ms, max: 30.8ms, avg: 2.84ms, stddev: 6.61ms, num samples: 23, samples below 2.00ms: 16
+5.567 Gfx [Info]: Creating Graphics Worker Thread
+5.568 Sys [Info]: Spot-building /Lotus/Sounds/ReverbSettings/Default/DefaultMedium
+5.568 Sys [Info]: Spot-building /EE/Sounds/ReverbSettings/Generic/None
+5.568 Sys [Info]: Spot-building /EE/Sounds/ReverbSettings/Effects/Slomo
+5.568 Sys [Info]: Spot-building /EE/Sounds/OcclusionSettings/Default
+5.568 Sys [Info]: Spot-building /EE/Sounds/OcclusionSettings/BackDrop
+5.568 Sys [Info]: Spot-building /EE/Sounds/OcclusionSettings/HeadOcclusion
+5.568 Sys [Info]: Spot-building /EE/Sounds/OcclusionSettings/DefaultObstruction
+5.568 Sys [Info]: Spot-building /EE/Sounds/DistanceFxSettings/Default
+5.568 Sys [Info]: Spot-building /Lotus/Sounds/ReverbSettings/Distance/DefaultDistance
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/HitNotifications/HitNotifications
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/HitNotifications/HitNotificationsGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/HitNotifications/HitNotificationsPitch
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/PlayerMovement/PlayerMovement
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/PlayerMovement/PlayerMovementGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/WarframeFootsteps
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/FoleySubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensity
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityWeapons2DTailGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/Weapons2DTailLayer
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityWeapons3DMaxInstance
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityWeapons3DSentinelGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/WeaponsSentinel3D
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityWeaponsMelee3DGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityWeaponsMeleeImpactsAltLocalGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/HEMeleeSurface2DAlt
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/HESubmix2D
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/HESubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityWeaponsMeleeAttacksGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/HEMeleeAttacks
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/HESubmix3D
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityWeaponsBeamLoopImpactsAltLocalGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/HELoopSurface2DAlt
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityAmbienceGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityAmbienceBackgroundGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/AmbientBackground
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityAmbienceUnderwaterGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/UnderwaterAmbienceSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityAmbienceArchwingGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/ArchwingAmbienceSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityAmbienceWeatherGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/AmbienceWeatherSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityEnemyFootstepsGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/FoleyFootstepsLouder
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityEnemyFootstepsMaxInstance
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityEnemyFoleyGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/FoleyCharactersLouder
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityEnemyFoleyMaxInstance
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityArchwingFlightGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/Archwing/ArchwingFlightSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/Archwing/ArchwingSoundFx
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityBulletImpactsGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/HEBulletSurface
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/HEBulletSurfaceSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityWhizzbysGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/HEBulletWhizzby
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityEnemyInfestedVocalsMaxInstance
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/InfestedEnemyVocals
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/Dialog
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/DialogSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityVehicleLoopGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/Vehicles3DLoops
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityPowers3DMaxInstance
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/Powers3DSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityPowersAILoopGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/PowersAILoop
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityProcDamageGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityMOALaserGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/Weapons3DMixers/MoaLaser3D
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/Weapons3DLouder
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityAmbienceGainWithinRange
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityDropshipGain
+5.568 Sys [Info]: Spot-building /Lotus/Sounds/Enemies/Venus/VenusDropship/VenusDropshipLarge/Mixers/VenusDropShipLargeLoop
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/CombatIntensity/CombatIntensityArchwingWeapons3DMaxInstance
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/Archwing/ArchwingWeapons3DLouder
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/AmbienceRaycast/AmbienceRaycasts
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/AmbienceRaycast/AmbienceRaycastAmbienceExteriorGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/VenusOpenWorld/Exterior/VenusLandscapeExtAmbienceSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/AmbienceRaycast/AmbienceRaycastAmbienceExteriorOcclusion
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/AmbienceRaycast/AmbienceRaycastAmbienceInteriorGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/VenusOpenWorld/Interior/VenusLandscapeInteriorAmbienceSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/TimeOfDay
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/EidolonDayGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/EidolonPlains/Exterior/EidolonExtAmbientDayBackground
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/EidolonPlains/Exterior/EidolonExtAmbienceDaySubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/EidolonPlains/Exterior/EidolonExtAmbienceSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/EidolonNightGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/EidolonPlains/Exterior/EidolonExtAmbientNightBackground
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/EidolonPlains/Exterior/EidolonExtAmbienceNightSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/CetusDayGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/EidolonPlains/OstronVillage/OstronVillageDayAmbientBackground
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/EidolonPlains/OstronVillage/OstronVillageAmbienceSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/CetusNightGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/EidolonPlains/OstronVillage/OstronVillageNightAmbientBackground
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/EidolonInteriorDayGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/EidolonPlains/Interior/EidolonInteriorDayAmbientOneOffs
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/EidolonPlains/Interior/EidolonInteriorAmbienceSubmix
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/EidolonInteriorNightGain
+5.568 Sys [Info]: Spot-building /EE/Sounds/Mixer/EidolonPlains/Interior/EidolonInteriorNightAmbientOneOffs
+5.568 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/VenusExteriorBedGain
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/VenusOpenWorld/Exterior/VenusLandscapeExtAmbientCommonBackground
+5.569 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/VenusExteriorAnimalsPitch
+5.569 Sys [Info]: Spot-building /Lotus/Sounds/Ambience/VenusOpenWorld/VenusLandscape/ElevationBased/Low/MixerVenusLandscapeLowCreatures
+5.569 Sys [Info]: Spot-building /Lotus/Sounds/Ambience/VenusOpenWorld/VenusLandscape/ElevationBased/Low/MixerVenusLandscapeLow
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/VenusOpenWorld/Exterior/VenusLandscapeExtAmbientCommonOneOffs
+5.569 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/VenusExteriorAnimalsGain
+5.569 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/VenusExteriorWindGain
+5.569 Sys [Info]: Spot-building /Lotus/Sounds/Ambience/VenusOpenWorld/VenusLandscape/OneOffs/VenusLandscapeDayWindGusts
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/VenusOpenWorld/Exterior/VenusLandscapeExtAmbienceDaySubmix
+5.569 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/VenusExteriorBedPitch
+5.569 Sys [Info]: Spot-building /EE/Sounds/RTPC/TimeOfDay/VenusExteriorWindPitch
+5.569 Sys [Info]: Spot-building /EE/Sounds/RTPC/AmbienceRaycast/SentientLair/SentientLairAmbienceRaycasts
+5.569 Sys [Info]: Spot-building /EE/Sounds/RTPC/AmbienceRaycast/SentientLair/SentientLairAmbienceRaycastExteriorGain
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/SentientLair/SentientLairAmbientGlobalExterior
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/SentientLair/SentientLairAmbientForegroundClose
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/AmbientForegroundClose
+5.569 Sys [Info]: Spot-building /EE/Sounds/RTPC/AmbienceRaycast/SentientLair/SentientLairAmbienceRaycastInteriorGain
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/SentientLair/SentientLairAmbientGlobalInterior
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/ReverbUpmix
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/SpeakerSetup_Mono
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/SpeakerSetup_Stereo
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/SpeakerSetup_5_1
+5.569 Sys [Info]: Spot-building /EE/Sounds/Mixer/SpeakerSetup_7_1
+5.569 Sys [Info]: Spot-building /Lotus/Sounds/ReverbSettings/Default/DefaultSmall
+5.569 Sys [Info]: Spot-building /Lotus/Sounds/ReverbSettings/Default/DefaultLarge
+5.584 Sys [Info]: Spot-building /EE/Types/Drivers/NullSoundDriver
+5.584 Sys [Info]: Spot-building /EE/Types/Drivers/XAudio2Driver
+5.682 Snd [Diag]: XAudio2: Found device #0: {0.0.0.00000000}.{73458b61-8d00-444d-91d7-5f31808c64d4} (Headset Earphone (5- Razer Kraken 7.1 Chroma))
+5.682 Snd [Diag]: XAudio2: Stereo output (2 channels)
+5.827 Sys [Diag]: XAudio2: 48,000Hz Master(48,000Hz Native)
+5.829 Snd [Info]: XAudio2Driver Initialized
+5.829 Sys [Info]: Driver registered: XAudio2Driver Supported types: [OcclusionSetting, Bank, DistanceFxSetting, DspEffect, MixEffect, SoundInstanceRtpcContainer, MixingGroup, ReverbSetting, Sample]
+5.830 Sys [Info]: Found 72 items to load (0ms) [Heap: 198,104,128/204,341,248 Footprint: 319,311,872 Handles: 668]
+5.898 Sys [Info]: Finished load of Misc batch [0.07s and 4 frames at 17 ms/frame avg, 1 ms/update peak, 0.07s IO wait], 69 item(s)
+5.898 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 3 item(s)
+5.898 Sys [Info]: Resource load completed in one pass and 0.1s (I/O ~= 5.2%, inherited 0 of 72)
+5.898 Sys [Info]: Frames issuing: 1, frames loading: 1, frames retiring: 4
+5.916 Sys [Info]: Spot-building /EE/Types/Sound/Mixer
+5.916 Sys [Info]: Spot-building /EE/Sounds/Mixer/MusicSubmix
+5.917 Sys [Info]: Spot-building /EE/Sounds/Mixer/MusicCombat
+5.917 Sys [Info]: Spot-building /EE/Sounds/Mixer/GrnForestAmbience/GrnForestAmbientForeground
+5.918 Sys [Info]: Spot-building /EE/Sounds/Mixer/Sacrifice/SacrificeVitruvianMemory/SacrificeVitruvianMemoryAmbientForegroundClose
+5.919 Sys [Info]: Spot-building /Lotus/Sounds/Enemies/GrineerThumperBot/GrnThumperBotVocalSub
+5.920 Sys [Info]: Spot-building /Lotus/Sounds/Ambience/EidolonPlains/EidolonLandscape/Props/Loops/EidolonPlainsRain
+5.920 Sys [Info]: Spot-building /Lotus/Sounds/Enemies/Teralyst/Abilities/TeralystArtilleryAttacks
+5.921 Sys [Info]: Spot-building /Lotus/Sounds/Enemies/Teralyst/Vocals/TeralystVocalSub
+5.921 Sys [Info]: Spot-building /Lotus/Sounds/Enemies/Teralyst/Vomvalyst/VomvalystSub
+5.921 Sys [Info]: Spot-building /Lotus/Sounds/Gameplay/BardQuest/BardBossFightNotes/BardBossFightCorruptedNotes
+5.923 Sys [Info]: Spot-building /Lotus/Sounds/Enemies/Corpus/ArachnoidCamper/MixingGroups/CrpArachnoidCamperAbilitiesSub
+5.923 Sys [Info]: Spot-building /Lotus/Sounds/Enemies/Corpus/ArachnoidCamper/MixingGroups/CrpArachnoidCamperVocalSub
+5.923 Sys [Info]: Spot-building /Lotus/Sounds/Enemies/Corpus/ArachnoidCamper/Steps/CrpArachnoidCamperSteps
+5.923 Sys [Info]: Spot-building /Lotus/Sounds/Enemies/Corpus/ArachnoidWraith/MixingGroups/CrpArachnoidWraithVocalSub
+5.924 Sys [Info]: Spot-building /EE/Sounds/Mixer/RailJack/RailJackEnemyVehicles
+5.924 Sys [Info]: Spot-building /Lotus/Sounds/Characters/Pets/Moa/MoaPetVocalSub
+5.924 Sys [Info]: Spot-building /Lotus/Sounds/Vehicles/RailJack/RailJackShip/RailJackShipEngineSubmix
+5.924 Sys [Info]: Spot-building /Lotus/Sounds/Vehicles/RailJack/RailJackShip/RailJackShipSubmix
+5.994 Input [Info]: Found Keyboard (Enhanced), emulated
+5.995 Input [Info]: Found Mouse, 8-buttons, emulated
+9.459 Sys [Info]: No UPnP gateway found
+9.463 Net [Info]: Checking 1 gateways for NAT-PMP support
+9.466 Sys [Info]: No NAT-PMP gateway found
+11.042 Input [Info]: Enumerated STEAM controller: 0
+11.045 Sys [Info]: Spot-building /EE/Types/Input/Xbox360GamepadMap
+11.046 Sys [Info]: Driver registered: InputMgrWin Supported types: []
+11.046 Input [Info]: InputMgrImpl Initialized
+11.046 Sys [Info]: Loading driver resources...
+11.047 Sys [Info]: Found 2,196 items to load (0ms) [Heap: 199,883,440/204,341,248 Footprint: 321,314,816 Handles: 724]
+11.048 Gfx [Info]: Creating render target: /EE/Materials/Frame
+11.049 Sys [Info]: CreateRenderTargetView /EE/Materials/Frame 1920x1080
+11.049 Gfx [Info]: Creating render target: /EE/Materials/FrameDepth
+11.049 Sys [Info]: CreateDepthStencilView /EE/Materials/FrameDepth 1920x1080
+11.049 Gfx [Info]: Creating render target: /EE/Materials/FrameDepthStencil
+11.049 Gfx [Info]: Creating render target: /EE/Materials/AuxTarget0
+11.050 Sys [Info]: CreateRenderTargetView /EE/Materials/AuxTarget0 1920x1080
+11.050 Gfx [Info]: Creating render target: /EE/Materials/AuxTarget1
+11.050 Sys [Info]: CreateRenderTargetView /EE/Materials/AuxTarget1 1920x1080
+11.050 Gfx [Info]: Creating render target: /EE/Materials/AuxTarget2
+11.050 Sys [Info]: CreateRenderTargetView /EE/Materials/AuxTarget2 1920x1080
+11.050 Gfx [Info]: Creating render target: /EE/Materials/BlursTexture
+11.051 Sys [Info]: CreateRenderTargetView /EE/Materials/BlursTexture 960x540
+11.051 Gfx [Info]: Creating render target: /EE/Materials/SceneScaledTexture
+11.052 Sys [Info]: CreateRenderTargetView /EE/Materials/SceneScaledTexture 960x540
+11.052 Gfx [Info]: Creating render target: /EE/Materials/BrightPassTexture
+11.052 Sys [Info]: CreateRenderTargetView /EE/Materials/BrightPassTexture 960x540
+11.052 Gfx [Info]: Creating render target: /EE/Materials/DownsampledTarget
+11.052 Sys [Info]: CreateRenderTargetView /EE/Materials/DownsampledTarget 960x540
+11.052 Gfx [Info]: Creating render target: /EE/Materials/DownsampledDepth
+11.053 Sys [Info]: CreateDepthStencilView /EE/Materials/DownsampledDepth 960x540
+11.053 Gfx [Info]: Creating render target: /EE/Materials/BloomTexture0
+11.053 Sys [Info]: CreateRenderTargetView /EE/Materials/BloomTexture0 480x270
+11.053 Gfx [Info]: Creating render target: /EE/Materials/BloomTexture1
+11.054 Sys [Info]: CreateRenderTargetView /EE/Materials/BloomTexture1 240x135
+11.054 Gfx [Info]: Creating render target: /EE/Materials/BloomTexture2
+11.054 Sys [Info]: CreateRenderTargetView /EE/Materials/BloomTexture2 120x67
+11.054 Gfx [Info]: Creating render target: /EE/Materials/BloomTexture3
+11.054 Sys [Info]: CreateRenderTargetView /EE/Materials/BloomTexture3 60x33
+11.054 Gfx [Info]: Creating render target: /EE/Materials/BloomTexture4
+11.054 Sys [Info]: CreateRenderTargetView /EE/Materials/BloomTexture4 30x16
+11.054 Gfx [Info]: Creating render target: /EE/Materials/PortraitTarget
+11.055 Sys [Info]: CreateRenderTargetView /EE/Materials/PortraitTarget 640x640
+11.055 Gfx [Info]: Creating render target: /EE/Materials/ShadowMapHigh
+11.055 Sys [Info]: CreateDepthStencilView /EE/Materials/ShadowMapHigh 2048x2048
+11.055 Gfx [Info]: Creating render target: /EE/Materials/OmniShadowMapVSDCT
+11.055 Gfx [Info]: Creating dynamic cube texture: /Textures/DynamicCubeMap0
+11.056 Gfx [Info]: Creating render target: /EE/Materials/FinalLuminance0
+11.057 Sys [Info]: CreateRenderTargetView /EE/Materials/FinalLuminance0 1x1
+11.057 Gfx [Info]: Creating render target: /EE/Materials/FinalLuminance1
+11.057 Sys [Info]: CreateRenderTargetView /EE/Materials/FinalLuminance1 1x1
+11.057 Gfx [Info]: Creating render target: /EE/Materials/LuminanceDownsample0
+11.057 Sys [Info]: CreateRenderTargetView /EE/Materials/LuminanceDownsample0 240x135
+11.057 Gfx [Info]: Creating render target: /EE/Materials/LuminanceDownsample1
+11.057 Sys [Info]: CreateRenderTargetView /EE/Materials/LuminanceDownsample1 60x33
+11.058 Gfx [Info]: Creating render target: /EE/Materials/LuminanceDownsample2
+11.058 Sys [Info]: CreateRenderTargetView /EE/Materials/LuminanceDownsample2 15x8
+11.058 Gfx [Info]: Creating render target: /EE/Materials/BrunetonAtmosphere
+11.058 Sys [Info]: CreateRenderTargetView /EE/Materials/BrunetonAtmosphere 512x512
+11.058 Gfx [Info]: Creating render target: /EE/Materials/HZB
+11.059 Sys [Info]: CreateRenderTargetView /EE/Materials/HZB 960x540
+11.059 Gfx [Info]: Creating render target: /EE/Materials/HZBQueryOutput0
+11.059 Sys [Info]: CreateRenderTargetView /EE/Materials/HZBQueryOutput0 128x128
+11.059 Gfx [Info]: Creating render target: /EE/Materials/HZBQueryOutput1
+11.059 Sys [Info]: CreateRenderTargetView /EE/Materials/HZBQueryOutput1 128x128
+11.059 Sys [Info]: Finished load of Flyweight batch [0.01s and 0 frames at 11 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 28 item(s)
+11.260 Sys [Info]: Finished load of CharacterCodesCache batch [0.20s and 11 frames at 18 ms/frame avg, 14 ms/update peak, 0.17s IO wait], 110 item(s)
+11.384 Sys [Info]: Finished load of ShaderPermutation batch [0.12s and 7 frames at 18 ms/frame avg, 6 ms/update peak, 0.12s IO wait], 118 item(s)
+11.601 Sys [Info]: Finished load of Font batch [0.22s and 12 frames at 18 ms/frame avg, 8 ms/update peak, 0.07s IO wait], 3 item(s)
+11.686 Sys [Error]: Could not find material: /EE/Interface/Graphics/PlatformKeys/PCKeyboardPiece
+11.686 Sys [Error]: Required by platform icon collection /EE/Types/GraphicsRes/PlatformIconCollection
+11.686 Sys [Error]: Could not use material: /EE/Interface/Graphics/PlatformKeys/PCKeyboardPiece (broken)
+11.686 Sys [Error]: Required by platform icon collection /EE/Types/GraphicsRes/PlatformIconCollection
+11.686 Sys [Error]: Could not find material: /EE/Interface/Graphics/PlatformKeys/PCKeyboardPieceWide
+11.686 Sys [Error]: Required by platform icon collection /EE/Types/GraphicsRes/PlatformIconCollection
+11.687 Sys [Error]: Could not use material: /EE/Interface/Graphics/PlatformKeys/PCKeyboardPiece (broken)
+11.687 Sys [Error]: Required by platform icon collection /EE/Types/GraphicsRes/PlatformIconCollection
+11.687 Sys [Error]: Could not use material: /EE/Interface/Graphics/PlatformKeys/PCKeyboardPiece (broken)
+11.687 Sys [Error]: Required by platform icon collection /EE/Types/GraphicsRes/PlatformIconCollection
+11.687 Sys [Error]: Could not use material: /EE/Interface/Graphics/PlatformKeys/PCKeyboardPieceWide (broken)
+11.687 Sys [Error]: Required by platform icon collection /EE/Types/GraphicsRes/PlatformIconCollection
+11.691 Sys [Error]: Could not use material: /EE/Interface/Graphics/PlatformKeys/PCKeyboardPiece (broken)
+11.691 Sys [Error]: Required by platform icon collection /EE/Types/GraphicsRes/PlatformIconCollection
+11.691 Sys [Error]: Could not use material: /EE/Interface/Graphics/PlatformKeys/PCKeyboardPiece (broken)
+11.691 Sys [Error]: Required by platform icon collection /EE/Types/GraphicsRes/PlatformIconCollection
+11.691 Sys [Error]: Could not use material: /EE/Interface/Graphics/PlatformKeys/PCKeyboardPieceWide (broken)
+11.691 Sys [Error]: Required by platform icon collection /EE/Types/GraphicsRes/PlatformIconCollection
+11.779 Sys [Info]: Finished load of Misc batch [0.18s and 8 frames at 22 ms/frame avg, 25 ms/update peak, 0.09s IO wait], 1100 item(s)
+11.779 Gfx [Info]: Creating dynamic volume texture: /EE/Materials/ColorCorrectionVolume
+11.780 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 1 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 88 item(s)
+12.054 Sys [Info]: Finished load of Texture batch [0.27s and 12 frames at 23 ms/frame avg, 38 ms/update peak, 0.20s IO wait], 539 item(s)
+12.121 Sys [Info]: Finished load of AnimRetarget batch [0.07s and 4 frames at 17 ms/frame avg, 3 ms/update peak, 0.07s IO wait], 2 item(s)
+12.121 Sys [Info]: Resource load completed in one pass and 1.1s (I/O ~= 27%, inherited 132 of 2196)
+12.121 Sys [Info]: Frames issuing: 11, frames loading: 3, frames retiring: 54
+12.121 Sys [Info]: Total budget min: 0.00ms, max: 0.00ms, avg: 0.00ms, stddev: 0.00ms, num samples: 55, samples below 2.00ms: 55
+12.121 Sys [Info]: Total time min: 0.02ms, max: 38.2ms, avg: 3.12ms, stddev: 6.85ms, num samples: 54, samples below 2.00ms: 39
+12.121 Sys [Info]: ResLoader time min: 0.00ms, max: 24.7ms, avg: 0.81ms, stddev: 3.75ms, num samples: 54, samples below 2.00ms: 51
+12.121 Sys [Info]: CacheMgr min: 0.00ms, max: 38.1ms, avg: 2.26ms, stddev: 5.95ms, num samples: 55, samples below 2.00ms: 43
+12.139 Gfx [Info]: Creating dynamic texture: /Textures/DynamicTexture0
+12.139 Gfx [Info]: Creating dynamic texture: /Textures/DynamicTexture1
+12.142 Sys [Info]: Spot-building /EE/Materials/GPUParticlesPosTarget0
+12.142 Sys [Info]: Spot-building /EE/Materials/GPUParticlesPosTarget1
+12.142 Sys [Info]: Spot-building /EE/Materials/GPUParticlesVelTarget0
+12.142 Sys [Info]: Spot-building /EE/Materials/GPUParticlesVelTarget1
+12.142 Sys [Info]: Spot-building /EE/Materials/Defaults/GPUParticlesInjectionDefMaterial
+12.142 Sys [Info]: Spot-building /EE/Materials/Defaults/GPUParticlesSimDefMaterial
+12.142 Gfx [Info]: Creating render target: /EE/Materials/GPUParticlesPosTarget0
+12.142 Sys [Info]: CreateRenderTargetView /EE/Materials/GPUParticlesPosTarget0 1024x1024
+12.142 Gfx [Info]: Creating render target: /EE/Materials/GPUParticlesPosTarget1
+12.143 Sys [Info]: CreateRenderTargetView /EE/Materials/GPUParticlesPosTarget1 1024x1024
+12.143 Gfx [Info]: Creating render target: /EE/Materials/GPUParticlesVelTarget0
+12.143 Sys [Info]: CreateRenderTargetView /EE/Materials/GPUParticlesVelTarget0 1024x1024
+12.143 Gfx [Info]: Creating render target: /EE/Materials/GPUParticlesVelTarget1
+12.144 Sys [Info]: CreateRenderTargetView /EE/Materials/GPUParticlesVelTarget1 1024x1024
+12.144 Sys [Info]: Spot-loading /EE/Materials/Defaults/GPUParticlesInjectionDefMaterial
+12.146 Sys [Info]: Spot-building /EE/Shaders/Particles/GPUParticlesInject.hlsl
+12.146 Sys [Info]: Spot-loading /EE/Shaders/Particles/GPUParticlesInject.hlsl
+12.228 Sys [Info]: Spot-loading /EE/Materials/Defaults/GPUParticlesSimDefMaterial
+12.231 Sys [Info]: Spot-building /EE/Shaders/Particles/GPUParticlesSim.hlsl
+12.231 Sys [Info]: Spot-loading /EE/Shaders/Particles/GPUParticlesSim.hlsl
+12.393 Input [Info]: GamepadDeviceSteam::InitMapping() called with unknown InputFilter 'InputFilter' (may need adding to SteamActionSets in InputController)
+12.393 Sys [Info]: FlashMgrImpl::Initialize
+12.393 Sys [Info]: Driver registered: FlashDriver Supported types: [FlashMovie]
+12.394 Sys [Info]: Found 392 items to load (0ms) [Heap: 232,646,144/243,204,096 Footprint: 539,578,368 Handles: 724]
+12.394 Sys [Info]: Finished load of Font batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 1 item(s)
+12.428 Sys [Info]: Flushing async load of /Lotus/Interface/ModLibrary_l.swf
+12.436 Sys [Info]: Flush completed.
+12.473 Sys [Info]: Finished load of Misc batch [0.08s and 4 frames at 20 ms/frame avg, 9 ms/update peak, 0.08s IO wait], 33 item(s)
+12.473 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 58 item(s)
+12.544 Sys [Info]: Finished load of AnimRetarget batch [0.07s and 4 frames at 18 ms/frame avg, 3 ms/update peak, 0.07s IO wait], 4 item(s)
+12.544 Sys [Info]: Resource load completed in one pass and 0.2s (I/O ~= 0.9%, inherited 271 of 392)
+12.544 Sys [Info]: Frames issuing: 2, frames loading: 2, frames retiring: 8
+12.561 Sys [Info]: Spot-building /Lotus/Interface/Graphics/CustomUI/FortunaStyle
+12.561 Script [Info]: UISTYLE: initialized 1
+12.561 Sys [Info]: Spot-building /Lotus/Interface/Graphics/CustomUI/Backgrounds/HelminthBackground
+12.561 Sys [Info]: Spot-building /Lotus/Interface/Backgrounds/Helminth/HelminthBackground.swf
+12.562 Script [Info]: UIBACKGROUND: initialized 1
+12.562 Sys [Info]: Spot-building /Lotus/Interface/Graphics/CustomUI/Sounds/HelminthSounds
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeOpen
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeClose
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeFocus
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeSelect
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeError
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeType
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeGridOpen
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeGridOpenTwo
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeDialogOpen
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeDialogClose
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeTooltip
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeTooltipSection
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeSelectConfirm
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeSweetenerOne
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeSweetenerTwo
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeWindowOpen
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeWindowClose
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeLoginSuccess
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeVotingStarted
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemePMReceived
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeDMReceived
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeSquadReceived
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeDragStart
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeDragEnd
+12.562 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeGearWheelTransition
+12.562 Script [Info]: UISOUNDS: initialized 1
+12.562 Sys [Info]: Spot-building /EE/Types/Physics/NormalPhysics
+12.562 Sys [Info]: Spot-building /EE/Types/Physics/AsyncPhysicsMgrDesc
+12.562 Sys [Info]: Spot-building /EE/Types/Physics/StreamingPhysicsMgrDesc
+12.562 Sys [Info]: Spot-building /EE/Types/Engine/EntityVisibility
+12.562 Sys [Info]: RegionMgrImpl::SetLevel 
+12.565 Sys [Info]: Driver registered: AnimationDriver Supported types: [AnimResourceBase, AnimRetarget]
+12.566 Sys [Info]: Spot-building /EE/Types/Npc/DangerZoneMgrImpl
+12.566 Sys [Info]: Spot-building /EE/Types/Npc/CombatManager
+12.566 Sys [Info]: Spot-building /EE/Types/Game/Avatar
+12.567 Sys [Info]: Spot-building /EE/Types/Engine/ConversationContextAction
+12.567 Sys [Info]: Spot-building /EE/Types/Npc/AgentController
+12.567 Sys [Info]: Spot-building /EE/Types/Engine/AnimController
+12.567 Sys [Info]: Spot-building /EE/Types/Engine/FinisherController
+12.567 Sys [Info]: Spot-building /EE/Types/Engine/CameraController
+12.567 Sys [Info]: Spot-building /EE/Types/Engine/ClimbController
+12.567 Sys [Info]: Spot-building /EE/Types/Engine/GrappleHookHelpers
+12.567 Sys [Info]: Spot-building /EE/Types/Engine/WallSlideController
+12.567 Sys [Info]: Spot-building /EE/Types/Game/DamageController
+12.567 Sys [Info]: Spot-building /EE/Types/Game/InjuryHandlers/StandardDeathHandler
+12.567 Sys [Info]: Spot-building /EE/Types/Game/GameActionController
+12.567 Sys [Info]: Spot-building /EE/Types/Game/GameActionData
+12.567 Sys [Info]: Spot-building /EE/Types/Game/FinisherAction
+12.567 Sys [Info]: Spot-building /EE/Interface/Widgets/Button/HudButtonA
+12.567 Sys [Info]: Spot-building /EE/Interface/Widgets/Button/HudButtonB
+12.567 Sys [Info]: Spot-building /EE/Interface/Widgets/Button/HudButtonX
+12.567 Sys [Info]: Spot-building /EE/Interface/Widgets/Button/HudButtonY
+12.567 Sys [Info]: Spot-building /EE/Interface/Widgets/Button/HudButtonCross
+12.567 Sys [Info]: Spot-building /EE/Interface/Widgets/Button/HudButtonCircle
+12.567 Sys [Info]: Spot-building /EE/Interface/Widgets/Button/HudButtonSquare
+12.567 Sys [Info]: Spot-building /EE/Interface/Widgets/Button/HudButtonTriangle
+12.567 Sys [Info]: Spot-building /EE/Interface/Graphics/PlatformKeys/ButtonGlow
+12.567 Sys [Info]: Spot-building /EE/Types/Game/InputController
+12.567 Sys [Info]: Spot-building /EE/Types/Game/AimAssist
+12.567 Sys [Info]: Spot-building /EE/Types/Game/InventoryController
+12.567 Sys [Info]: Spot-building /EE/Types/Game/UpgradeManager
+12.567 Sys [Info]: Spot-building /EE/Types/Engine/MotionController
+12.567 Sys [Info]: Spot-building /EE/Types/Physics/FullBody
+12.567 Sys [Info]: Spot-building /EE/Types/Npc/CoverReservationMgrImpl
+12.567 Sys [Info]: Spot-building /EE/Types/Npc/NpcTeam
+12.567 Sys [Info]: Spot-building /EE/Types/Npc/TeamTargeterImpl
+12.567 Sys [Info]: Spot-building /EE/Types/Npc/GroupCoverSelector
+12.567 Sys [Info]: Spot-building /EE/Types/Npc/NpcTeamUnmanaged
+12.567 Sys [Info]: Spot-building /EE/Types/Npc/ZombieTeamManagerImpl
+12.568 Sys [Info]: Spot-building /EE/Types/Npc/Encounters/EncounterManager
+12.568 Sys [Info]: Spot-building /EE/Types/Npc/Encounters/DynamicRandomEncounterHint
+12.568 Sys [Info]: Spot-building /EE/Types/Engine/Camera
+12.568 Sys [Info]: Spot-building /EE/Types/Engine/Listener
+12.570 Sys [Info]: Monitor (AOC2476) physical size detected: 52cm X 29cm.
+12.570 Sys [Info]: Client Initialized [GraphicsSysImpl, SoundSysImpl]
+12.573 Sys [Info]: Changing Key-Bindings to: /Configs/EE.cfg/LotusWindows_KeyBindings
+12.573 Sys [Info]: Found 68 items to load (0ms) [Heap: 234,759,008/243,204,096 Footprint: 540,942,336 Handles: 744]
+12.573 Sys [Info]: Started async load of flash movie: /Lotus/Interface/Progress.swf
+12.575 Input [Info]: GamepadDeviceSteam::InitMapping() called with unknown InputFilter 'InputFilter' (may need adding to SteamActionSets in InputController)
+12.594 Sys [Info]: discord_game_sdk.dll loaded
+12.615 Sys [Info]: Discord Core and managers have initialized 2
+12.659 Sys [Info]: TypeMgr cleaned 0 instances (0.00ms) and unbuilt 77 types (1.87ms) in 0.00ms
+12.659 Sys [Info]: Found 74 items to load (0ms) [Heap: 234,815,392/243,204,096 Footprint: 540,975,104 Handles: 752]
+12.727 Sys [Info]: Finished load of Misc batch [0.07s and 4 frames at 17 ms/frame avg, 1 ms/update peak, 0.07s IO wait], 27 item(s)
+12.795 Sys [Info]: Finished load of Texture batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 1 item(s)
+12.832 Sys [Info]: Finished load of AnimRetarget batch [0.04s and 2 frames at 18 ms/frame avg, 0 ms/update peak, 0.04s IO wait], 1 item(s)
+12.832 Sys [Info]: Resource load completed in one pass and 0.2s (I/O ~= 1.5%, inherited 45 of 74)
+12.832 Sys [Info]: Frames issuing: 3, frames loading: 1, frames retiring: 10
+12.832 Sys [Info]: Total budget min: 0.00ms, max: 0.00ms, avg: 0.00ms, stddev: 0.00ms, num samples: 11, samples below 2.00ms: 11
+12.832 Sys [Info]: Total time min: 0.03ms, max: 1.03ms, avg: 0.28ms, stddev: 0.35ms, num samples: 10, samples below 2.00ms: 10
+12.832 Sys [Info]: ResLoader time min: 0.00ms, max: 1.01ms, avg: 0.15ms, stddev: 0.33ms, num samples: 10, samples below 2.00ms: 10
+12.832 Sys [Info]: CacheMgr min: 0.00ms, max: 2.42ms, avg: 0.32ms, stddev: 0.73ms, num samples: 11, samples below 2.00ms: 10
+12.849 Sys [Info]: /Lotus/Levels/Proc/PlayerShip has only one segment (no objectives will be placed)
+12.849 Sys [Info]: /Lotus/Levels/Proc/PlayerShip generating layout with segments: SE
+12.849 Sys [Info]: /Lotus/Levels/Proc/PlayerShip/DmA.lp
+12.849 Sys [Info]: Generated layout in 0.0ms
+12.849 Sys [Info]: 
+12.849 Sys [Info]: S: /Lotus/Levels/Hub/LisetBridgeOperatorExpansion.level
+12.849 Sys [Info]: E: /Lotus/Levels/Proc/LisetExit.level
+12.849 Sys [Info]: Cm: /Lotus/Levels/Backdrops/GrineerQueenFortressRegion.level
+12.849 Sys [Info]: 
+12.852 Sys [Info]: Found 74 items to load (0ms) [Heap: 234,999,200/243,204,096 Footprint: 540,975,104 Handles: 752]
+12.852 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 3 item(s)
+12.852 Sys [Info]: Resource load completed in one pass and 0.0s (I/O ~= 0.0%, inherited 71 of 74)
+12.852 Sys [Info]: Frames issuing: 0, frames loading: 0, frames retiring: 0
+12.966 Sys [Info]: Generated 5 deps and 48 exclusions in 97ms (vetting took 97ms)
+12.977 Sys [Info]: Found 34,739 items to load (5ms) [Heap: 235,653,568/243,204,096 Footprint: 540,975,104 Handles: 752]
+12.977 Sys [Info]: BaseClientFramework::StopServer - client already disconnected.
+12.977 Gfx [Info]: Creating render target: /EE/Materials/AuxTarget3
+12.978 Sys [Info]: CreateRenderTargetView /EE/Materials/AuxTarget3 1920x1080
+12.978 Gfx [Info]: Creating render target: /EE/Materials/AuxTarget4
+12.978 Sys [Info]: CreateRenderTargetView /EE/Materials/AuxTarget4 1920x1080
+12.980 Sys [Info]: TypeMgr cleaned 0 instances (0.00ms) and unbuilt 21 types (1.59ms) in 0.00ms
+12.981 Sys [Info]: Cleaned 1,119 resource-objects
+12.981 Net [Info]: Local binding: localhost:4950
+12.999 Net [Info]: UDP socket created: localhost:4950 [private address: 192.168.56.1:4950]
+12.999 Net [Info]: Listening: localhost:4950
+12.999 Sys [Info]: Spot-loading /Lotus/Types/Warframetraffic.ood during batch loading!
+13.008 Sys [Info]: Loading Net Oodle DLL: oo2net_7_win64.dll
+13.014 Net [Info]: Oodle version: 2.7.3
+13.014 Net [Info]: OodleNetwork1UDP Loading; dic comp: 2058298, state 310303->294456
+13.014 Net [Info]: Compressor type: OodleLZ_Compressor_Kraken[8]
+13.114 Net [Info]:  ReplicationMgr::Initialize(1), init count=1, 0x00000226E213CBF0, master: 1
+13.114 Sys [Info]: Loading /Lotus/Levels/Proc/PlayerShip/DmA.lp
+13.114 Sys [Info]: HostRegion: Acquired 17 root types to load [Heap: 240,906,528/254,803,968 Footprint: 570,814,464 Handles: 776]
+13.118 Sys [Info]: Found 34,739 items to load (4ms) [Heap: 241,563,424/254,803,968 Footprint: 570,814,464 Handles: 776]
+13.126 Sys [Info]: Acquired 1387 resources (8ms)
+13.126 Sys [Info]: HostRegion: added layer 4294967295, level=/Lotus/Levels/Proc/PlayerShip/DmA.lp
+13.126 Sys [Error]: DisableTextureStreaming 1
+13.126 Sys [Error]: EnableTextureStreaming 1
+13.126 Sys [Info]: TexturePrioritizerImpl::Reinitialize 0.6 ms
+13.127 Net [Info]:  ReplicationMgr::Initialize(1), init count=1, 0x00000226E221E390, master: 1
+13.127 Sys [Info]: RegionMgrImpl::SetLevel /Lotus/Levels/Proc/PlayerShip/DmA.lp
+13.127 Sys [Info]: Server ready for load [Heap: 244,538,048/254,803,968 Footprint: 572,194,816 Handles: 796], sessionPlayers=1
+13.129 Sys [Info]: ResourceLoader::~ResourceLoader() in 0.04ms [Heap: 244,333,440/254,803,968 Footprint: 572,194,816 Handles: 796]
+13.129 Net [Info]: Local binding: localhost:4955
+13.130 Net [Info]: UDP socket created: localhost:4955 [private address: 192.168.56.1:4955]
+13.130 Sys [Info]: Loading Net Oodle DLL: oo2net_7_win64.dll
+13.133 Game [Info]: HostMigration::ResetOldServerConnection()
+13.133 Net [Info]:  ReplicationMgr::Initialize(1), init count=1, 0x00000226DA63B1C0, master: 0
+13.133 Sys [Info]: Client::Connect - localhost:4950
+13.133 Sys [Info]: ClientImpl::Connect sending CMSG_CONTACT message to server localhost:4950 (no session), connection: 0
+13.133 Net [Info]: Created virtual connection for: 127.0.0.1:4950 [handle: 0]
+13.133 Sys [Info]: Loaded 0/34 resources at 0 ms/frame
+13.134 Sys [Info]: Finished load of ShaderPermutation batch [0.00s and 44 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 4 item(s)
+13.135 Sys [Info]: Finished load of Font batch [0.00s and 27 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 2 item(s)
+13.141 Sys [Info]: Finished load of Misc batch [0.01s and 139 frames at 0 ms/frame avg, 2 ms/update peak, 0.00s IO wait], 28 item(s)
+13.141 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 3 item(s)
+13.143 Sys [Info]: Finished load of Texture batch [0.00s and 81 frames at 0 ms/frame avg, 1 ms/update peak, 0.00s IO wait], 8 item(s)
+13.144 Sys [Info]: Finished load of AnimRetarget batch [0.00s and 16 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 1 item(s)
+13.144 Sys [Info]: Resource load completed in one pass and 0.6s (I/O ~= 1.1%, inherited 12 of 68)
+13.144 Sys [Info]: Frames issuing: 6, frames loading: 2, frames retiring: 307
+13.144 Sys [Info]: Total budget min: 100ms, max: 100ms, avg: 100ms, stddev: 0.00ms, num samples: 308, samples below 2.00ms: 0
+13.144 Sys [Info]: Total time min: 0.01ms, max: 2.45ms, avg: 0.03ms, stddev: 0.16ms, num samples: 307, samples below 2.00ms: 306
+13.144 Sys [Info]: ResLoader time min: 0.00ms, max: 1.74ms, avg: 0.01ms, stddev: 0.10ms, num samples: 307, samples below 2.00ms: 307
+13.144 Sys [Info]: CacheMgr min: 0.00ms, max: 0.93ms, avg: 0.01ms, stddev: 0.08ms, num samples: 308, samples below 2.00ms: 308
+13.144 Sys [Info]: Total retire read time: 0.00s
+13.144 Sys [Info]: 
+13.144 Sys [Info]:     Loaded: 4,259,840 B (65 pages) at 654 MB/s (0.01s)
+13.144 Sys [Info]:     Idle IO time: 0.02s
+13.144 Sys [Info]:     Decomp: 103,758 B -> 198,130 B (1.9:1) at 0.00 MB/s (0.00s)
+13.144 Sys [Info]:     Seeked: 41x (0.62s)
+13.144 Sys [Info]:     Wasted: 2,048,771B (48.1%)
+13.144 Sys [Info]:     Scheduling: 0ms
+13.144 Sys [Info]: 
+13.144 Sys [Info]: [Heap: 246,408,816/256,966,656 Footprint: 574,492,672 Handles: 797]
+13.144 Sys [Info]: ===[ Entering main loop ]===================================================================================
+13.151 Sys [Info]: Discord OnEntitlementDelete.Connect: result 0
+13.151 Sys [Info]: Discord Initialization complete!...
+13.151 Sys [Info]: IAP disabled...
+13.152 Sys [Info]: Spot-loading /Lotus/Interface/LoadingScreens/Update9LoadingScreen.png during batch loading!
+13.196 Sys [Info]: Created /Lotus/Interface/Progress.swf
+13.196 Sys [Info]: ResourceLoader::~ResourceLoader() in 0.09ms [Heap: 246,778,416/256,966,656 Footprint: 580,001,792 Handles: 800]
+13.199 Sys [Info]: Executing open callback for /Lotus/Interface/Progress.swf, callback state: valid.
+13.199 Sys [Info]: Startup time: 13.2s
+13.199 Net [Info]: Created virtual connection for: 127.0.0.1:4955 [handle: 0]
+13.199 Sys [Info]: NetDriver::SetConnectionTimeout setting connection 0 timeout to 20 * 1
+13.199 Sys [Info]: Contact received; sending challenge to Player. Setting connection timeout to 20
+13.200 Sys [Info]: Texture streaming DISABLED -> NORMAL [Heap: 246,845,440/256,966,656 Footprint: 580,038,656 Handles: 802]
+13.202 Sys [Info]: Loaded 0/1985 resources at 0 ms/frame
+13.220 Sys [Info]: NetDriver::SetConnectionTimeout setting connection 0 timeout to 7.5 * 1
+13.220 Sys [Info]: Accepted challenge from: Player
+13.220 Sys [Info]: Starting load for Player
+13.220 Game [Info]: Server::LoadClient: Context objects:
+13.220 Game [Info]: /Lotus/Types/GameRules/AlternateLotusFrontEndGameRules
+13.220 Game [Info]: Level=/Lotus/Levels/Proc/PlayerShip/DmA.lp
+13.220 Sys [Info]: NetDriver::SetConnectionTimeout setting connection 0 timeout to 20 * 1
+13.308 Sys [Info]: FSM::LoadLevel
+13.472 Sys [Info]: Generated 5 deps and 48 exclusions in 162ms (vetting took 162ms)
+13.472 Sys [Info]: HostRegion: Acquired 17 root types to load [Heap: 245,575,040/256,966,656 Footprint: 603,840,512 Handles: 853]
+13.472 Script [Info]: ScriptMgr::ResetGlobals()
+13.472 Sys [Info]: Shutting down context... [Heap: 245,576,112/256,966,656 Footprint: 603,840,512 Handles: 853]
+13.472 Sys [Info]: CancelJobs batchcount 0
+13.473 Sys [Info]: Context shutdown complete [Heap: 243,555,840/256,966,656 Footprint: 602,480,640 Handles: 833]
+13.473 Net [Info]:  ReplicationMgr::Initialize(1), init count=1, 0x00000226DA63B1C0, master: 0
+13.474 Sys [Info]: Level: /Lotus/Levels/Proc/PlayerShip/DmA.lp, id: 1
+13.474 Sys [Info]: ClientImpl::LoadLevel setting connection timeout to 20
+13.474 Sys [Info]: NetDriver::SetConnectionTimeout setting connection 0 timeout to 20 * 1
+13.474 Sys [Info]: LOAD_MESSAGE received .
+13.474 Sys [Info]: Client ready for load [Heap: 243,555,584/256,966,656 Footprint: 602,480,640 Handles: 833]
+13.478 Sys [Info]: Cleaned 7 resource-objects
+13.478 Sys [Info]: Pre-load flush took 0.08ms [Heap: 241,297,376/256,966,656 Footprint: 603,537,408 Handles: 833]
+13.502 Gfx [Info]: Creating render target: /EE/Materials/FluidHeightField0
+13.510 Sys [Info]: CreateRenderTargetView /EE/Materials/FluidHeightField0 512x512
+13.510 Gfx [Info]: Creating render target: /EE/Materials/FluidHeightField1
+13.516 Sys [Info]: CreateRenderTargetView /EE/Materials/FluidHeightField1 512x512
+13.516 Sys [Info]: Finished load of Flyweight batch [0.01s and 0 frames at 14 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 2 item(s)
+13.695 Sys [Info]: Finished load of CharacterCodesCache batch [0.18s and 6 frames at 30 ms/frame avg, 20 ms/update peak, 0.13s IO wait], 52 item(s)
+15.549 Sys [Info]: Finished load of ShaderPermutation batch [1.85s and 53 frames at 35 ms/frame avg, 32 ms/update peak, 1.85s IO wait], 813 item(s)
+15.902 Sys [Error]: Could not find object: /Lotus/Types/Recipes/SolarisRecipes/Fishing/CaveContaminantTierABlueprint
+15.902 Sys [Error]: Required by store item /Lotus/StoreItems/Types/Game/FishBait/Venus/CaveContaminantTierA
+15.902 Sys [Error]: Could not find object: /Lotus/Types/Recipes/SolarisRecipes/Fishing/CaveContaminantTierBBlueprint
+15.902 Sys [Error]: Required by store item /Lotus/StoreItems/Types/Game/FishBait/Venus/CaveContaminantTierB
+15.902 Sys [Error]: Could not find object: /Lotus/Types/Recipes/SolarisRecipes/Fishing/CaveContaminantTierCBlueprint
+15.902 Sys [Error]: Required by store item /Lotus/StoreItems/Types/Game/FishBait/Venus/CaveContaminantTierC
+15.902 Sys [Error]: Could not find object: /Lotus/Types/Recipes/SolarisRecipes/Fishing/GenericContaminantBlueprint
+15.902 Sys [Error]: Required by store item /Lotus/StoreItems/Types/Game/FishBait/Venus/GenericContaminant
+15.903 Sys [Error]: Could not find object: /Lotus/Types/Recipes/SolarisRecipes/Fishing/LakeContaminantTierABlueprint
+15.903 Sys [Error]: Required by store item /Lotus/StoreItems/Types/Game/FishBait/Venus/LakeContaminantTierA
+15.903 Sys [Error]: Could not find object: /Lotus/Types/Recipes/SolarisRecipes/Fishing/LakeContaminantTierBBlueprint
+15.903 Sys [Error]: Required by store item /Lotus/StoreItems/Types/Game/FishBait/Venus/LakeContaminantTierB
+15.903 Sys [Error]: Could not find object: /Lotus/Types/Recipes/SolarisRecipes/Fishing/PondContaminantTierABlueprint
+15.903 Sys [Error]: Required by store item /Lotus/StoreItems/Types/Game/FishBait/Venus/PondContaminantTierA
+15.903 Sys [Error]: Could not find object: /Lotus/Types/Recipes/SolarisRecipes/Fishing/PondContaminantTierBBlueprint
+15.903 Sys [Error]: Required by store item /Lotus/StoreItems/Types/Game/FishBait/Venus/PondContaminantTierB
+16.452 Sys [Info]: Budget overrun retiring read of B.Font/Lotus/Interface/GenericActionsMenu.lua (732 ms)
+16.452 Sys [Info]: Loaded 871/19236 resources at 34 ms/frame
+16.778 Sys [Info]: Budget overrun retiring read of B.Font/Lotus/Interface/ItemInfoPopup.lua (113 ms)
+16.954 Sys [Info]: Budget overrun retiring read of B.Font/Lotus/Interface/Libs/ActionFigureLoadoutLoader.lua (10.1 ms)
+17.278 Sys [Info]: Budget overrun retiring read of B.Font/Lotus/Interface/ThemedArcaneManager.lua (124 ms)
+17.554 Sys [Info]: Spot-loading /Lotus/Scripts/Weapons.lua during batch loading!
+17.560 Sys [Error]: Could not find material: /Lotus/Fx/Common/XrayGlow
+17.560 Sys [Error]: Required by lotus dynamic projector /Lotus/Fx/Common/XrayVision
+17.560 Sys [Error]: Could not use material: /Lotus/Fx/Common/XrayGlow (broken)
+17.560 Sys [Error]: Required by lotus dynamic projector /Lotus/Fx/Common/XrayVision
+17.560 Sys [Error]: Could not use material: /Lotus/Fx/Common/XrayGlow (broken)
+17.560 Sys [Error]: Required by lotus dynamic projector /Lotus/Fx/Common/XrayVision
+17.745 Sys [Info]: Spot-loading /Lotus/Types/Enemies/TennoReplicants/ReplicantEquipLoadout.lua during batch loading!
+17.778 Sys [Error]: Could not use material: /Lotus/Fx/Common/XrayGlow (broken)
+17.778 Sys [Error]: Required by lotus dynamic projector /Lotus/Fx/Common/XrayVision
+17.792 Sys [Info]: Budget overrun retiring read of B.Font/Lotus/Interface/Background.lua (213 ms)
+17.973 Sys [Info]: Finished load of Font batch [2.42s and 36 frames at 67 ms/frame avg, 763 ms/update peak, 0.15s IO wait], 5 item(s)
+18.042 Sys [Info]: Loaded TOC for Windows/F.Misc_xx (took 13.0ms, loaded 10639 entries, found 26 deleted, spot-loaded)
+18.256 Sys [Error]: Can't create header stream for /EE/Types/GraphicsRes/SkeletalMesh (not in Windows cache)
+18.256 Sys [Error]: Could not preprocess: /EE/Types/GraphicsRes/SkeletalMesh (not in cache manifest)
+18.331 Sys [Error]: Can't create header stream for /Lotus/Objects/Natural/Skybox/GrineerQueensShip/GQSAsteroidCard01.fbx (not in Windows cache)
+18.331 Sys [Error]: Could not preprocess: /Lotus/Objects/Natural/Skybox/GrineerQueensShip/GQSAsteroidCard01.fbx (not in cache manifest)
+18.343 Sys [Error]: Could not use material: /Lotus/Fx/Common/XrayGlow (broken)
+18.343 Sys [Error]: Required by lotus dynamic projector /Lotus/Fx/Common/XrayVision
+18.777 Sys [Error]: /Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard had a NULL reward entry
+18.777 Sys [Error]: /Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/ExtractionMidLevelRewards had a NULL reward entry
+18.779 Sys [Error]: /Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/ExtractionHighLevelRewards had a NULL reward entry
+19.251 Sys [Error]: /Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsEasy had a NULL reward entry
+19.251 Sys [Error]: /Lotus/Types/Game/MissionDecks/EndlessExterminationRewards/EndlessExterminationRewardsHard had a NULL reward entry
+19.458 Sys [Info]: Loaded 1304/19236 resources at 55 ms/frame
+19.581 Sys [Info]: Spot-loading /Lotus/Scripts/KubrowController.lua during batch loading!
+19.610 Sys [Error]: Could not use material: /Lotus/Fx/Common/XrayGlow (broken)
+19.610 Sys [Error]: Required by lotus dynamic projector /Lotus/Fx/Common/XrayVision
+19.610 Sys [Error]: Could not use material: /Lotus/Fx/Common/XrayGlow (broken)
+19.610 Sys [Error]: Required by lotus dynamic projector /Lotus/Fx/Common/XrayVision
+19.611 Sys [Error]: Could not use material: /Lotus/Fx/Common/XrayGlow (broken)
+19.611 Sys [Error]: Required by lotus dynamic projector /Lotus/Fx/Common/XrayVision
+19.612 Sys [Error]: Could not use material: /Lotus/Fx/Common/XrayGlow (broken)
+19.612 Sys [Error]: Required by lotus dynamic projector /Lotus/Fx/Common/XrayVision
+19.721 Sys [Error]: Could not use object: /EE/Types/Darkitect/RecastHighDetailNavMeshDesignOptions (broken)
+19.721 Sys [Error]: Required by level info /Lotus/Levels/Proc/PlayerShipLevelInfo
+19.772 Sys [Info]: Finished load of Misc batch [1.80s and 50 frames at 36 ms/frame avg, 120 ms/update peak, 0.00s IO wait], 12469 item(s)
+19.772 Gfx [Info]: Creating dynamic texture: /EE/Materials/MapFogTexture
+19.817 Sys [Info]: Finished load of Flyweight batch [0.05s and 2 frames at 23 ms/frame avg, 32 ms/update peak, 0.00s IO wait], 8788 item(s)
+19.818 Sys [Info]: Loaded TOC for Dx9/H.Texture_xx (took 0.71ms, loaded 1 entries, found 0 deleted, spot-loaded)
+19.883 Sys [Info]: Loaded TOC for Dx9/B.Texture_xx (took 0.71ms, loaded 1 entries, found 0 deleted, spot-loaded)
+20.000 Sys [Error]: Can't create header stream for /Lotus/Fx/Weapons/Melee/Clean/HitEffects/MeleeHitPostCrit_v.png (not in Dx9 cache)
+20.000 Sys [Error]: Could not preprocess: /Lotus/Fx/Weapons/Melee/Clean/HitEffects/MeleeHitPostCrit_v.png (not in cache manifest)
+20.044 Sys [Error]: Can't create header stream for /Sandbox/RyanAndrews/AsteroidFlyinRingstry/1_pcube0.png (not in Dx9 cache)
+20.044 Sys [Error]: Could not preprocess: /Sandbox/RyanAndrews/AsteroidFlyinRingstry/1_pcube0.png (not in cache manifest)
+20.044 Sys [Error]: Can't create header stream for /Sandbox/RyanAndrews/AsteroidFlyinRingstry/LevelCapture_mm.png (not in Dx9 cache)
+20.044 Sys [Error]: Could not preprocess: /Sandbox/RyanAndrews/AsteroidFlyinRingstry/LevelCapture_mm.png (not in cache manifest)
+20.673 Sys [Info]: Budget overrun retiring read of B.Texture/Lotus/Fx/Explosions/ExplosionFlipLargeA_d.png (25.4 ms)
+20.708 Sys [Info]: Budget overrun retiring read of B.Texture/Lotus/Fx/Fire/FireTallFlip_d.png (3.13 ms)
+21.313 Sys [Info]: Finished load of Texture batch [1.50s and 44 frames at 34 ms/frame avg, 57 ms/update peak, 1.27s IO wait], 10638 item(s)
+21.484 Sys [Error]: Localizer didn't find _root.ItemMessage!
+21.487 Sys [Info]: /Lotus/Animations/BoxMan/BoxmanFrozenROM_physics.fbx built 20 objects in 1.75 ms
+21.489 Sys [Info]: /Lotus/Animations/Corpus/Biped/RangeOfMotion_physics.fbx built 16 objects in 1.71 ms
+21.578 Sys [Info]: Finished load of AnimRetarget batch [0.27s and 8 frames at 33 ms/frame avg, 33 ms/update peak, 0.26s IO wait], 155 item(s)
+21.578 Sys [Info]: Resource load completed in one pass and 8.5s (I/O ~= 51%, inherited 1387 of 34739)
+21.578 Sys [Info]: Frames issuing: 20, frames loading: 45, frames retiring: 156
+21.578 Sys [Info]: Total budget min: 1.99ms, max: 31.8ms, avg: 30.7ms, stddev: 3.32ms, num samples: 203, samples below 2.00ms: 2
+21.578 Sys [Info]: Total time min: 0.02ms, max: 763ms, avg: 20.7ms, stddev: 59.0ms, num samples: 202, samples below 2.00ms: 83
+21.578 Sys [Info]: ResLoader time min: 0.00ms, max: 115ms, avg: 3.13ms, stddev: 11.1ms, num samples: 202, samples below 2.00ms: 179
+21.578 Sys [Info]: CacheMgr min: 0.00ms, max: 763ms, avg: 17.5ms, stddev: 58.5ms, num samples: 203, samples below 2.00ms: 98
+21.578 Sys [Info]: Total retire read time: 3.50s
+21.578 Sys [Info]: 
+21.578 Sys [Info]:     Loaded: 382,992,384 B (5844 pages) at 85.2 MB/s (4.29s)
+21.578 Sys [Info]:     Idle IO time: 4.12s
+21.578 Sys [Info]:     Decomp: 288,585,262 B -> 526,806,408 B (1.8:1) at 75.7 MB/s (3.63s)
+21.578 Sys [Info]:     Seeked: 864x (13.0s)
+21.578 Sys [Info]:     Wasted: 67,254,418B (17.6%)
+21.578 Sys [Info]:     Scheduling: 89ms
+21.578 Sys [Info]: 
+21.578 Sys [Info]: [Heap: 671,093,376/752,943,104 Footprint: 1,653,366,784 Handles: 874]
+21.612 Sys [Info]: Cleaned 1,393 resource-objects
+21.661 Sys [Info]: Unloaded 0 types in 0.12ms
+21.664 Sys [Info]: TypeMgr cleaned 730 instances (0.05ms) and unbuilt 1787 types (2.74ms) in 0.05ms
+21.667 Script [Info]: UISTYLE: _G.CurrStyle invalid, updating theme
+21.667 Script [Info]: UISTYLE: overlayMgr valid
+21.667 Script [Info]: UISTYLE: style valid, _G.CurrStyle assigned
+21.668 Sys [Info]: Created /Lotus/Interface/UICommonResources.swf
+21.668 Script [Info]: UISTYLE: Style changed callback registered
+21.668 Script [Info]: Background.lua: Initialize
+21.668 Sys [Info]: Created /Lotus/Interface/Background.swf
+21.668 Game [Info]: Region index=1, layer=4294967295
+21.668 Sys [Info]: Client finished loading /Lotus/Levels/Proc/PlayerShip/DmA.lp. Sending CMSG_LOAD_COMPLETE to server.
+21.668 Game [Info]: SynchronizingState::Enter
+21.672 Sys [Info]: 4294967295 loaded resources, connect mode=0
+21.672 Sys [Info]: DebugChallenges CreateChallengeManager
+21.672 Sys [Info]: Loading game rules: AlternateLotusFrontEndGameRules
+21.672 Net [Info]: GameRulesImpl - changing state from SS_INVALID to SS_WAITING_TO_START
+21.672 Sys [Info]: Clearing *all* inventory checkpoint info
+21.672 Sys [Info]: Removing 0 requested supply drops
+21.672 Sys [Info]: Load complete for Player [Heap: 659,162,288/752,943,104 Footprint: 1,654,411,264 Handles: 875]
+21.694 Sys [Info]: Found 50 items to load (0ms) [Heap: 659,906,048/752,943,104 Footprint: 1,655,525,376 Handles: 875]
+21.694 Sys [Info]: Spot-loading flash movie: /Lotus/Interface/Backgrounds/Helminth/HelminthBackground.swf
+21.694 Sys [Info]: Loaded 0/27 resources at 33 ms/frame
+21.762 Sys [Info]: Finished load of ShaderPermutation batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 2 item(s)
+21.830 Sys [Info]: Finished load of Font batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 2 item(s)
+21.864 Sys [Info]: Finished load of Misc batch [0.03s and 2 frames at 17 ms/frame avg, 1 ms/update peak, 0.03s IO wait], 3 item(s)
+21.864 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 1 item(s)
+21.933 Sys [Info]: Finished load of Texture batch [0.07s and 4 frames at 17 ms/frame avg, 2 ms/update peak, 0.07s IO wait], 19 item(s)
+22.001 Sys [Info]: Finished load of AnimRetarget batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 1 item(s)
+22.001 Sys [Info]: Resource load completed in one pass and 0.3s (I/O ~= 1.7%, inherited 21 of 50)
+22.001 Sys [Info]: Frames issuing: 5, frames loading: 2, frames retiring: 18
+22.001 Sys [Info]: Total budget min: 0.00ms, max: 0.00ms, avg: 0.00ms, stddev: 0.00ms, num samples: 19, samples below 2.00ms: 19
+22.001 Sys [Info]: Total time min: 0.02ms, max: 1.84ms, avg: 0.23ms, stddev: 0.43ms, num samples: 18, samples below 2.00ms: 18
+22.001 Sys [Info]: ResLoader time min: 0.00ms, max: 0.36ms, avg: 0.05ms, stddev: 0.10ms, num samples: 18, samples below 2.00ms: 18
+22.001 Sys [Info]: CacheMgr min: 0.00ms, max: 1.82ms, avg: 0.20ms, stddev: 0.45ms, num samples: 19, samples below 2.00ms: 19
+22.001 Sys [Info]: Total retire read time: 0.00s
+22.001 Sys [Info]: 
+22.001 Sys [Info]:     Loaded: 983,040 B (15 pages) at 0.00 MB/s (0.01s)
+22.001 Sys [Info]:     Idle IO time: 0.30s
+22.001 Sys [Info]:     Decomp: 185,542 B -> 579,271 B (3.1:1) at 0.00 MB/s (0.00s)
+22.001 Sys [Info]:     Seeked: 21x (0.32s)
+22.001 Sys [Info]:     Wasted: 775,634B (78.9%)
+22.001 Sys [Info]:     Scheduling: 0ms
+22.001 Sys [Info]: 
+22.001 Sys [Info]: [Heap: 660,455,616/752,943,104 Footprint: 1,655,918,592 Handles: 875]
+22.020 Sys [Info]: Created /Lotus/Interface/Backgrounds/Helminth/HelminthBackground.swf
+22.020 Sys [Info]: ResourceLoader::~ResourceLoader() in 0.14ms [Heap: 660,759,200/752,943,104 Footprint: 1,655,918,592 Handles: 875]
+22.020 Sys [Info]: Found 808 items to load (0ms) [Heap: 660,774,000/752,943,104 Footprint: 1,655,918,592 Handles: 875]
+22.021 Sys [Info]: Created /Lotus/Interface/ThemedButtonBar.swf
+22.022 Sys [Info]: Created /Lotus/Interface/ToolTip.swf
+22.024 Sys [Info]: Created /Lotus/Interface/ItemInfoPopup.swf
+22.025 Sys [Info]: Created /Lotus/Interface/ContextAction.swf
+22.025 Sys [Info]: Found 31 items to load (0ms) [Heap: 662,701,472/752,943,104 Footprint: 1,655,918,592 Handles: 875]
+22.025 Sys [Info]: Spot-loading flash movie: /Lotus/Interface/ImeTip.swf
+22.025 Sys [Info]: Loaded 7/12 resources at 33 ms/frame
+22.092 Sys [Info]: Finished load of Font batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 2 item(s)
+22.126 Sys [Info]: Finished load of Misc batch [0.03s and 2 frames at 17 ms/frame avg, 0 ms/update peak, 0.03s IO wait], 2 item(s)
+22.126 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 2 item(s)
+22.194 Sys [Info]: Finished load of Texture batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 2 item(s)
+22.262 Sys [Info]: Finished load of AnimRetarget batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 1 item(s)
+22.262 Sys [Info]: Resource load completed in one pass and 0.2s (I/O ~= 0.2%, inherited 16 of 31)
+22.263 Sys [Info]: Frames issuing: 4, frames loading: 2, frames retiring: 14
+22.263 Sys [Info]: Total budget min: 0.00ms, max: 0.00ms, avg: 0.00ms, stddev: 0.00ms, num samples: 15, samples below 2.00ms: 15
+22.263 Sys [Info]: Total time min: 0.03ms, max: 0.25ms, avg: 0.10ms, stddev: 0.08ms, num samples: 14, samples below 2.00ms: 14
+22.263 Sys [Info]: ResLoader time min: 0.00ms, max: 0.19ms, avg: 0.03ms, stddev: 0.05ms, num samples: 14, samples below 2.00ms: 14
+22.263 Sys [Info]: CacheMgr min: 0.00ms, max: 0.25ms, avg: 0.06ms, stddev: 0.08ms, num samples: 15, samples below 2.00ms: 15
+22.263 Sys [Info]: Total retire read time: 0.00s
+22.263 Sys [Info]: 
+22.263 Sys [Info]:     Loaded: 458,752 B (7 pages) at 0.00 MB/s (0.00s)
+22.263 Sys [Info]:     Idle IO time: 0.24s
+22.263 Sys [Info]:     Decomp: 6,845 B -> 10,426 B (1.5:1) at 0.00 MB/s (0.00s)
+22.263 Sys [Info]:     Seeked: 14x (0.21s)
+22.263 Sys [Info]:     Wasted: 451,795B (98.5%)
+22.263 Sys [Info]:     Scheduling: 0ms
+22.263 Sys [Info]: 
+22.263 Sys [Info]: [Heap: 662,963,392/752,943,104 Footprint: 1,658,011,648 Handles: 875]
+22.281 Sys [Info]: Created /Lotus/Interface/ImeTip.swf
+22.281 Sys [Info]: ResourceLoader::~ResourceLoader() in 0.10ms [Heap: 663,246,368/752,943,104 Footprint: 1,658,011,648 Handles: 875]
+22.281 Script [Info]: Background::PushChildMovie(Default)
+22.284 Sys [Info]: Found 22,268 items to load (3ms) [Heap: 663,681,920/752,943,104 Footprint: 1,658,011,648 Handles: 875]
+22.284 Sys [Info]: Spot-loading flash movie: /Lotus/Interface/ThemedMainMenu.swf
+22.305 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 2 item(s)
+22.305 Sys [Info]: Loaded 0/124 resources at 33 ms/frame
+22.373 Sys [Info]: Finished load of ShaderPermutation batch [0.07s and 4 frames at 17 ms/frame avg, 22 ms/update peak, 0.07s IO wait], 1 item(s)
+22.713 Sys [Info]: Finished load of Font batch [0.34s and 20 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 3 item(s)
+22.851 Sys [Info]: Finished load of Misc batch [0.14s and 8 frames at 17 ms/frame avg, 2 ms/update peak, 0.07s IO wait], 3402 item(s)
+22.854 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 3 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 7672 item(s)
+22.925 Sys [Info]: Finished load of Texture batch [0.07s and 4 frames at 18 ms/frame avg, 4 ms/update peak, 0.07s IO wait], 30 item(s)
+22.995 Sys [Info]: Finished load of AnimRetarget batch [0.07s and 4 frames at 18 ms/frame avg, 1 ms/update peak, 0.07s IO wait], 4 item(s)
+22.995 Sys [Info]: Resource load completed in one pass and 0.7s (I/O ~= 1.5%, inherited 11086 of 22268)
+22.995 Sys [Info]: Frames issuing: 10, frames loading: 3, frames retiring: 40
+22.995 Sys [Info]: Total budget min: 0.00ms, max: 0.00ms, avg: 0.00ms, stddev: 0.00ms, num samples: 41, samples below 2.00ms: 41
+22.995 Sys [Info]: Total time min: 0.02ms, max: 21.6ms, avg: 0.92ms, stddev: 3.44ms, num samples: 40, samples below 2.00ms: 36
+22.995 Sys [Info]: ResLoader time min: 0.00ms, max: 21.6ms, avg: 0.68ms, stddev: 3.43ms, num samples: 40, samples below 2.00ms: 37
+22.995 Sys [Info]: CacheMgr min: 0.00ms, max: 3.55ms, avg: 0.28ms, stddev: 0.69ms, num samples: 41, samples below 2.00ms: 39
+22.995 Sys [Info]: Total retire read time: 0.01s
+22.995 Sys [Info]: 
+22.995 Sys [Info]:     Loaded: 4,587,520 B (70 pages) at 373 MB/s (0.01s)
+22.995 Sys [Info]:     Idle IO time: 0.70s
+22.995 Sys [Info]:     Decomp: 841,847 B -> 1,765,735 B (2.1:1) at 0.00 MB/s (0.01s)
+22.995 Sys [Info]:     Seeked: 69x (1.03s)
+22.995 Sys [Info]:     Wasted: 3,609,990B (78.7%)
+22.995 Sys [Info]:     Scheduling: 0ms
+22.995 Sys [Info]: 
+22.995 Sys [Info]: [Heap: 667,633,904/752,943,104 Footprint: 1,658,798,080 Handles: 875]
+23.012 Script [Info]: *** Main menu -- initialize ***
+23.015 Sys [Info]: Created /Lotus/Interface/ThemedMainMenu.swf
+23.017 Sys [Info]: ResourceLoader::~ResourceLoader() in 1.22ms [Heap: 667,408,880/752,943,104 Footprint: 1,658,798,080 Handles: 875]
+23.017 Script [Info]: Background.lua: in hub changed: false
+23.040 Sys [Warning]: /Lotus/Levels/Proc/PlayerShip/DmA.lp cannot tag zone 
+23.040 Sys [Warning]: /Layer3/ZoneAttribs0 from /Lotus/Levels/Backdrops/GrineerQueenFortressRegion.level
+23.040 Sys [Warning]: (it already has a tag: Backdrop)
+23.041 Sys [Warning]: /Lotus/Levels/Proc/PlayerShip/DmA.lp cannot tag zone 
+23.041 Sys [Warning]: /Layer3/ZoneAttribs1 from /Lotus/Levels/Backdrops/GrineerQueenFortressRegion.level
+23.041 Sys [Warning]: (it already has a tag: Backdrop)
+23.042 Sys [Info]: Generated level objects in 44ms [4 component(s), 3 frame(s)]
+23.043 Sys [Info]: Layer /Lotus/Levels/Hub/LisetBridgeOperatorExpansion/Scope rep mode=0
+23.119 Sys [Info]: Layer /Lotus/Levels/Proc/LisetExit/Scope rep mode=0
+23.119 Sys [Info]: Layer /Lotus/Levels/Backdrops/GrineerQueenFortressRegion/Scope rep mode=0
+23.122 Sys [Info]: Region server created 1669 new objects. [Heap: 674,547,456/752,943,104 Footprint: 1,658,736,640 Handles: 874]
+23.122 Sys [Info]: Replication mode override: 0
+23.122 Game [Info]: Added streaming layer /Lotus/Levels/Hub/LisetBridgeOperatorExpansion/Scope, 1550 objects, 61 server-only objects
+23.122 Game [Info]: Added streaming layer /Lotus/Levels/Proc/LisetExit/Scope, 4 objects, 0 server-only objects
+23.122 Game [Info]: Added streaming layer /Lotus/Levels/Backdrops/GrineerQueenFortressRegion/Scope, 54 objects, 0 server-only objects
+23.139 Sys [Info]: Connectivity update flags: 1, requires full update: 0
+23.172 Net [Info]: NotifyStreamedRegionReady [2047]
+23.172 Sys [Error]: Could not find physics behavior: /EE/Types/Physics/StaticNonCollidableNonRaycastable
+23.172 Sys [Error]: Required by simple blocking volume /EE/Types/Engine/NavSpatialBlockingVolume
+23.214 Sys [Info]: Initial update of physics complete [Heap: 684,465,728/752,943,104 Footprint: 1,658,785,792 Handles: 874]
+23.239 Sys [Info]: Initial update of connectivity complete [Heap: 684,467,360/752,943,104 Footprint: 1,658,720,256 Handles: 874]
+23.240 Sys [Warning]: /Lotus/Levels/Proc/PlayerShip/DmA.lp: multiple initial player spawns
+23.240 Sys [Info]: Level loader: OnCreateLevelObjectsComplete called
+23.242 Sys [Info]: ResourceLoader::~ResourceLoader() in 2.49ms [Heap: 680,832,448/752,943,104 Footprint: 1,658,720,256 Handles: 874]
+23.242 Net [Info]: Replication count by concrete type:
+23.242 Net [Info]: 
+23.242 Net [Info]:        4 ContextAction
+23.242 Net [Info]:        4 Decoration
+23.242 Net [Info]:       20 Mover
+23.242 Net [Info]:        2 ScriptTrigger
+23.242 Net [Info]:       12 Sequencer
+23.242 Net [Info]:        1 SimpleAnimationAction
+23.242 Net [Info]:        7 Decoration
+23.242 Net [Info]:       12 Trigger
+23.242 Net [Info]:        2 ParticleSys
+23.242 Net [Info]:        1 MeshNavVolume
+23.242 Net [Info]:       14 Cinematic
+23.242 Net [Info]:        3 PortDispatch
+23.242 Net [Info]:        1 GameStateImpl
+23.242 Net [Info]:       15 MultiAvatarTrigger
+23.242 Net [Info]:        3 NpcDoorHint
+23.242 Net [Info]:        1 NpcMigrationData
+23.242 Net [Info]:        1 CrewShipMgr
+23.242 Net [Info]:        1 LisetDecoration
+23.242 Net [Info]:        1 LotusAttractModeGameRules
+23.242 Net [Info]:        5 LotusCinematic
+23.242 Net [Info]:        9 LotusEffectDecoration
+23.242 Net [Info]:        5 MarkerInfo
+23.242 Net [Info]:       16 UIConsoleTrigger
+23.242 Net [Info]: 
+23.242 Net [Info]: Replication count by type:
+23.242 Net [Info]: 
+23.242 Net [Info]:        5 /Lotus/Types/Game/MarkerInfos/ObjectiveMarkerInfo
+23.242 Net [Info]:       20 /EE/Types/Engine/Mover
+23.242 Net [Info]:        7 /EE/Types/Alias/Decoration
+23.242 Net [Info]:       14 /EE/Types/Game/Cinematic
+23.242 Net [Info]:       15 /EE/Types/Game/MultiAvatarTrigger
+23.242 Net [Info]:        5 /Lotus/Types/Game/LotusCinematic
+23.242 Net [Info]:        7 /Lotus/Types/Game/LotusEffectDecoration
+23.242 Net [Info]:       16 /Lotus/Types/Game/UIConsoleTrigger
+23.242 Net [Info]: 
+23.242 Net [Info]: Total count: 140, static objects: 136
+23.242 Net [Info]: 51 object(s) not logged (less than 4 instance(s).
+23.242 Net [Info]: RepMgr: baseline object number: 140
+23.242 Sys [Info]: NavigationImpl::ProcessChanges status NS_CHANGES_PENDING pendingChangesDuringInit 0
+23.242 Sys [Info]:      NavZones    0
+23.242 Sys [Info]:      PendingAdds 1
+23.242 Sys [Info]:      PendingRems 0
+23.242 Sys [Info]: CancelJobs batchcount 0
+23.243 Sys [Info]: Creating high level graph for 1 nodes
+23.243 Sys [Info]: Initialization took 0.14ms
+23.243 Sys [Info]: LevelLoader finished in 151/1570 ms [total/latency], 1,669 new objects [136 replicated].
+23.243 Sys [Info]: LS_PREPARE: 0.00ms (peak: 0.00ms), LS_CREATE_EX: 148ms (peak: 31.3ms), LS_CREATE_EX_SAVE: 0.00ms (peak: 0.00ms), LS_POST_CREATE: 0.21ms (peak: 0.21ms), LS_COMPLETE: 3.00ms (peak: 3.00ms)
+23.243 Sys [Info]: CS_PREPARE: 0.00ms, latency: 0.03ms (peak: 0.00ms, avg: 0.00ms), budget avg: 19.9, CS_CLEAR_LINKS: 0.00ms, latency: 0.00ms (peak: 0.00ms, avg: 0.00ms), budget avg: 19.9
+23.243 Sys [Info]: CS_CREATE_OBJECTS: 120ms, latency: 1449ms (peak: 31.3ms, avg: 23.9ms), budget avg: 26.7, CS_REGISTRATION: 18.7ms, latency: 67.9ms (peak: 18.1ms, avg: 6.23ms), budget avg: 25.9
+23.243 Sys [Info]: CS_RESOLVE_INSTANCES: 3.34ms, latency: 3.34ms (peak: 3.34ms, avg: 3.34ms), budget avg: 13.5, CS_FULL_UPDATE: 0.14ms, latency: 0.14ms (peak: 0.14ms, avg: 0.14ms), budget avg: 10.1
+23.243 Sys [Info]: CS_ZONE_SETUP: 0.02ms, latency: 14.8ms (peak: 0.02ms, avg: 0.02ms), budget avg: 29.2, CS_FIND_LEVEL_INFO: 0.37ms, latency: 0.37ms (peak: 0.37ms, avg: 0.37ms), budget avg: 29.2
+23.243 Sys [Info]: CS_POST_LINK: 0.00ms, latency: 0.00ms (peak: 0.00ms, avg: 0.00ms), budget avg: 29.2, CS_PHYSICS_UPDATE: 5.82ms, latency: 5.82ms (peak: 5.82ms, avg: 5.82ms), budget avg: 28.8
+23.243 Sys [Info]: CS_CONNECTIVITY_UPDATE: 0.00ms, latency: 25.0ms (peak: 0.00ms, avg: 0.00ms), budget avg: 23.0, CS_GRAPHICS_UPDATE: 0.00ms, latency: 0.12ms (peak: 0.00ms, avg: 0.00ms), budget avg: 31.2
+23.243 Sys [Info]: 
+23.243 Sys [Info]: Budget min: 20.0ms, max: 31.7ms, avg: 28.6ms, stddev: 4.93ms, num samples: 9, samples below 2.00ms: 0
+23.243 Sys [Info]: 
+23.243 Sys [Info]: Finished load of Font batch [0.12s and 4 frames at 30 ms/frame avg, 1 ms/update peak, 0.12s IO wait], 3 item(s)
+23.244 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 1 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 176 item(s)
+23.244 Sys [Info]: Resource load completed in one pass and 1.2s (I/O ~= 1.1%, inherited 464 of 808)
+23.244 Sys [Info]: Frames issuing: 1, frames loading: 0, frames retiring: 4
+23.256 Game [Info]: StartClientReplication(0)
+23.256 Game [Info]: ClientImpl::PlayersChanged. Player=, change=REGISTERED
+23.256 Game [Info]: CreatePlayerForClient. id=0, user name=Player
+23.256 Net [Info]: ReplicationMgr::ClientSubscribe(0)
+23.256 Net [Info]: Has 1 client(s)
+23.256 Sys [Info]: Trying to spawn at player-spawn /Layer0/Layer2/PlayerSpawn0
+23.256 Sys [Info]: Trying to spawn avatar /Lotus/Types/Player/TennoShipAvatar
+23.258 Game [Info]: Player - new avatar: TennoShipAvatar0
+23.258 Sys [Info]: TennoShipAvatar0 with ID 0 [2366318594352] has new player: Player
+23.258 Sys [Info]: Give inventory - no migration data
+23.258 Sys [Info]: GiveInventory() 0ms
+23.258 Sys [Error]: The default slot (SLOT_2) had no weapon or ammo, falling back to another weapon.
+23.259 Sys [Info]: Initialized 1 NavZones in 0.00241488ms
+23.259 Sys [Info]: Checked 1 NavZones in 0.0265637ms
+23.272 Sys [Info]: Creating loader for /Temp/LocalPlayer loadout...
+23.272 Sys [Info]: Spot-loading /Lotus/Scripts/Restoratives/GlyphDeploy.lua
+23.278 Sys [Info]: Spot-loading /Lotus/Scripts/Restoratives/HealAvatar.lua
+23.284 Sys [Info]: Spot-loading /Lotus/Scripts/Restoratives/OpenArchwingSummon.lua
+23.289 Sys [Info]: Spot-loading /Lotus/Scripts/Restoratives/LibraryScanner.lua
+23.294 Sys [Info]: Spot-loading /Lotus/Scripts/Restoratives/SpearFishingStart.lua
+23.300 Sys [Info]: Spot-loading /Lotus/Scripts/Restoratives/MiningLaser.lua
+23.307 Sys [Info]: Spot-loading /Lotus/Scripts/Restoratives/HuntingGear.lua
+23.312 Sys [Info]: Spot-loading /Lotus/Scripts/Libs/ConservationLib.lua
+23.318 Sys [Info]: Spot-loading /Lotus/Scripts/Restoratives/AnimalLure.lua
+23.324 Sys [Info]: Spot-loading /Lotus/Scripts/Restoratives/SpawnFriendlyAgent.lua
+23.332 Sys [Info]: Spot-loading /Lotus/Powersuits/Saryn/SarynPassive.lua
+23.339 Sys [Info]: Spot-loading /Lotus/Powersuits/PowersuitAbilities/Poison.lua
+23.345 Sys [Info]: Spot-loading /Lotus/Powersuits/PowersuitAbilities/Shed.lua
+23.351 Sys [Info]: Spot-loading /Lotus/Powersuits/PowersuitAbilities/WeaponPoison.lua
+23.357 Sys [Info]: Spot-loading /Lotus/Powersuits/PowersuitAbilities/ExplosiveDissolve.lua
+23.367 Sys [Info]: Spot-building /EE/Types/Game/WeaponBurstStateBehavior
+23.371 Sys [Info]: Spot-building /Lotus/Types/Game/SniperImpactBehavior
+23.371 Sys [Info]: Spot-building /EE/Types/Game/WeaponSemiAutomaticStateBehavior
+23.377 Sys [Info]: Spot-loading /Lotus/Scripts/Mods/ModDescriptionStats.lua
+23.388 Sys [Info]: Spot-loading /Lotus/Types/Sentinels/SentinelAbilities/WarframeSuckAbility.lua
+23.393 Sys [Info]: Spot-building /Lotus/Types/Game/SentinelPowerSuitAbility
+23.393 Sys [Info]: Spot-loading /Lotus/Types/Friendly/Pets/CatbrowPetBehaviors/CatbrowLuckAbility.lua
+23.400 Sys [Info]: Spot-loading /Lotus/Types/Sentinels/SentinelAbilities/Sanctuary.lua
+23.407 Sys [Info]: Spot-loading /Lotus/Scripts/Effects/HarrierEffects.lua
+23.413 Sys [Info]: Spot-loading /Lotus/Powersuits/Archwing/ArchwingAbilities/Blink.lua
+23.418 Sys [Info]: Spot-loading /Lotus/Powersuits/Archwing/ArchwingAbilities/Cloaking.lua
+23.424 Sys [Info]: Spot-loading /Lotus/Powersuits/Archwing/ArchwingAbilities/GravitationalInstability.lua
+23.430 Sys [Info]: Spot-loading /Lotus/Powersuits/Archwing/ArchwingAbilities/DistractionDrones.lua
+23.437 Sys [Info]: Spot-building /Lotus/Types/Game/LotusWeaponProjectileFireBehavior
+23.437 Sys [Info]: Spot-building /EE/Types/Game/WeaponAutomaticStateBehavior
+23.444 Sys [Info]: Spot-loading /Lotus/Powersuits/Pirate/PiratePassive.lua
+23.451 Sys [Info]: Spot-loading /Lotus/Powersuits/PowersuitAbilities/CannonBarrage.lua
+23.457 Sys [Info]: Spot-loading /Lotus/Powersuits/PowersuitAbilities/TidalWaveNew.lua
+23.463 Sys [Info]: Spot-loading /Lotus/Powersuits/PowersuitAbilities/Liquify.lua
+23.469 Sys [Info]: Spot-loading /Lotus/Powersuits/PowersuitAbilities/Kraken.lua
+23.481 Sys [Info]: Spot-building /Lotus/Types/Weapon/DarkSectorMeleeSweepFireBehavior
+23.481 Sys [Info]: Spot-building /Lotus/Types/Weapon/DarkSectorMeleeStateBehavior
+23.482 Sys [Info]: Spot-building /Lotus/Types/Game/LotusWeaponCatchFireBehavior
+23.482 Sys [Info]: Spot-building /Lotus/Types/Game/LotusWeaponCatchStateBehavior
+23.482 Sys [Info]: Spot-building /Lotus/Types/Game/LotusWeaponThrowFireBehavior
+23.482 Sys [Info]: Spot-building /Lotus/Types/Game/LotusWeaponThrowStateBehavior
+23.488 Sys [Info]: Found 32,706 items to load (3ms) [Heap: 682,174,224/752,943,104 Footprint: 1,658,720,256 Handles: 874]
+23.491 Sys [Info]: Created /Lotus/Interface/PostCameraUpdateHud.swf
+23.491 Game [Warning]: Old player not found!
+23.491 Sys [Info]: Player acquired; enabling input on client.
+23.491 Sys [Info]: [Heap: 682,661,904/752,943,104 Footprint: 1,658,720,256 Handles: 874]
+23.491 Sys [Info]: SetHighLevelGraph numPoints 6 numLinks 3 numNodes 4
+23.491 Sys [Info]: CompleteHighLevelGrapInit took 0.02ms
+23.491 Sys [Info]: Entire process took 2 frames
+23.491 Sys [Info]: Creating road network graph
+23.492 Sys [Info]: CreateRoadNetworkGraph - total time: 0.0836153ms
+23.502 Sys [Info]: Reached replication fence; started prefetching...
+23.503 AI [Info]: TacticalAreaMap::AddZone /Lotus/Levels/Hub/LisetBridgeOperatorExpansion/0.tmf adding 52 areas for total: 52
+23.503 Sys [Info]: Nav init complete, finalize took 1 frame(s)
+23.503 Game [Info]: ====== Completed Initializing Nav and Tac
+23.516 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 3 item(s)
+23.534 Sys [Info]: ConnectedState::Enter setting connection timeout to 7.5
+23.534 Sys [Info]: NetDriver::SetConnectionTimeout setting connection 0 timeout to 7.5 * 1
+23.534 Sys [Info]: [Heap: 678,000,672/752,943,104 Footprint: 1,658,720,256 Handles: 874]
+23.534 Sys [Info]: ===[ Game successfully connected to: /Lotus/Levels/Proc/PlayerShip/DmA.lp ]===
+23.536 Game [Info]: FinalizeHostMigration, have data for 0 agent(s)
+23.536 AI [Info]: FinalizeHostMigration - num killed agents: 0
+23.536 AI [Info]:  FinalizeHostMigration MaxPop now 18446744073709551615 NumKilledPreMigrate 0 numKilled 0 numSpawned 0 allyFaction 
+23.536 AI [Info]: ENCMGR: FinalizeHostMigration - no encounter info for migration!
+23.536 AI [Info]: AIDIR: FinalizeHostMigration - complete
+23.536 Sys [Info]: Server::OnData(CMSG_PREFETCH_COMPLETE) setting connection 0 timeout to 7.5
+23.536 Sys [Info]: NetDriver::SetConnectionTimeout setting connection 0 timeout to 7.5 * 1
+23.557 Sys [Info]: Finished load of CharacterCodesCache batch [0.04s and 2 frames at 21 ms/frame avg, 13 ms/update peak, 0.04s IO wait], 5 item(s)
+23.936 Sys [Info]: Finished load of ShaderPermutation batch [0.38s and 23 frames at 16 ms/frame avg, 5 ms/update peak, 0.38s IO wait], 205 item(s)
+24.972 Sys [Info]: Finished load of Font batch [1.04s and 62 frames at 17 ms/frame avg, 2 ms/update peak, 0.07s IO wait], 1 item(s)
+25.583 Sys [Info]: Budget overrun retiring read of H.Misc/Lotus/Types/DropTables/SpaceDropTables/GrineerSpaceMarineDropTable (9.50 ms)
+26.491 Sys [Info]: Loaded 432/5311 resources at 16 ms/frame
+26.889 Sys [Info]: Spot-loading /Lotus/Types/Sentinels/SentinelAbilities/WarriorAbility.lua during batch loading!
+26.898 Sys [Info]: Budget overrun retiring read of H.Misc/Lotus/Types/DropTables/CorpusLaserCannonBipedAgentDropTable (8.41 ms)
+28.339 Sys [Error]: Could not find physics behavior: /Lotus/Types/Enemies/Grineer/Eidolon/GrineerSkiff/SkyFlight
+28.339 Sys [Error]: Required by lotus vehicle avatar /Lotus/Types/Enemies/Grineer/Eidolon/GrineerSkiff/UnmannedSkiff/FlyingVehicleAvatar
+28.340 Sys [Error]: Could not use physics behavior: /Lotus/Types/Enemies/Grineer/Eidolon/GrineerSkiff/SkyFlight (broken)
+28.340 Sys [Error]: Required by lotus vehicle avatar /Lotus/Types/Enemies/Grineer/Eidolon/GrineerSkiff/UnmannedSkiff/FlyingVehicleAvatar
+28.428 Sys [Info]: Spot-loading /Lotus/Scripts/Zombie.lua during batch loading!
+28.544 Sys [Info]: Spot-loading /Lotus/Scripts/Swim.lua during batch loading!
+28.608 Sys [Info]: Finished load of Misc batch [3.64s and 217 frames at 17 ms/frame avg, 22 ms/update peak, 0.00s IO wait], 8627 item(s)
+28.653 Sys [Info]: Finished load of Flyweight batch [0.04s and 3 frames at 15 ms/frame avg, 15 ms/update peak, 0.00s IO wait], 9989 item(s)
+29.288 Sys [Info]: Finished load of Texture batch [0.63s and 39 frames at 16 ms/frame avg, 8 ms/update peak, 0.63s IO wait], 468 item(s)
+29.354 Sys [Info]: Finished load of Emblem batch [0.07s and 4 frames at 16 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 2 item(s)
+29.473 Sys [Info]: /EE/Characters/BoxMan/BoxmanRangeOfMotion_physics.fbx built 30 objects in 0.97 ms
+29.507 Sys [Info]: /Lotus/Animations/Corpus/Biped/FrozenROM_physics.fbx built 16 objects in 0.64 ms
+29.507 Sys [Info]: Loaded 5260/5311 resources at 16 ms/frame
+29.522 Sys [Info]: /Lotus/Characters/Infested/InfestedAncient/InfestedAncient_physics.fbx built 38 objects in 1.52 ms
+29.525 Sys [Info]: Budget overrun retiring read of B.AnimRetarget/Lotus/Interface/PowerSuitCustomHuds/SarynCustomHud.swf (2.07 ms)
+29.540 Sys [Error]: can't import movie from url D:\Program Files (x86)\Steam\steamapps\common\Warframe\Lotus\Interface\SpecialReticles\NewSharedLibrary_l.swf
+29.540 Sys [Error]: can't import movie from url D:\Program Files (x86)\Steam\steamapps\common\Warframe\Lotus\Interface\SpecialReticles\ModLibrary_l.swf
+29.571 Sys [Info]: Finished load of AnimRetarget batch [0.22s and 13 frames at 17 ms/frame avg, 4 ms/update peak, 0.22s IO wait], 53 item(s)
+29.571 Sys [Info]: Resource load completed in one pass and 6.1s (I/O ~= 28%, inherited 13131 of 32706)
+29.571 Sys [Info]: Frames issuing: 44, frames loading: 189, frames retiring: 149
+29.571 Sys [Info]: Total budget min: 1.95ms, max: 28.9ms, avg: 4.03ms, stddev: 4.04ms, num samples: 365, samples below 2.00ms: 241
+29.571 Sys [Info]: Total time min: 0.02ms, max: 21.5ms, avg: 2.61ms, stddev: 3.37ms, num samples: 364, samples below 2.00ms: 110
+29.571 Sys [Info]: ResLoader time min: 0.00ms, max: 21.5ms, avg: 1.05ms, stddev: 3.36ms, num samples: 364, samples below 2.00ms: 322
+29.571 Sys [Info]: CacheMgr min: 0.00ms, max: 11.5ms, avg: 1.54ms, stddev: 1.80ms, num samples: 365, samples below 2.00ms: 170
+29.572 Script [Info]: LoadOut resource loader is done; showing avatar
+29.573 Sys [Info]: Spot-loading /Lotus/Powersuits/Excalibur/ExcaliburPassive.lua
+29.584 Sys [Info]: Spot-loading /Lotus/Powersuits/PowersuitAbilities/SwordOfDoom.lua
+29.591 Game [Info]: UpgradeManager::Clear()
+29.591 Sys [Info]: BuildLoadOut for Player
+29.592 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Power/Residual/EnergyOverTimeFocusUpgrade
+29.592 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Power/Active/CloakStaticFocusUpgrade
+29.592 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Power/Active/DashBubbleFocusUpgrade
+29.592 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Power/Active/DashElectricityFocusUpgrade
+29.593 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Power/Active/BlastSlowFocusUpgrade
+29.593 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Power/Stats/EnergyRestoreFocusUpgrade
+29.593 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Power/Stats/EnergyPoolFocusUpgrade
+29.593 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Power/Residual/ChannelEfficiencyFocusUpgrade
+29.593 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Attack/Stats/MoreAmmoFocusUpgrade
+29.594 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Attack/Stats/RegenAmmoFocusUpgrade
+29.594 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Tactic/Stats/DashSpeedFocusUpgrade
+29.594 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/Tactic/Stats/MoveSpeedFocusUpgrade
+29.595 Sys [Info]: Slots: AP_ATTACK|AP_ATTACK|AP_ATTACK|AP_DEFENSE|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|AP_TACTIC|AP_TACTIC|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|
+Initial Capacity: 30|EnemyArmorReductionAuraMod+-14
+Modded Drain: 44|AvatarDamageToEnergyMod-5|FireParkourTwoMod-1|CorruptedPowerStrengthPowerDurationWarframe-8|CorruptedRangePowerWarframe-6|WarframeUmbraModA-15|AvatarAbilityDurationModExpert-12|AvatarAbilityRangeMod-9|AvatarAbilityEfficiencyMod-5|OrokinChallengeModPower-9
+Final Mod Drain: -26
+29.595 Game [Error]: Artifact with no item compat: EnergyOverTimeFocusUpgrade14
+29.595 Game [Error]: Artifact with no item compat: CloakStaticFocusUpgrade15
+29.595 Game [Error]: Artifact with no item compat: DashBubbleFocusUpgrade16
+29.595 Game [Error]: Artifact with no item compat: DashElectricityFocusUpgrade17
+29.595 Game [Error]: Artifact with no item compat: BlastSlowFocusUpgrade18
+29.595 Game [Error]: Artifact with no item compat: ChannelEfficiencyFocusUpgrade19
+29.595 Sys [Info]: Spot-building /Lotus/Upgrades/Focus/PowerLensOstron
+29.596 Sys [Info]: Slots: AP_UNIVERSAL|AP_UNIVERSAL|AP_ATTACK|AP_ATTACK|AP_UNIVERSAL|AP_UNIVERSAL|AP_ATTACK|AP_TACTIC|
+Initial Capacity: 30
+Modded Drain: 30|ElectEventPistolMod-7|PoisonEventPistolMod-7|WeaponDamageAmountMod-7|LotusPistolRandomModRare-9|WeaponFireRateMod-9|GrinderMod-11|WeaponFireIterationsMod-6|SecondaryAugurPactMod-4
+Final Mod Drain: -30
+29.597 Sys [Info]: Slots: AP_UNIVERSAL|AP_UNIVERSAL|AP_ATTACK|AP_ATTACK|AP_ATTACK|AP_UNIVERSAL|AP_ATTACK|AP_ATTACK|
+Initial Capacity: 30
+Modded Drain: 30|ElectEventRifleMod-7|FireEventRifleMod-7|LotusRifleRandomModRare-9|WeaponFireIterationsMod-8|WeaponCritChanceMod-5|WeaponCritDamageMod-9|WeaponDamageAmountMod-7|CorruptedDamageRecoilRifle-8
+Final Mod Drain: -30
+29.598 Sys [Info]: Slots: AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|AP_DEFENSE|AP_ATTACK|AP_ATTACK|AP_ATTACK|AP_TACTIC|AP_UNIVERSAL|
+Initial Capacity: 30|PolearmCmbTwoMeleeTree+-10
+Modded Drain: 40|PoisonEventMeleeMod-7|ElectEventMeleeMod-7|WeaponCritFireRateBonusMod-9|MeleeSacrificeModB-16|LotusModularMeleeRandomModRare-9|ComboCritChanceMod-7|WeaponMeleeRangeIncModExpert-7|WeaponMeleeDamageModExpert-7
+Final Mod Drain: -29
+29.599 Sys [Info]: Slots: AP_ATTACK|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|
+Initial Capacity: 30
+Modded Drain: 30|ArchwingRifleFireRateMod-8|ArchwingRifleCritChanceMod-7|ArchwingWeaponFreezeDamageMod-9|ArchwingDualStatSlashStatusMod-6|ArchwingRifleClipMaxMod-9|ArchwingDualStatPunctureStatusMod-7|ArchwingRifleDamageAmountMod-11
+Final Mod Drain: -27
+29.600 Sys [Info]: Slots: AP_DEFENSE|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|AP_UNIVERSAL|
+Initial Capacity: 21
+Modded Drain: 21|ArchwingMeleeStatusChanceMod-5|ArchwingMeleeRangeIncMod-9|ArchwingDualStatSlashStatusMeleeMod-6|ArchwingMeleeDamageMod-11|ArchwingMeleeCritChanceMod-9
+Final Mod Drain: -19
+29.600 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/Consumable/GlyphConsumableNoCharges to slot 0
+29.600 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/ClanTeamEnergyTotem to slot 1
+29.600 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/OpenArchwingSummon to slot 2
+29.601 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/HoverboardSummon to slot 3
+29.601 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/Consumable/LibraryScanner to slot 4
+29.601 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/Consumable/RobofishSpearC to slot 5
+29.601 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/Consumable/MiningLaserSolaris to slot 6
+29.601 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/Conservation/TranqRifleGearItem to slot 7
+29.601 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/Conservation/SnowRodentLureGearItem to slot 8
+29.601 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/Consumable/MoaBall to slot 9
+29.601 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/Consumable/AncientHealerBall to slot 10
+29.601 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/Consumable/SpearFishingSpear to slot 11
+29.601 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/Consumable/SpearFishingSpearC to slot 12
+29.601 Sys [Info]: Adding Consumable /Lotus/Types/Restoratives/Consumable/SpearFishingSpearB to slot 13
+29.604 Sys [Info]: Calculating (item based) player XP
+29.604 Sys [Info]: Player has 0 (item based) XP
+29.605 Sys [Info]: Spot-building /Lotus/Types/StoreItems/AvatarImages/Login650Glyph
+29.611 Script [Info]: Starting Vignette close animation...
+29.611 Script [Info]: MainMenu::SetCurrentState(0)
+29.611 Script [Info]: SetCurrentState checking states: nil currentState: 0
+29.611 Script [Info]: UpdateButtons(true)
+29.611 Script [Info]: Background::ForceClearChildMovie()
+29.616 Sys [Info]: Spot-loading /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeFocus
+29.619 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeFocus.wav
+29.619 Sys [Info]: Spot-loading /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeFocus.wav
+32.155 Sys [Info]: Spot-loading /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeSelectConfirm
+32.158 Sys [Info]: Spot-building /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeSelectConfirm.wav
+32.158 Sys [Info]: Spot-loading /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeSelectConfirm.wav
+32.571 Sys [Info]: Spot-loading /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeType
+32.574 Sys [Info]: Spot-loading /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeType.wav
+33.071 Script [Info]: StartLogin()
+33.071 Script [Info]: DispatchLogin()
+33.071 Script [Info]: UpdateButtons(false)
+33.079 Sys [Info]: Logging in as subnetmask@execs.com
+33.455 Sys [Info]: Logged in Dybind (57c4ada43ade7f0a0aba4efe)
+33.456 Sys [Info]: Using profile dir C:\Users\Dex\AppData\Local\Warframe\F60171A476A2C32DD8A2BC6142924794
+33.458 Sys [Info]: Profile hash on read: D72AE87AE378A511FF4BA25AC1C5F3AA
+33.458 Sys [Info]: Serializing profile...
+33.464 Sys [Info]: InitializeChallengeManager
+33.464 Sys [Info]: DebugChallenges context ok
+33.464 Sys [Info]: DebugChallenges CreateChallengeManager
+33.464 Sys [Info]: SyncInventoryFromDB
+33.467 Net [Info]: Binding server address: 104.236.17.211:4950
+33.467 Net [Info]: Binding server address: 128.199.105.91:4950
+33.467 Net [Info]: Binding server address: 165.227.164.4:4950
+33.467 Net [Info]: Binding server address: 188.166.23.150:4950
+33.467 Net [Info]: Binding server address: 192.184.13.46:4950
+33.527 Net [Info]: Name lookup: arbiter.warframe.com 23.39.151.18
+33.527 Sys [Info]: Budget overrun updating WebGet (70.9 ms)
+33.528 Sys [Info]: Calculating (item based) player XP
+33.528 Sys [Info]: Player has 0 (item based) XP
+33.528 Net [Info]: Pinging 104.236.17.211:4950 from client
+33.528 Net [Info]: Pinging 104.236.17.211:4950 from server
+33.528 Net [Info]: Pinging 128.199.105.91:4950 from client
+33.529 Net [Info]: Pinging 128.199.105.91:4950 from server
+33.529 Net [Info]: Pinging 165.227.164.4:4950 from client
+33.529 Net [Info]: Pinging 165.227.164.4:4950 from server
+33.529 Net [Info]: Pinging 188.166.23.150:4950 from client
+33.529 Net [Info]: Pinging 188.166.23.150:4950 from server
+33.529 Net [Info]: Pinging 192.184.13.46:4950 from client
+33.529 Net [Info]: Pinging 192.184.13.46:4950 from server
+33.622 Net [Info]: Client test reply from 192.184.13.46:4950 (93ms), public address 99.203.27.196:40791
+33.622 Net [Info]: Updating client port forward address based on NRS reply: 172.20.10.2:4955
+33.622 Net [Info]: Client test reply from 104.236.17.211:4950 (94ms), public address 99.203.27.196:64899
+33.623 Net [Info]: Server test reply from 104.236.17.211:4950 (94ms), public address 99.203.27.196:20821
+33.623 Net [Info]: Updating server port forward address based on NRS reply: 172.20.10.2:4950
+33.623 Net [Info]: Server test reply from 192.184.13.46:4950 (94ms), public address 99.203.27.196:30114
+33.705 Net [Info]: Client test reply from 188.166.23.150:4950 (177ms), public address 99.203.27.196:42608
+33.705 Net [Info]: Client test reply from 165.227.164.4:4950 (177ms), public address 99.203.27.196:12316
+33.706 Net [Info]: Server test reply from 188.166.23.150:4950 (177ms), public address 99.203.27.196:15059
+33.706 Net [Info]: Server test reply from 165.227.164.4:4950 (177ms), public address 99.203.27.196:11985
+33.772 Net [Info]: Server test reply from 128.199.105.91:4950 (244ms), public address 99.203.27.196:37849
+33.789 Net [Info]: Client test reply from 128.199.105.91:4950 (260ms), public address 99.203.27.196:33155
+33.789 Net [Info]: Network analysis complete. 10 of 10 hosts contacted.
+33.789 Net [Info]: NRS Server 4 selected as home binding server [192.184.13.46:4950]
+33.789 Net [Warning]: Strict NAT detected!
+33.789 Net [Info]: Network analysis: Strict NAT detected. Please forward UDP ports 4950 & 4955 to 172.20.10.2.
+34.121 Sys [Info]: OnInventoryResults
+34.137 Sys [Info]: Spot-building /Lotus/Types/Ship/AdvancedResourceDrone
+34.139 Sys [Error]: Could not find u i flavour item: /Lotus/Types/StoreItems/AvatarImageItem/GuardianCon2018Glyph
+34.143 Sys [Info]: mReceivedStartingGear=1
+34.146 Sys [Error]: Bad data from inventory.php:
+34.146 Sys [Error]: Unknown property: EmailItems[0].XP
+34.146 Sys [Error]: Unknown property: LongGuns[0].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[1].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[2].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[3].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[4].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[6].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[7].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[8].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[10].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[11].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[12].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[13].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[14].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[15].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[16].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[17].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[19].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[20].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[21].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[22].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[23].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[24].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[25].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[27].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[28].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[29].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[30].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[32].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[33].UnlockLevel
+34.146 Sys [Error]: Unknown property: LongGuns[34].UnlockLevel
+34.146 Sys [Error]: Unknown property: Hoverboards[0].Gild
+34.146 Sys [Error]: Unknown property: Hoverboards[0].UnlockLevel
+34.146 Sys [Error]: Unknown property: KubrowPets[0].UnlockLevel
+34.146 Sys [Error]: Unknown property: KubrowPets[1].UnlockLevel
+34.146 Sys [Error]: Unknown property: KubrowPets[3].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[0].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[1].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[2].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[3].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[4].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[5].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[7].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[9].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[10].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[12].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[13].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[14].Gild
+34.146 Sys [Error]: Unknown property: Melee[14].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[15].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[16].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[17].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[18].Gild
+34.146 Sys [Error]: Unknown property: Melee[18].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[19].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[21].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[23].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[24].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[25].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[26].UnlockLevel
+34.146 Sys [Error]: Unknown property: Melee[31].UnlockLevel
+34.146 Sys [Error]: Unknown property: MoaPets[0].Gild
+34.146 Sys [Error]: Unknown property: MoaPets[0].UnlockLevel
+34.146 Sys [Error]: Unknown property: OperatorAmps[0].UnlockLevel
+34.146 Sys [Error]: Unknown property: OperatorAmps[1].Gild
+34.146 Sys [Error]: Unknown property: OperatorAmps[2].Gild
+34.146 Sys [Error]: Unknown property: OperatorLoadOuts[0].OperatorAmp
+34.146 Sys [Error]: Unknown property: PeriodicMissionCompletions[24].count
+34.146 Sys [Error]: Unknown property: PeriodicMissionCompletions[25].count
+34.146 Sys [Error]: Unknown property: Pistols[0].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[1].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[3].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[4].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[5].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[6].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[7].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[8].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[9].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[12].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[13].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[14].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[17].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[18].UnlockLevel
+34.146 Sys [Error]: Unknown property: Pistols[20].Gild
+34.146 Sys [Error]: Unknown property: Pistols[20].UnlockLevel
+34.146 Sys [Error]: Unknown property: SentinelWeapons[2].UnlockLevel
+34.146 Sys [Error]: Unknown property: SentinelWeapons[3].UnlockLevel
+34.146 Sys [Error]: Unknown property: Sentinels[2].UnlockLevel
+34.146 Sys [Error]: Unknown property: Sentinels[3].UnlockLevel
+34.146 Sys [Error]: Unknown property: Sentinels[4].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpaceMelee[0].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpaceGuns[1].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpaceGuns[2].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpaceSuits[2].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpecialItems[0].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpecialItems[1].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpecialItems[2].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpecialItems[3].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpecialItems[4].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpecialItems[5].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpecialItems[6].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpecialItems[7].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpecialItems[8].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpecialItems[9].UnlockLevel
+34.146 Sys [Error]: Unknown property: SpecialItems[10].UnlockLevel
+34.146 Sys [Error]: Unknown property: Version
+34.146 Sys [Error]: Unknown property: Suits[0].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[0].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[2].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[3].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[3].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[4].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[5].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[6].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[7].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[8].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[8].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[9].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[10].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[10].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[11].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[11].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[12].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[12].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[14].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[15].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[15].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[16].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[17].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[18].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[19].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[19].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[20].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[20].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[21].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[22].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[22].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[23].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[23].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[24].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[25].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[26].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[27].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[27].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[28].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[28].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[29].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[31].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[33].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[34].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[34].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[35].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[35].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[36].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[37].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[38].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[39].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[39].UtilityUnlocked
+34.146 Sys [Error]: Unknown property: Suits[40].UnlockLevel
+34.146 Sys [Error]: Unknown property: Suits[40].UtilityUnlocked
+34.146 Sys [Error]: Inventory has NULL item
+34.147 Sys [Info]: Calculating (item based) player XP
+34.149 Sys [Info]: Player has 1097600 (item based) XP
+34.154 Sys [Warning]: Invalid item ID for loadout item at slot HEAVY_GUN_SLOT
+34.159 Sys [Info]: Spot-loading /Lotus/Powersuits/Excalibur/ExcaliburPassive.lua
+34.165 Sys [Info]: Spot-loading /Lotus/Powersuits/PowersuitAbilities/SwordOfDoom.lua
+34.177 Sys [Info]: Spot-building /Lotus/Fx/Interface/ModSets/VigilanteInstall
+34.177 Sys [Info]: Spot-building /Lotus/Fx/Interface/ModSets/VigilanteInstallEnergy
+34.177 Sys [Info]: Spot-building /Lotus/Fx/Interface/ModSets/VigilanteInstallBorder
+34.177 Sys [Info]: Spot-loading /Lotus/Interface/Cards/Images/Sets/Vigilante/VigilanteHeader.png
+34.207 Sys [Info]: Creating loader for /Temp/LocalPlayer loadout...
+34.216 Sys [Info]: Found 32,777 items to load (4ms) [Heap: 846,709,760/860,028,928 Footprint: 2,103,431,168 Handles: 898]
+34.216 Script [Info]: UISTYLE: Style changed callback called
+34.216 Script [Info]: UISTYLE: _G.CurrStyle invalid, updating theme
+34.216 Script [Info]: UISTYLE: overlayMgr valid
+34.216 Script [Info]: UISTYLE: style valid, _G.CurrStyle assigned
+34.217 Script [Info]: UISTYLE: Style changed callback called
+34.217 Script [Info]: UISTYLE: _G.CurrStyle invalid, updating theme
+34.217 Script [Info]: UISTYLE: overlayMgr valid
+34.217 Script [Info]: UISTYLE: style valid, _G.CurrStyle assigned
+34.218 Script [Info]: UISTYLE: Style changed callback called
+34.218 Script [Info]: UISTYLE: _G.CurrStyle invalid, updating theme
+34.218 Script [Info]: UISTYLE: overlayMgr valid
+34.218 Script [Info]: UISTYLE: style valid, _G.CurrStyle assigned
+34.220 Sys [Info]: Budget overrun updating WebGet (96.9 ms)
+34.246 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 3 item(s)
+34.305 Sys [Info]: Finished load of ShaderPermutation batch [0.06s and 5 frames at 12 ms/frame avg, 8 ms/update peak, 0.06s IO wait], 12 item(s)
+34.372 Sys [Info]: Finished load of Font batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 1 item(s)
+34.438 Sys [Error]: Bad data from getFriends.php:
+34.438 Sys [Error]: Unknown property: ActiveAvatarImageType
+34.575 Sys [Error]: Could not find mission reward item manifest: razorbackRewardManifest
+34.577 Sys [Error]: Bad data from worldState.php (error 4): 
+34.577 Sys [Error]: Unknown property: Goals[0].Community
+34.577 Sys [Error]: Unknown property: Goals[0].InterimRewardMessages
+34.577 Sys [Error]: Unknown property: Goals[0]._interimWinnerCounts
+34.577 Sys [Error]: Unknown property: Goals[1].ContinuousHubEvent.Transmission
+34.577 Sys [Error]: Unknown property: FeaturedGuilds[0].Tier
+34.577 Sys [Error]: Unknown property: FeaturedGuilds[1].Tier
+34.577 Sys [Error]: Unknown property: FeaturedGuilds[2].Tier
+34.577 Sys [Error]: Unknown property: FeaturedGuilds[3].Tier
+34.577 Sys [Error]: Unknown property: FeaturedGuilds[4].Tier
+34.578 Sys [Info]: Found 223 items to load (0ms) [Heap: 854,387,568/860,028,928 Footprint: 2,109,911,040 Handles: 897]
+34.578 Sys [Info]: Budget overrun updating WebGet (4.52 ms)
+34.589 Sys [Info]: Finished load of Misc batch [0.22s and 13 frames at 17 ms/frame avg, 3 ms/update peak, 0.00s IO wait], 4289 item(s)
+34.605 Sys [Info]: Finished load of Flyweight batch [0.02s and 1 frames at 15 ms/frame avg, 7 ms/update peak, 0.00s IO wait], 10083 item(s)
+34.704 Sys [Info]: Finished load of Texture batch [0.10s and 6 frames at 17 ms/frame avg, 2 ms/update peak, 0.10s IO wait], 61 item(s)
+34.770 Sys [Info]: Finished load of Emblem batch [0.07s and 4 frames at 16 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 1 item(s)
+34.888 Sys [Info]: Finished load of AnimRetarget batch [0.12s and 7 frames at 17 ms/frame avg, 2 ms/update peak, 0.12s IO wait], 9 item(s)
+34.888 Sys [Info]: Resource load completed in one pass and 0.7s (I/O ~= 2.4%, inherited 18151 of 32777)
+34.888 Sys [Info]: Frames issuing: 7, frames loading: 16, frames retiring: 28
+34.888 Sys [Info]: Total budget min: 0.00ms, max: 13.5ms, avg: 3.04ms, stddev: 3.19ms, num samples: 43, samples below 2.00ms: 34
+34.888 Sys [Info]: Total time min: 0.02ms, max: 12.4ms, avg: 1.67ms, stddev: 2.38ms, num samples: 42, samples below 2.00ms: 24
+34.888 Sys [Info]: ResLoader time min: 0.00ms, max: 12.4ms, avg: 0.81ms, stddev: 2.40ms, num samples: 42, samples below 2.00ms: 38
+34.888 Sys [Info]: CacheMgr min: 0.00ms, max: 2.79ms, avg: 0.83ms, stddev: 0.98ms, num samples: 43, samples below 2.00ms: 31
+34.970 Sys [Info]: Finished load of Font batch [0.07s and 4 frames at 16 ms/frame avg, 1 ms/update peak, 0.07s IO wait], 4 item(s)
+35.004 Sys [Info]: Finished load of Misc batch [0.03s and 2 frames at 17 ms/frame avg, 1 ms/update peak, 0.03s IO wait], 41 item(s)
+35.022 Sys [Info]: Finished load of Flyweight batch [0.02s and 1 frames at 17 ms/frame avg, 2 ms/update peak, 0.00s IO wait], 94 item(s)
+35.088 Sys [Info]: Finished load of Texture batch [0.07s and 4 frames at 17 ms/frame avg, 1 ms/update peak, 0.07s IO wait], 9 item(s)
+35.088 Sys [Info]: Resource load completed in one pass and 0.5s (I/O ~= 3.9%, inherited 75 of 223)
+35.088 Sys [Info]: Frames issuing: 4, frames loading: 3, frames retiring: 11
+35.088 Sys [Info]: Total budget min: 1.98ms, max: 1.99ms, avg: 1.98ms, stddev: 0.00ms, num samples: 12, samples below 2.00ms: 12
+35.088 Sys [Info]: Total time min: 0.02ms, max: 2.02ms, avg: 0.48ms, stddev: 0.63ms, num samples: 11, samples below 2.00ms: 10
+35.088 Sys [Info]: ResLoader time min: 0.00ms, max: 1.06ms, avg: 0.29ms, stddev: 0.43ms, num samples: 11, samples below 2.00ms: 11
+35.088 Sys [Info]: CacheMgr min: 0.00ms, max: 0.94ms, avg: 0.20ms, stddev: 0.34ms, num samples: 12, samples below 2.00ms: 12
+35.091 Sys [Error]: Could not use mission reward item manifest: razorbackRewardManifest (broken)
+35.092 Sys [Info]: Found 22 items to load (0ms) [Heap: 855,150,240/860,028,928 Footprint: 2,110,828,544 Handles: 896]
+35.247 Sys [Error]: Bad data from getGuild.php:
+35.247 Sys [Error]: Unknown property: GoalProgress[0].SentRewardMessage
+35.249 Sys [Warning]: Invalid item ID for loadout item at slot HEAVY_GUN_SLOT
+35.255 Sys [Info]: Loading resources for /Temp/LocalPlayer loadout...
+35.260 Sys [Info]: Found 32,778 items to load (2ms) [Heap: 855,806,672/860,028,928 Footprint: 2,110,828,544 Handles: 897]
+35.283 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 3 item(s)
+35.283 Sys [Info]: Finished load of Font batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 1 item(s)
+35.287 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 4 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 10083 item(s)
+35.287 Sys [Info]: Finished load of Texture batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 1 item(s)
+35.353 Sys [Info]: Finished load of Emblem batch [0.07s and 4 frames at 17 ms/frame avg, 24 ms/update peak, 0.07s IO wait], 1 item(s)
+35.353 Sys [Info]: Resource load completed in one pass and 0.1s (I/O ~= 0.3%, inherited 18334 of 32778)
+35.353 Sys [Info]: Frames issuing: 1, frames loading: 1, frames retiring: 4
+35.370 Sys [Info]: Budget overrun updating WebGet (131 ms)
+35.373 Sys [Info]: Finished load of Font batch [0.27s and 9 frames at 30 ms/frame avg, 0 ms/update peak, 0.20s IO wait], 7 item(s)
+35.373 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 12 item(s)
+35.373 Sys [Info]: Resource load completed in one pass and 0.3s (I/O ~= 0.1%, inherited 0 of 22)
+35.373 Sys [Info]: Frames issuing: 2, frames loading: 0, frames retiring: 9
+35.373 Sys [Info]: Total budget min: 0.00ms, max: 13.0ms, avg: 2.88ms, stddev: 3.60ms, num samples: 10, samples below 2.00ms: 9
+35.373 Sys [Info]: CacheMgr min: 0.00ms, max: 0.40ms, avg: 0.07ms, stddev: 0.13ms, num samples: 10, samples below 2.00ms: 10
+35.655 Sys [Warning]: Invalid item ID for loadout item at slot HEAVY_GUN_SLOT
+35.659 Sys [Info]: Spot-loading /Lotus/Powersuits/Excalibur/ExcaliburPassive.lua
+35.667 Sys [Info]: Budget overrun updating WebGet (11.3 ms)
+35.921 Sys [Info]: SyncShipDecos
+36.022 Sys [Info]: LotusProfileData::CompleteLoginTasks
+36.022 Sys [Info]: Game specific login tasks result: 1 - 
+36.025 Script [Info]: MainMenu::LoginDone result=true
+36.025 Sys [Info]: Spot-building /Configs/EE.cfg/LotusDedicatedServerAccountSettings
+36.025 Net [Info]: Name lookup: arbiter.warframe.com 23.39.151.18
+36.025 Sys [Info]: Found 113 items to load (0ms) [Heap: 855,368,608/860,028,928 Footprint: 2,112,991,232 Handles: 896]
+36.026 Sys [Info]: Spot-loading flash movie: /Lotus/Interface/ParkourTutorialChoice.swf
+36.026 Sys [Info]: Loaded 7/11 resources at 17 ms/frame
+36.094 Sys [Info]: Finished load of Font batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 1 item(s)
+36.094 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 2 item(s)
+36.162 Sys [Info]: Finished load of Texture batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 2 item(s)
+36.230 Sys [Info]: Finished load of AnimRetarget batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 1 item(s)
+36.230 Sys [Info]: Resource load completed in one pass and 0.2s (I/O ~= 0.6%, inherited 99 of 113)
+36.230 Sys [Info]: Frames issuing: 3, frames loading: 1, frames retiring: 12
+36.230 Sys [Info]: Total budget min: 0.00ms, max: 0.00ms, avg: 0.00ms, stddev: 0.00ms, num samples: 13, samples below 2.00ms: 13
+36.230 Sys [Info]: Total time min: 0.02ms, max: 0.43ms, avg: 0.14ms, stddev: 0.14ms, num samples: 12, samples below 2.00ms: 12
+36.230 Sys [Info]: ResLoader time min: 0.00ms, max: 0.30ms, avg: 0.04ms, stddev: 0.09ms, num samples: 12, samples below 2.00ms: 12
+36.230 Sys [Info]: CacheMgr min: 0.00ms, max: 0.93ms, avg: 0.15ms, stddev: 0.26ms, num samples: 13, samples below 2.00ms: 13
+36.230 Sys [Info]: Total retire read time: 0.00s
+36.230 Sys [Info]: 
+36.230 Sys [Info]:     Loaded: 589,824 B (9 pages) at 0.00 MB/s (0.00s)
+36.230 Sys [Info]:     Idle IO time: 0.20s
+36.230 Sys [Info]:     Decomp: 51,636 B -> 93,132 B (1.8:1) at 0.00 MB/s (0.00s)
+36.230 Sys [Info]:     Seeked: 13x (0.20s)
+36.230 Sys [Info]:     Wasted: 538,188B (91.2%)
+36.230 Sys [Info]:     Scheduling: 0ms
+36.230 Sys [Info]: 
+36.230 Sys [Info]: [Heap: 855,777,184/860,028,928 Footprint: 2,112,466,944 Handles: 896]
+36.249 Sys [Info]: Created /Lotus/Interface/ParkourTutorialChoice.swf
+36.249 Sys [Info]: ResourceLoader::~ResourceLoader() in 0.12ms [Heap: 856,098,528/860,028,928 Footprint: 2,112,466,944 Handles: 896]
+36.249 Sys [Info]: LotusProfileData::UpdateStoreCatalog: catalogue already processed
+36.251 Game [Info]: SetReturnToLobbyLevelArgs, reset to default
+36.251 Sys [Info]: Budget overrun updating WebGet (228 ms)
+36.253 Net [Info]: Address changed (->localhost:4950)
+36.254 Net [Info]: Address changed (->localhost:4955)
+36.254 Sys [Info]: Player name changed to Dybind Clan: Onions Spoon AccountId: 57c4ada43ade7f0a0aba4efe
+36.254 Game [Info]: Mission progress XP: 27579
+36.297 Sys [Info]: Razer Chroma Version : 2.11.5.26
+36.307 Sys [Error]: Razer Chroma failed to initialize (result: 1062).
+36.310 Script [Info]: Creating pet loader for 18 types.
+36.311 Sys [Info]: Found 6,880 items to load (1ms) [Heap: 857,126,512/860,028,928 Footprint: 2,112,659,456 Handles: 897]
+36.315 Sys [Error]: Could not find item: /Lotus/Weapons/Tenno/Archwing/Primary/FairyArchwingPistols/FairyArchwingPistols
+36.316 Sys [Error]: Could not use /Lotus/Objects/ExplodingBarrelFrozen as a Item (it's a Decoration)
+36.316 Sys [Error]: Could not use /Lotus/Objects/ExplodingBarrel as a Item (it's a Decoration)
+36.316 Sys [Error]: Could not use /Lotus/Types/Gameplay/Grineer/BrokenLight as a Item (it's a Decoration)
+36.316 Sys [Error]: Could not use /Lotus/Objects/GrnExplodingBarrel as a Item (it's a Decoration)
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossLieutenantLechKril
+36.316 Sys [Error]: Could not use /Lotus/Types/Enemies/Corpus/Drones/AIWeek/DiscDamageTrigger as a Item (it's a DamageTrigger)
+36.316 Sys [Error]: Could not use /Lotus/Objects/OrokinExplodingBarrel as a Item (it's a Decoration)
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossHyenaElectric
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossAladV
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossHyenaFire
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossHyenaIce
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossTheJackal
+36.316 Sys [Error]: Could not use /Lotus/Types/Enemies/Sentients/Abilities/GodRaysBeam as a Item (it's a LaserBeam)
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossHyenaGun
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossGeneralSargasRuk
+36.316 Sys [Error]: Could not use /Lotus/Types/Player/TennoAvatar as a Item (it's a TennoAvatar)
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossTheRaptor
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossTylRegor
+36.316 Sys [Error]: Could not use /EE/Types/Engine/Decoration as a Item (it's a Decoration)
+36.316 Sys [Error]: Could not use /Lotus/Types/Friendly/Pets/KubrowPetPrecepts/ChargerSpikeProjectile as a Item (it's a GuidedProjectile)
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossLephantis
+36.316 Sys [Error]: Could not use /Lotus/Powersuits/Archwing/DemolitionJetPack/ExhaustAugmentDamageTrigger as a Item (it's a DamageTrigger)
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossSeargentNefAnyo
+36.316 Sys [Error]: Could not use /Lotus/Objects/CrpMegaExplodingBarrel as a Item (it's a Decoration)
+36.316 Sys [Error]: Could not use /Lotus/Types/Enemies/Infested/AiWeek/Ancients/AncientSpikeProjectile as a Item (it's a GuidedProjectile)
+36.316 Sys [Error]: Could not use /Lotus/Types/Enemies/Grineer/Vip/SargasRuk/SargasFireBlastEntity as a Item (it's a QuadRobotShockwaveEntity)
+36.316 Sys [Error]: Could not use /Lotus/Types/Enemies/Infested/AiWeek/InfestedDrones/PoisonBombElement as a Item (it's a Element)
+36.316 Sys [Error]: Could not use /Lotus/Types/Enemies/Corpus/SpecialEvents/ArmoredJackal/ArmorJackalCrpBFGDamageTrigger as a Item (it's a RadialBeamDamageTrigger)
+36.316 Sys [Error]: Could not use /Lotus/Types/Weapon/SmallBipedRobotShockwaveEntity as a Item (it's a QuadRobotShockwaveEntity)
+36.316 Sys [Error]: Could not use /Lotus/Types/Enemies/Grineer/AIWeek/Avatars/Gear/SpikeProjectile as a Item (it's a GuidedProjectile)
+36.316 Sys [Error]: Could not use /Lotus/Types/Weapon/SmallBipedInfestedShockwaveEntity as a Item (it's a QuadRobotShockwaveEntity)
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossKelaDeThaym
+36.316 Sys [Error]: Could not use /Lotus/Types/Friendly/Tenno/OperatorAvatar as a Item (it's a LotusOperatorAvatar)
+36.316 Sys [Error]: Could not use /Lotus/Powersuits/Glass/ShatterElement as a Item (it's a Element)
+36.316 Sys [Error]: Could not use /Lotus/Types/Friendly/Tenno/CombatOperatorAvatar as a Item (it's a LotusOperatorAvatar)
+36.316 Sys [Error]: Could not use /Lotus/Powersuits/Harlequin/HarlequinLockerTrigger as a Item (it's a ScriptTrigger)
+36.316 Sys [Error]: Could not use /Lotus/Weapons/Grineer/CatMasterWeapons/ScorchDamageTrigger as a Item (it's a DamageTrigger)
+36.316 Sys [Error]: Could not use /Lotus/Types/LevelObjects/GrineerUnderwaterMine as a Item (it's a Decoration)
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossJ3Golem
+36.316 Sys [Error]: Could not use /Lotus/Weapons/Grineer/NapalmElement as a Item (it's a Element)
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossInfestedAladV
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossPhorid
+36.316 Sys [Error]: Could not find item: /Lotus/Language/Bosses/BossCaptainVor
+36.316 Sys [Error]: Could not use /Lotus/Types/Game/Projectiles/AttractorProjectile as a Item (it's a Projectile)
+36.317 Sys [Error]: Could not use /Lotus/Powersuits/Revenant/AfflictionElement as a Item (it's a Element)
+36.317 Sys [Error]: Could not use /Lotus/Powersuits/Nezha/RingProjectileBounce as a Item (it's a Glaive)
+36.317 Sys [Error]: Could not use /Lotus/Powersuits/Excalibur/DoomSwordProjectile as a Item (it's a WaveProjectile)
+36.317 Sys [Error]: Could not use /Lotus/Types/Enemies/Corpus/Drones/DroneAvatars/DroneProjectile as a Item (it's a Projectile)
+36.317 Sys [Error]: Could not use /Lotus/Weapons/Grineer/Emplacements/GrnEmplcmntStndng/GrineerEmplacementStanding as a Item (it's a Emplacement)
+36.317 Sys [Error]: Could not use /Lotus/Types/Enemies/Grineer/AIWeek/Avatars/PowerFistShockwaveEntity as a Item (it's a QuadRobotShockwaveEntity)
+36.317 Sys [Error]: Could not use /Lotus/Weapons/Grineer/LongGuns/GrineerFlakCannon/AiFortressFlakProjectile as a Item (it's a Projectile)
+36.317 Sys [Error]: Could not use /Lotus/Types/Enemies/Corpus/Spaceman/Avatars/ModularCorpusAShockwaveEntity as a Item (it's a QuadRobotShockwaveEntity)
+36.317 Sys [Error]: Could not find entity: /Stalker
+36.318 Sys [Error]: Could not find item: /Lotus/Powersuits/PowersuitAbilities/OperatorTacticAbility
+36.318 Sys [Error]: Could not find item: /Lotus/Powersuits/PowersuitAbilities/OperatorRelayTransferenceAbility
+36.320 Sys [Warning]: LotusOnlinePlayerStats stats parse warnings:
+Unknown property: Races
+36.367 Sys [Info]: Parsed player stats from server (54 ms)
+36.367 Script [Info]: Main menu.lua - received stats
+36.367 Sys [Info]: LotusProfileData::SyncChallengeStats()
+36.367 Sys [Info]: Budget overrun updating WebGet (52.9 ms)
+36.368 Net [Info]: NAT bound for client to 99.203.27.196:40791
+36.369 Net [Info]: NAT bound for server to 99.203.27.196:30114
+36.375 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 3 item(s)
+36.375 Sys [Info]: Finished load of Font batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 1 item(s)
+36.380 Net [Info]: Pinging 104.236.17.211:4950 from client
+36.380 Net [Info]: Pinging 104.236.17.211:4950 from server
+36.380 Net [Info]: Pinging 104.236.17.211:4950 from client
+36.380 Net [Info]: Pinging 104.236.17.211:4950 from server
+36.381 Net [Info]: Pinging 128.199.105.91:4950 from client
+36.381 Net [Info]: Pinging 128.199.105.91:4950 from server
+36.381 Net [Info]: Pinging 128.199.105.91:4950 from client
+36.381 Net [Info]: Pinging 128.199.105.91:4950 from server
+36.381 Net [Info]: Pinging 165.227.164.4:4950 from client
+36.381 Net [Info]: Pinging 165.227.164.4:4950 from server
+36.381 Net [Info]: Pinging 165.227.164.4:4950 from client
+36.381 Net [Info]: Pinging 165.227.164.4:4950 from server
+36.381 Net [Info]: Pinging 188.166.23.150:4950 from client
+36.381 Net [Info]: Pinging 188.166.23.150:4950 from server
+36.381 Net [Info]: Pinging 188.166.23.150:4950 from client
+36.381 Net [Info]: Pinging 188.166.23.150:4950 from server
+36.381 Net [Info]: Pinging 192.184.13.46:4950 from client
+36.381 Net [Info]: Pinging 192.184.13.46:4950 from server
+36.381 Net [Info]: Pinging 192.184.13.46:4950 from client
+36.381 Net [Info]: Pinging 192.184.13.46:4950 from server
+36.481 Net [Info]: Client test reply from 192.184.13.46:4950 (100ms), public address 99.203.27.196:40791
+36.481 Net [Info]: Client test reply from 192.184.13.46:4950 (100ms), public address 99.203.27.196:40791 (bait untaken)
+36.481 Net [Info]: Client test reply from 104.236.17.211:4950 (101ms), public address 99.203.27.196:64899
+36.481 Net [Info]: Client test reply from 104.236.17.211:4950 (101ms), public address 99.203.27.196:64899 (bait untaken)
+36.481 Net [Info]: Server test reply from 104.236.17.211:4950 (101ms), public address 99.203.27.196:20821
+36.481 Net [Info]: Server test reply from 104.236.17.211:4950 (101ms), public address 99.203.27.196:20821 (bait untaken)
+36.481 Net [Info]: Server test reply from 192.184.13.46:4950 (100ms), public address 99.203.27.196:30114
+36.481 Net [Info]: Server test reply from 192.184.13.46:4950 (100ms), public address 99.203.27.196:30114 (bait untaken)
+36.537 Sys [Info]: Finished load of Misc batch [0.16s and 11 frames at 15 ms/frame avg, 13 ms/update peak, 0.16s IO wait], 580 item(s)
+36.538 Sys [Info]: Spot-loading /Lotus/Scripts/KubrowController.lua during batch loading!
+36.554 Net [Info]: Client test reply from 188.166.23.150:4950 (173ms), public address 99.203.27.196:42608
+36.554 Net [Info]: Server test reply from 188.166.23.150:4950 (173ms), public address 99.203.27.196:15059
+36.554 Net [Info]: Server test reply from 188.166.23.150:4950 (173ms), public address 99.203.27.196:15059 (bait untaken)
+36.556 Sys [Info]: Finished load of Flyweight batch [0.02s and 1 frames at 19 ms/frame avg, 16 ms/update peak, 0.00s IO wait], 1112 item(s)
+36.557 Net [Info]: Client test reply from 188.166.23.150:4950 (176ms), public address 99.203.27.196:42608 (bait untaken)
+36.579 Net [Info]: Client test reply from 165.227.164.4:4950 (198ms), public address 99.203.27.196:12316
+36.579 Net [Info]: Client test reply from 165.227.164.4:4950 (198ms), public address 99.203.27.196:12316 (bait untaken)
+36.579 Net [Info]: Server test reply from 165.227.164.4:4950 (198ms), public address 99.203.27.196:11985
+36.579 Net [Info]: Server test reply from 165.227.164.4:4950 (198ms), public address 99.203.27.196:11985 (bait untaken)
+36.621 Sys [Info]: Finished load of Texture batch [0.07s and 4 frames at 16 ms/frame avg, 1 ms/update peak, 0.07s IO wait], 6 item(s)
+36.623 Net [Info]: Server test reply from 128.199.105.91:4950 (242ms), public address 99.203.27.196:37849
+36.623 Net [Info]: Server test reply from 128.199.105.91:4950 (242ms), public address 99.203.27.196:37849 (bait untaken)
+36.656 Net [Info]: Client test reply from 128.199.105.91:4950 (275ms), public address 99.203.27.196:33155
+36.656 Net [Info]: Client test reply from 128.199.105.91:4950 (275ms), public address 99.203.27.196:33155 (bait untaken)
+36.656 Net [Info]: Network analysis complete. 20 of 20 hosts contacted.
+36.656 Net [Warning]: Strict NAT detected!
+36.657 Net [Info]: Network analysis: Strict NAT detected. No UPnP or NAT-PMP detected. Please forward UDP ports 4950 & 4955 to 172.20.10.2.
+36.657 Script [Info]: Network analysis done: strictNAT
+36.672 Sys [Info]: Spot-loading /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeWindowOpen during batch loading!
+36.674 Sys [Info]: Spot-loading /Lotus/Sounds/UI/ThemeDefault/UIDefaultThemeWindowOpen.wav during batch loading!
+36.683 Sys [Info]: Created /Lotus/Interface/Dialog.swf
+36.683 Script [Info]: Dialog::CreateOkCancel(description=Strict NAT detected. No UPnP or NAT-PMP detected. Please forward UDP ports 4950 & 4955 to 172.20.10.2., leftItem=/Lotus/Language/Menu/NetTest_Help, rightItem=/Menu/Continue)
+36.687 Sys [Info]: Finished load of AnimRetarget batch [0.07s and 4 frames at 16 ms/frame avg, 1 ms/update peak, 0.07s IO wait], 4 item(s)
+36.687 Sys [Info]: Resource load completed in one pass and 0.4s (I/O ~= 30%, inherited 5106 of 6880)
+36.687 Sys [Info]: Frames issuing: 4, frames loading: 3, frames retiring: 20
+36.687 Sys [Info]: Total budget min: 0.00ms, max: 13.1ms, avg: 5.91ms, stddev: 4.45ms, num samples: 22, samples below 2.00ms: 10
+36.687 Sys [Info]: Total time min: 0.02ms, max: 15.8ms, avg: 4.60ms, stddev: 5.30ms, num samples: 21, samples below 2.00ms: 11
+36.687 Sys [Info]: ResLoader time min: 0.00ms, max: 15.8ms, avg: 1.21ms, stddev: 3.84ms, num samples: 21, samples below 2.00ms: 19
+36.687 Sys [Info]: CacheMgr min: 0.00ms, max: 12.8ms, avg: 3.22ms, stddev: 4.61ms, num samples: 22, samples below 2.00ms: 14
+36.706 Script [Info]: Pet resource loader is done; spawning pets...
+36.706 Sys [Info]: Registering LotusSentinelAvatar, ID is 1
+36.707 Sys [Info]: Registering LotusSentinelAvatar, ID is 2
+36.708 Sys [Info]: Registering LotusSentinelAvatar, ID is 3
+36.709 Sys [Info]: LotusSentinelAvatar with ID 3 setting owner player to Dybind
+36.709 Sys [Info]: LotusSentinelAvatar with ID 3 setting owner Avatar to TennoShipAvatar0
+36.709 Sys [Info]: LotusSentinelAvatar with ID 3 got creator change. OldCreator: NULL, NewCreator: TennoShipAvatar0
+36.709 Sys [Info]: Out with the old, in with the new
+36.709 Sys [Info]: Did not have previous creator Avatar
+36.709 Sys [Info]: Waiting for player replication
+36.709 Sys [Info]: LotusSentinelAvatar with ID 3 setting owner player to Dybind
+36.709 Sys [Info]: LotusSentinelAvatar with ID 3 setting owner Avatar to TennoShipAvatar0
+36.709 Sys [Info]: LotusSentinelAvatar with ID 2 setting owner player to Dybind
+36.709 Sys [Info]: LotusSentinelAvatar with ID 2 setting owner Avatar to TennoShipAvatar0
+36.709 Sys [Info]: Found Sentinel with ID 3 also owned by Tenno Avatar TennoShipAvatar0
+36.709 Sys [Info]: LotusSentinelAvatar with ID 2 got creator change. OldCreator: NULL, NewCreator: TennoShipAvatar0
+36.709 Sys [Info]: Out with the old, in with the new
+36.709 Sys [Info]: Did not have previous creator Avatar
+36.709 Sys [Info]: Waiting for player replication
+36.710 Sys [Info]: Spot-building /Lotus/Upgrades/Skins/HolsterCustomizations/BowUpperBack
+36.739 Game [Info]: OperatorHubAvatar4 - changing anim controller to FemaleOperatorAnimController
+36.774 Sys [Info]: Found 444 items to load (1ms) [Heap: 883,094,976/883,294,208 Footprint: 2,150,473,728 Handles: 897]
+36.854 Sys [Info]: Finished load of ShaderPermutation batch [0.07s and 4 frames at 16 ms/frame avg, 1 ms/update peak, 0.07s IO wait], 3 item(s)
+36.922 Sys [Info]: Finished load of Font batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 3 item(s)
+37.004 Sys [Info]: Finished load of Misc batch [0.08s and 5 frames at 16 ms/frame avg, 3 ms/update peak, 0.03s IO wait], 167 item(s)
+37.004 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 0 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 54 item(s)
+37.071 Sys [Info]: Finished load of Texture batch [0.07s and 4 frames at 17 ms/frame avg, 0 ms/update peak, 0.07s IO wait], 7 item(s)
+37.071 Sys [Info]: Resource load completed in one pass and 0.3s (I/O ~= 6.7%, inherited 208 of 444)
+37.071 Sys [Info]: Frames issuing: 4, frames loading: 5, frames retiring: 15
+37.071 Sys [Info]: Total budget min: 1.97ms, max: 3.37ms, avg: 2.07ms, stddev: 0.33ms, num samples: 18, samples below 2.00ms: 16
+37.071 Sys [Info]: Total time min: 0.02

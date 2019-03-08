@@ -1,0 +1,699 @@
+Current time: Fri Mar  8 02:30:53 2019 [UTC Fri Mar  8 08:30:53 2019]
+LoadCEFLib
+Using single cluster mode
+
+EnableFullScreen: 0
+EnableBulkDownload: 1
+EnableAggressiveDownload: 1
+LauncherGPU: 1
+EnableMTRendering: 1
+SC_PUBLIC
+OS Version: 6.2 (SP0)
+Finished Platform (0.0 seconds)
+Finished PickDirectory (0.0 seconds)
+
+Windows Firewall is disabled
+Finished Firewall (0.0 seconds)
+Finished GameRunning (0.0 seconds)
+
+WinINET configuration:
+INTERNET_OPTION_HTTP_VERSION 1.1
+INTERNET_OPTION_CONNECT_RETRIES: 5
+
+HTTP GET /origin/760D7418/index.txt.lzma
+GET /origin/760D7418/index.txt.lzma HTTP/1.1
+Host: origin.warframe.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: Apache
+Last-Modified: Fri, 08 Mar 2019 05:04:21 GMT
+ETag: "1f7b-5838e27dfe05e"
+Accept-Ranges: bytes
+Content-Length: 8059
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/plain
+Date: Fri, 08 Mar 2019 08:30:56 GMT
+Connection: keep-alive
+
+
+HTTP GET /Lotus/Language/MOTD_en.rtf.lzma
+GET /Lotus/Language/MOTD_en.rtf.lzma HTTP/1.1
+Host: content.warframe.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Fri, 08 Mar 2019 08:30:56 GMT
+Connection: Keep-Alive
+Accept-Ranges: bytes
+Cache-Control: public, max-age=240
+Content-Length: 26960
+Content-Type: application/rtf
+Last-Modified: Fri, 08 Mar 2019 02:06:50 GMT
+ETag: "6950-5838bad10da08"
+X-HW: 1552033856.dop007.da2.t,1552033856.cds020.da2.c
+
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Launcher.exe...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\cef.pak...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\cef_100_percent.pak...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\cef_200_percent.pak...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\cef_extensions.pak...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\d3dcompiler_43.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\d3dcompiler_47.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\devtools_resources.pak...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\icudtl.dat...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\libEGL.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\libGLESv2.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\libcef.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\natives_blob.bin...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\snapshot_blob.bin...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\widevinecdmadapter.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\launcher.zip...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\steamController.vdf...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\steam_api64.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Lotus\Language\CBA_en.rtf...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Lotus\Language\EULA_en.rtf...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Drivers\DirectX9\APR2007_xinput_x64.cab...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Drivers\DirectX9\APR2007_xinput_x86.cab...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Drivers\DirectX9\DSETUP.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Drivers\DirectX9\DXSETUP.exe...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Drivers\DirectX9\Jun2010_XAudio_x64.cab...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Drivers\DirectX9\Jun2010_XAudio_x86.cab...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Drivers\DirectX9\Oct2005_xinput_x64.cab...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Drivers\DirectX9\Oct2005_xinput_x86.cab...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Drivers\DirectX9\dsetup32.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Drivers\DirectX9\dxupdate.cab...
+Finished Binaries0 (2.1 seconds)
+Finished CBA (0.0 seconds)
+Finished EULA (0.0 seconds)
+Checking D3D support...
+Found D3D adapter 0: NVIDIA GeForce GTX 1050 Ti (D3D_FEATURE_LEVEL_11_0)
+Ignoring software D3D adapter 1: Microsoft Basic Render Driver (D3D_FEATURE_LEVEL_11_0)
+Finished DirectX (0.2 seconds)
+Purging empty D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CEF3_1\VC14\locales\
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Bink2\bink2w64.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\CachePlan.txt...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Oodle\x64\final\oo2core_7_win64.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Oodle\x64\final\oo2net_7_win64.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\OpenSSL\x64\license.txt...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\PhysX\x64\PhysX3CharacterKinematic_x64.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\PhysX\x64\PhysX3Common_x64.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\PhysX\x64\PhysX3Cooking_x64.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\PhysX\x64\PhysX3_x64.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\PhysX\x64\PxFoundation_x64.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\PhysX\x64\PxPvdSDK_x64.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\PhysX\x64\nvToolsExt64_1.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\RemoteCrashSender.exe...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\amd_ags_x64.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-console-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-datetime-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-debug-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-errorhandling-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-file-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-file-l1-2-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-file-l2-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-handle-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-heap-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-interlocked-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-libraryloader-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-localization-l1-2-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-memory-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-namedpipe-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-processenvironment-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-processthreads-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-processthreads-l1-1-1.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-profile-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-rtlsupport-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-string-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-synch-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-synch-l1-2-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-sysinfo-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-timezone-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-core-util-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-conio-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-convert-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-environment-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-filesystem-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-heap-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-locale-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-math-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-multibyte-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-private-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-process-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-runtime-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-stdio-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-string-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-time-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\api-ms-win-crt-utility-l1-1-0.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\concrt140.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\dbghelp.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\discord_game_sdk.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\msvcp140.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\msvcp140_1.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\msvcp140_2.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\symsrv.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\ucrtbase.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\vccorlib140.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools\Windows\x64\vcruntime140.dll...
+Hashing D:\Program Files (x86)\Steam\steamapps\common\Warframe\Warframe.x64.exe...
+Finished Binaries1 (0.7 seconds)
+Finished Repair (0.0 seconds)
+ReqSpawnProcess - InitDialog
+"D:\Program Files (x86)\Steam\steamapps\common\Warframe\Warframe.x64.exe" -silent -log:/Preprocess.log -dx10:1 -dx11:0 -threadedworker:1 -cluster:public -language:en -applet:/EE/Types/Framework/ContentUpdate
+0.150 Sys [Diag]: Process Command-line: -silent -log:/Preprocess.log -dx10:1 -dx11:0 -threadedworker:1 -cluster:public -language:en -applet:/EE/Types/Framework/ContentUpdate
+0.150 Sys [Diag]: Build Label: 2019.03.07.23.02 Retail Windows x64 [Stripped]
+0.163 Sys [Diag]: Build Unique ID: 182925283
+0.173 Sys [Diag]: Windows user-name: Dex
+0.174 Sys [Diag]: Windows computer-name: Dexter
+0.188 Sys [Diag]: Current time: Fri Mar  8 02:30:58 2019 [UTC: Fri Mar  8 08:30:58 2019]
+0.188 Sys [Diag]: Current directory: D:\Program Files (x86)\Steam\steamapps\common\Warframe\Tools
+0.202 Sys [Diag]: Processor: Intel Quad-HT Core i7-3770 3400MHz HT/MMX/SSE/SSE2/SSE3/SSSE3/SSE41/SSE42/AVX/POPCNT/F16C F/M/S/EF/EM: 6/A/9/0/3
+0.203 Sys [Diag]: Physical Memory: 10GB / 16GB free
+0.203 Sys [Diag]: Address Space: 128TB / 128TB free
+0.204 Sys [Diag]: C:\pagefile.sys: 2,318MB of 2,432MB free
+0.204 Sys [Diag]: Page size: 4KB (Granularity: 64KB)
+0.204 Sys [Diag]: Operating System: Windows 10 [64-bit]
+0.210 Sys [Diag]: System Processes: 205
+0.211 Sys [Diag]: System Threads: 3,095
+0.211 Sys [Diag]: System Handles: 102,327
+0.221 Sys [Diag]: System GDI Objects: 0
+0.221 Sys [Diag]: System USER Objects: 0
+0.221 Sys [Diag]: System Up-Time: 1d 11h 38m 31s
+0.222 Sys [Diag]: Free Disk Space on C: 37,806,292,992 bytes
+0.223 Sys [Diag]: Free Disk Space on D: 888,111,198,208 bytes
+0.223 Sys [Diag]: Found Monitor: (0, 0) - (1920, 1080) : 1920x1080
+0.223 Sys [Diag]: Found Monitor: (1920, 0) - (3456, 864) : 1536x864
+0.223 Sys [Diag]: Clock frequency: 3,312,792Hz
+0.246 Gfx [Info]: Private shader options need 35 bits
+0.246 Sys [Info]: CancelJobs batchcount 0
+0.261 Sys [Info]: Loading packages took 0.0ms
+0.261 Sys [Info]: Redirecting package load to: C:\Users\Dex\AppData\Local\Warframe\Editor.cfg
+0.262 Sys [Info]: Windows caching enabled
+0.262 Sys [Info]: Dx9 caching enabled
+0.262 Sys [Info]: Dx11 caching enabled
+0.263 Sys [Info]: Scanning D:\Program Files (x86)\Steam\steamapps\common\Warframe\Cache.Windows\ for cache blocks...
+0.264 Sys [Info]: Found 111 cache blocks...
+0.291 Sys [Info]: Cache languages enabled: _en
+0.292 Sys [Info]: Loading Oodle DLL: oo2core_7_win64.dll
+0.304 Sys [Info]: Loading Net Oodle DLL: oo2net_7_win64.dll
+
+
+0.386 Sys [Info]: Downloading cache manifest index...
+0.918 Sys [Info]: Loaded TOC for Windows/H.Misc (took 284ms, loaded 102417 entries, found 1326 deleted)
+0.926 Sys [Info]: Used shared /H.Cache.bin (883B Copy: 0.00s Write: 0.29s Latency: 0.54s)
+0.940 Sys [Info]: Budget overrun commiting write of H.Misc/H.Cache.bin (3.53 ms)
+0.978 Sys [Info]: Loaded TOC for Windows/H.Font (took 6.41ms, loaded 2399 entries, found 52 deleted)
+0.989 Sys [Info]: Loaded TOC for Windows/B.Font (took 6.92ms, loaded 2388 entries, found 110 deleted)
+1.005 Sys [Info]: Loaded TOC for Windows/H.AnimRetarget (took 14.8ms, loaded 3960 entries, found 191 deleted)
+1.022 Sys [Info]: Loaded TOC for Windows/B.AnimRetarget (took 13.1ms, loaded 3539 entries, found 177 deleted)
+1.120 Sys [Info]: Loaded TOC for Windows/B.Misc (took 94.7ms, loaded 66181 entries, found 293 deleted)
+1.459 Sys [Info]: Loaded TOC for Windows/H.VideoTexture (took 0.10ms, loaded 24 entries, found 0 deleted)
+1.459 Sys [Info]: Loaded TOC for Windows/B.CharacterCodesCache (took 0.01ms, loaded 1 entries, found 1 deleted)
+1.459 Sys [Info]: Loaded TOC for Windows/H.CharacterCodesCache (took 0.00ms, loaded 1 entries, found 1 deleted)
+1.602 Sys [Info]: Cache manifest hash hVmdizyGsly5BFTCmngwig
+1.612 Sys [Info]: Loaded TOC for Windows/F.Misc (took 6.43ms, loaded 4287 entries, found 21 deleted)
+1.615 Sys [Info]: Loaded TOC for Windows/H.VideoTextureStreaming (took 0.20ms, loaded 16 entries, found 0 deleted)
+1.617 Sys [Info]: Loaded TOC for Windows/F.VideoTexture (took 0.07ms, loaded 24 entries, found 0 deleted)
+1.645 Sys [Info]: Loaded TOC for Windows/H.Misc_en (took 0.20ms, loaded 65 entries, found 0 deleted)
+1.646 Sys [Info]: Loaded TOC for Windows/F.VideoTextureStreaming (took 0.05ms, loaded 16 entries, found 0 deleted)
+1.657 Sys [Info]: Loaded TOC for Windows/F.Misc_en (took 0.08ms, loaded 53 entries, found 1 deleted)
+1.657 Sys [Info]: Loaded TOC for Windows/B.Misc_en (took 0.14ms, loaded 65 entries, found 0 deleted)
+1.658 Sys [Error]: Reading large file /Windows/H.Misc/Packages.bin (file size 116087980)
+1.661 Sys [Info]: Loaded TOC for Dx10/H.CharacterCodesCache (took 0.47ms, loaded 296 entries, found 30 deleted)
+2.692 Sys [Info]: Loading package cache took 1.0s (Parse: 0.8s)
+2.754 Sys [Info]: Loaded TOC for Dx10/H.Shader (took 0.29ms, loaded 180 entries, found 9 deleted)
+2.755 Sys [Info]: Loaded TOC for Dx10/B.CharacterCodesCache (took 0.07ms, loaded 87 entries, found 6 deleted)
+3.104 Sys [Info]: Load deps cache took 352ms
+3.157 Sys [Info]: Redirecting package load to: C:\Users\Dex\AppData\Local\Warframe\EE.cfg
+3.159 Sys [Diag]: Engine config profile: /Configs/EE.cfg/Windows_Config
+3.159 Sys [Info]: JobMgr: 6 threads
+3.202 Sys [Info]: Driver registered: ScriptDriver Supported types: [Script]
+3.204 Script [Info]: ScriptMgr::Initialize() 2,541,952 bytes, 24,262 allocs
+3.204 Sys [Info]: Using language: _en
+3.212 Sys [Info]: Loaded TOC for Dx10/H.ShaderPermutation (took 5.09ms, loaded 8220 entries, found 213 deleted)
+3.216 Sys [Info]: Loaded TOC for Dx10/B.Shader (took 0.21ms, loaded 69 entries, found 1 deleted)
+3.346 Sys [Info]: Loading language cache took 0.141389s
+3.346 Sys [Diag]: Command line: -silent -log:/Preprocess.log -dx10:1 -dx11:0 -threadedworker:1 -cluster:public -language:en -applet:/EE/Types/Framework/ContentUpdate
+3.351 Sys [Diag]: SRand seeded with: 12746390575668811847
+3.352 Phys [Info]: Custom physx allocator in use
+3.421 Gfx [Info]: PhysX Core Version: 3.4.2.0
+3.421 Phys [Info]: PhysX scene manager initialized.
+3.421 Sys [Info]: Driver registered: MaterialLibrary Supported types: [PhysicsMaterial]
+3.422 Sys [Info]: Spot-building /EE/Types/Physics/Materials/Default
+3.423 Sys [Info]: Found 3 items to load (1ms) [Heap: 174,155,664/174,325,760 Footprint: 211,013,632 Handles: 476]
+3.423 Sys [Info]: Loaded TOC for Dx11/B.CharacterCodesCache (took 0.20ms, loaded 87 entries, found 6 deleted)
+3.423 Sys [Info]: Loaded TOC for Dx11/H.CharacterCodesCache (took 0.58ms, loaded 296 entries, found 33 deleted)
+3.428 Sys [Info]: Loaded TOC for Dx10/B.ShaderPermutation (took 4.67ms, loaded 8220 entries, found 210 deleted)
+3.431 Sys [Error]: Could not find game rules: /EE/Types/GameRules/DefaultGameRules
+3.431 Sys [Error]: Required by game config /EE/Types/GameRules/GameConfig
+3.431 Sys [Error]: Failed to create run-time type: DefaultGameRules (parent GameRules is abstract)
+3.431 Sys [Error]: Could not create /EE/Types/GameRules/DefaultGameRules as a GameRules
+3.432 Sys [Error]: Could not find game rules: /EE/Types/GameRules/MultiplayerGameRules
+3.432 Sys [Error]: Required by game config /EE/Types/GameRules/GameConfig
+3.433 Sys [Error]: Failed to create run-time type: MultiplayerGameRules (parent GameRules is abstract)
+3.433 Sys [Error]: Could not create /EE/Types/GameRules/MultiplayerGameRules as a GameRules
+3.433 Sys [Info]: Finished load of Flyweight batch [0.00s and 0 frames at 4 ms/frame avg, 0 ms/update peak, 0.00s IO wait], 3 item(s)
+3.434 Sys [Info]: Resource load completed in one pass and 0.0s (I/O ~= 0.0%, inherited 0 of 3)
+3.434 Sys [Info]: Frames issuing: 0, frames loading: 0, frames retiring: 0
+3.452 Net [Info]: UPnP enabled.
+3.452 Net [Info]: NAT-PMP enabled.
+3.452 Sys [Info]: Spot-building /EE/Types/Net/UDPDriver
+3.456 Sys [Info]: Loaded TOC for Dx11/B.Shader (took 0.11ms, loaded 69 entries, found 1 deleted)
+3.456 Sys [Info]: Loaded TOC for Dx11/H.Shader (took 0.33ms, loaded 180 entries, found 9 deleted)
+3.463 Sys [Info]: Loaded TOC for Dx11/H.ShaderPermutation (took 5.14ms, loaded 8220 entries, found 196 deleted)
+3.464 Sys [Info]: No stripped assets to preprocess (manifest hash matched)
+3.467 Sys [Info]: TypeMgr cleaned 0 instances (0.00ms) and unbuilt 0 types (2.94ms) in 0.00ms
+3.467 Sys [Info]: Startup time: 3.47s
+3.468 Sys [Info]: Done.
+3.469 Sys [Info]: /Cache.Windows/B.AnimRetarget.cache 26,243,073 / 162,888,018 bytes wasted (16%)
+3.470 Sys [Info]: /Cache.Windows/B.CharacterCodesCache.cache 38,498 / 77,007 bytes wasted (49%)
+3.471 Sys [Info]: /Cache.Windows/B.CharacterCodesCacheDx10.cache 3,296,661 / 8,141,013 bytes wasted (40%)
+3.471 Sys [Info]: /Cache.Windows/B.CharacterCodesCacheDx11.cache 3,309,371 / 9,696,119 bytes wasted (34%)
+3.472 Sys [Info]: Loaded TOC for Dx9/B.CharacterCodesCache (took 0.68ms, loaded 87 entries, found 5 deleted, spot-loaded)
+3.472 Sys [Info]: /Cache.Windows/B.CharacterCodesCacheDx9.cache 152,379 / 2,917,504 bytes wasted (5%)
+3.475 Sys [Info]: Loaded TOC for Dx9/B.Emblem (took 2.43ms, loaded 2118 entries, found 0 deleted, spot-loaded)
+3.476 Sys [Info]: /Cache.Windows/B.Font.cache 2,208,165 / 17,220,432 bytes wasted (12%)
+3.476 Sys [Info]: /Cache.Windows/B.Misc.cache 67,176,177 / 3,843,739,058 bytes wasted (1%)
+3.477 Sys [Info]: Loaded TOC for Windows/B.Misc_de (took 0.74ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.478 Sys [Info]: Loaded TOC for Windows/B.Misc_es (took 0.59ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.479 Sys [Info]: Loaded TOC for Windows/B.Misc_fr (took 0.83ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.481 Sys [Info]: Loaded TOC for Windows/B.Misc_it (took 0.79ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.482 Sys [Info]: Loaded TOC for Windows/B.Misc_ja (took 1.41ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.484 Sys [Info]: Loaded TOC for Windows/B.Misc_ko (took 0.76ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.485 Sys [Info]: Loaded TOC for Windows/B.Misc_pl (took 0.74ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.487 Sys [Info]: Loaded TOC for Windows/B.Misc_pt (took 0.81ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.488 Sys [Info]: Loaded TOC for Windows/B.Misc_ru (took 0.60ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.489 Sys [Info]: Loaded TOC for Windows/B.Misc_tc (took 0.58ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.490 Sys [Info]: Loaded TOC for Windows/B.Misc_tr (took 0.82ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.491 Sys [Info]: Loaded TOC for Windows/B.Misc_uk (took 0.69ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.506 Sys [Info]: Loaded TOC for Windows/B.Misc_xx (took 14.8ms, loaded 10643 entries, found 1506 deleted, spot-loaded)
+3.507 Sys [Info]: /Cache.Windows/B.Misc_xx.cache 1,016,492 / 11,692,781 bytes wasted (8%)
+3.508 Sys [Info]: Loaded TOC for Windows/B.Misc_zh (took 0.70ms, loaded 65 entries, found 0 deleted, spot-loaded)
+3.508 Sys [Info]: /Cache.Windows/B.ShaderDx10.cache 30,154 / 999,665 bytes wasted (3%)
+3.509 Sys [Info]: /Cache.Windows/B.ShaderDx11.cache 30,202 / 989,119 bytes wasted (3%)
+3.510 Sys [Info]: Loaded TOC for Dx9/B.Shader (took 0.70ms, loaded 69 entries, found 1 deleted, spot-loaded)
+3.510 Sys [Info]: /Cache.Windows/B.ShaderDx9.cache 7,042 / 541,224 bytes wasted (1%)
+3.510 Sys [Info]: /Cache.Windows/B.ShaderPermutationDx10.cache 28,662,401 / 1,177,973,216 bytes wasted (2%)
+3.516 Sys [Info]: Loaded TOC for Dx11/B.ShaderPermutation (took 5.93ms, loaded 8220 entries, found 214 deleted)
+3.517 Sys [Info]: /Cache.Windows/B.ShaderPermutationDx11.cache 28,910,267 / 1,174,474,943 bytes wasted (2%)
+3.524 Sys [Info]: Loaded TOC for Dx9/B.ShaderPermutation (took 6.19ms, loaded 8220 entries, found 269 deleted, spot-loaded)
+3.525 Sys [Info]: /Cache.Windows/B.ShaderPermutationDx9.cache 20,355,995 / 708,702,304 bytes wasted (2%)
+3.571 Sys [Info]: Loaded TOC for Dx9/B.Texture (took 46.6ms, loaded 46149 entries, found 564 deleted, spot-loaded)
+3.574 Sys [Info]: /Cache.Windows/B.TextureDx9.cache 88,562,319 / 1,397,305,224 bytes wasted (6%)
+3.575 Sys [Info]: Loaded TOC for Dx9/B.Texture_de (took 0.69ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.575 Sys [Info]: Loaded TOC for Dx9/B.Texture_en (took 0.43ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.576 Sys [Info]: Loaded TOC for Dx9/B.Texture_es (took 0.48ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.577 Sys [Info]: Loaded TOC for Dx9/B.Texture_fr (took 0.55ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.578 Sys [Info]: Loaded TOC for Dx9/B.Texture_it (took 0.55ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.579 Sys [Info]: Loaded TOC for Dx9/B.Texture_ja (took 0.60ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.580 Sys [Info]: Loaded TOC for Dx9/B.Texture_ko (took 0.61ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.581 Sys [Info]: Loaded TOC for Dx9/B.Texture_pl (took 0.58ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.581 Sys [Info]: Loaded TOC for Dx9/B.Texture_pt (took 0.44ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.584 Sys [Info]: Loaded TOC for Dx9/B.Texture_ru (took 1.94ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.585 Sys [Info]: Loaded TOC for Dx9/B.Texture_tc (took 0.61ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.586 Sys [Info]: Loaded TOC for Dx9/B.Texture_tr (took 0.58ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.587 Sys [Info]: Loaded TOC for Dx9/B.Texture_uk (took 0.67ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.588 Sys [Info]: Loaded TOC for Dx9/B.Texture_xx (took 0.45ms, loaded 1 entries, found 0 deleted, spot-loaded)
+3.589 Sys [Info]: Loaded TOC for Dx9/B.Texture_zh (took 0.46ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.590 Sys [Info]: /Cache.Windows/F.Misc.cache 2,233,280 / 2,571,694,530 bytes wasted (0%)
+3.590 Sys [Info]: Loaded TOC for Windows/F.Misc_de (took 0.59ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.591 Sys [Info]: /Cache.Windows/F.Misc_de.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.591 Sys [Info]: /Cache.Windows/F.Misc_en.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.592 Sys [Info]: Loaded TOC for Windows/F.Misc_es (took 0.53ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.592 Sys [Info]: /Cache.Windows/F.Misc_es.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.592 Sys [Info]: Loaded TOC for Windows/F.Misc_fr (took 0.53ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.593 Sys [Info]: /Cache.Windows/F.Misc_fr.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.593 Sys [Info]: Loaded TOC for Windows/F.Misc_it (took 0.48ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.594 Sys [Info]: /Cache.Windows/F.Misc_it.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.594 Sys [Info]: Loaded TOC for Windows/F.Misc_ja (took 0.67ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.595 Sys [Info]: /Cache.Windows/F.Misc_ja.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.595 Sys [Info]: Loaded TOC for Windows/F.Misc_ko (took 0.48ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.596 Sys [Info]: /Cache.Windows/F.Misc_ko.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.596 Sys [Info]: Loaded TOC for Windows/F.Misc_pl (took 0.47ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.596 Sys [Info]: /Cache.Windows/F.Misc_pl.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.597 Sys [Info]: Loaded TOC for Windows/F.Misc_pt (took 0.45ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.597 Sys [Info]: /Cache.Windows/F.Misc_pt.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.598 Sys [Info]: Loaded TOC for Windows/F.Misc_ru (took 0.52ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.598 Sys [Info]: /Cache.Windows/F.Misc_ru.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.600 Sys [Info]: Loaded TOC for Windows/F.Misc_tc (took 1.69ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.601 Sys [Info]: /Cache.Windows/F.Misc_tc.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.602 Sys [Info]: Loaded TOC for Windows/F.Misc_tr (took 0.89ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.603 Sys [Info]: /Cache.Windows/F.Misc_tr.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.604 Sys [Info]: Loaded TOC for Windows/F.Misc_uk (took 0.58ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.604 Sys [Info]: /Cache.Windows/F.Misc_uk.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.612 Sys [Info]: Loaded TOC for Windows/F.Misc_xx (took 7.94ms, loaded 10639 entries, found 26 deleted, spot-loaded)
+3.613 Sys [Info]: /Cache.Windows/F.Misc_xx.cache 1,452,110 / 542,476,697 bytes wasted (0%)
+3.614 Sys [Info]: Loaded TOC for Windows/F.Misc_zh (took 0.61ms, loaded 53 entries, found 1 deleted, spot-loaded)
+3.614 Sys [Info]: /Cache.Windows/F.Misc_zh.cache 231,920 / 7,549,688 bytes wasted (3%)
+3.657 Sys [Info]: Loaded TOC for Dx9/F.Texture (took 42.9ms, loaded 42779 entries, found 382 deleted, spot-loaded)
+3.659 Sys [Info]: /Cache.Windows/F.TextureDx9.cache 150,577,077 / 21,088,090,146 bytes wasted (0%)
+3.660 Sys [Info]: /Cache.Windows/H.AnimRetarget.cache 11,572,532 / 109,449,691 bytes wasted (10%)
+3.660 Sys [Info]: /Cache.Windows/H.CharacterCodesCache.cache 4,389 / 8,909 bytes wasted (49%)
+3.661 Sys [Info]: /Cache.Windows/H.CharacterCodesCacheDx10.cache 134,544 / 1,009,974 bytes wasted (13%)
+3.661 Sys [Info]: /Cache.Windows/H.CharacterCodesCacheDx11.cache 138,840 / 1,019,467 bytes wasted (13%)
+3.662 Sys [Info]: Loaded TOC for Dx9/H.CharacterCodesCache (took 1.12ms, loaded 296 entries, found 29 deleted, spot-loaded)
+3.662 Sys [Info]: /Cache.Windows/H.CharacterCodesCacheDx9.cache 110,083 / 989,746 bytes wasted (11%)
+3.665 Sys [Info]: Loaded TOC for Dx9/H.Emblem (took 2.03ms, loaded 2118 entries, found 0 deleted, spot-loaded)
+3.665 Sys [Info]: /Cache.Windows/H.Font.cache 41,657 / 1,218,801 bytes wasted (3%)
+3.666 Sys [Info]: /Cache.Windows/H.Misc.cache 108,826,377 / 239,928,737 bytes wasted (45%)
+3.667 Sys [Info]: Loaded TOC for Windows/H.Misc_de (took 0.90ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.669 Sys [Info]: Loaded TOC for Windows/H.Misc_es (took 1.69ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.671 Sys [Info]: Loaded TOC for Windows/H.Misc_fr (took 0.76ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.672 Sys [Info]: Loaded TOC for Windows/H.Misc_it (took 0.61ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.673 Sys [Info]: Loaded TOC for Windows/H.Misc_ja (took 0.69ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.674 Sys [Info]: Loaded TOC for Windows/H.Misc_ko (took 0.70ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.675 Sys [Info]: Loaded TOC for Windows/H.Misc_pl (took 0.63ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.676 Sys [Info]: Loaded TOC for Windows/H.Misc_pt (took 0.65ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.677 Sys [Info]: Loaded TOC for Windows/H.Misc_ru (took 0.64ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.678 Sys [Info]: Loaded TOC for Windows/H.Misc_tc (took 0.87ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.679 Sys [Info]: Loaded TOC for Windows/H.Misc_tr (took 0.63ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.680 Sys [Info]: Loaded TOC for Windows/H.Misc_uk (took 0.85ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.693 Sys [Info]: Loaded TOC for Windows/H.Misc_xx (took 12.4ms, loaded 10643 entries, found 383 deleted, spot-loaded)
+3.694 Sys [Info]: /Cache.Windows/H.Misc_xx.cache 132,632 / 4,116,257 bytes wasted (3%)
+3.695 Sys [Info]: Loaded TOC for Windows/H.Misc_zh (took 0.80ms, loaded 66 entries, found 0 deleted, spot-loaded)
+3.699 Sys [Info]: /Cache.Windows/H.ShaderDx10.cache 11,278 / 435,837 bytes wasted (2%)
+3.700 Sys [Info]: /Cache.Windows/H.ShaderDx11.cache 11,305 / 435,862 bytes wasted (2%)
+3.703 Sys [Info]: Loaded TOC for Dx9/H.Shader (took 1.32ms, loaded 180 entries, found 9 deleted, spot-loaded)
+3.703 Sys [Info]: /Cache.Windows/H.ShaderDx9.cache 11,308 / 435,856 bytes wasted (2%)
+3.703 Sys [Info]: /Cache.Windows/H.ShaderPermutationDx10.cache 108,753 / 4,416,245 bytes wasted (2%)
+3.704 Sys [Info]: /Cache.Windows/H.ShaderPermutationDx11.cache 95,456 / 4,399,046 bytes wasted (2%)
+3.713 Sys [Info]: Loaded TOC for Dx9/H.ShaderPermutation (took 9.03ms, loaded 8220 entries, found 192 deleted, spot-loaded)
+3.714 Sys [Info]: /Cache.Windows/H.ShaderPermutationDx9.cache 92,367 / 4,361,255 bytes wasted (2%)
+3.774 Sys [Info]: Loaded TOC for Dx9/H.Texture (took 59.3ms, loaded 53606 entries, found 260 deleted, spot-loaded)
+3.776 Sys [Info]: /Cache.Windows/H.TextureDx9.cache 49,554 / 15,107,815 bytes wasted (0%)
+3.777 Sys [Info]: Loaded TOC for Dx9/H.Texture_de (took 0.68ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.778 Sys [Info]: Loaded TOC for Dx9/H.Texture_en (took 0.64ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.779 Sys [Info]: Loaded TOC for Dx9/H.Texture_es (took 0.77ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.780 Sys [Info]: Loaded TOC for Dx9/H.Texture_fr (took 0.56ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.781 Sys [Info]: Loaded TOC for Dx9/H.Texture_it (took 0.61ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.785 Sys [Info]: Loaded TOC for Dx9/H.Texture_ja (took 0.66ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.787 Sys [Info]: Loaded TOC for Dx9/H.Texture_ko (took 1.09ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.789 Sys [Info]: Loaded TOC for Dx9/H.Texture_pl (took 1.42ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.791 Sys [Info]: Loaded TOC for Dx9/H.Texture_pt (took 1.62ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.793 Sys [Info]: Loaded TOC for Dx9/H.Texture_ru (took 0.66ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.794 Sys [Info]: Loaded TOC for Dx9/H.Texture_tc (took 0.77ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.796 Sys [Info]: Loaded TOC for Dx9/H.Texture_tr (took 1.25ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.797 Sys [Info]: Loaded TOC for Dx9/H.Texture_uk (took 0.81ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.803 Sys [Info]: Loaded TOC for Dx9/H.Texture_xx (took 5.52ms, loaded 1 entries, found 0 deleted, spot-loaded)
+3.805 Sys [Info]: Loaded TOC for Dx9/H.Texture_zh (took 0.59ms, loaded 12 entries, found 0 deleted, spot-loaded)
+3.806 Sys [Info]: Wasted cache space: 548,849,618 bytes (1%)
+3.806 Sys [Info]: All stripped assets preprocessed
+3.806 Sys [Info]: Main Shutdown Initiated.
+3.808 Sys [Info]: TypeMgr cleaned 0 instances (0.00ms) and unbuilt 0 types (2.14ms) in 0.00ms
+3.812 Sys [Info]: Shutting down content update...
+3.812 Net [Info]: MatchingService::DeleteSession
+3.813 Net [Info]: Deleted session
+3.813 Net [Info]: MatchingServiceWeb::LeavePlatformPartyDone
+3.819 Sys [Info]: Redirecting package save to: C:\Users\Dex\AppData\Local\Warframe\EE.cfg
+3.822 Sys [Info]: Skipping SavePackage for /Configs/EE.cfg (no changes detected)
+3.824 Sys [Info]: Saved package: /Configs/EE.cfg
+3.825 Sys [Info]: Used 1 shared assets (0 async, 1 sync)
+3.825 Sys [Info]: Total Hash: 0.00s Copy: 0.00s Write: 0.29s)
+3.826 Sys [Info]: Copied 883 bytes at 5.65 MB/s
+3.831 Phys [Info]: PhysX scene manager shutdown.
+Sys [Info]: All smart pointers were destroyed!
+3.877 Sys [Info]: Main Shutdown Complete.
+Sys [Info]: All AnimController memory was freed!
+Sys [Info]: All CacheMgr memory was freed!
+Sys [Info]: All CacheSharing memory was freed!
+Sys [Info]: All CacheToc memory was freed!
+Sys [Info]: All Deps memory was freed!
+Sys [Info]: All EditorBase memory was freed!
+Sys [Info]: All External memory was freed!
+Sys [Info]: All GameSwf memory was freed!
+Sys [Info]: All Instances memory was freed!
+Sys [Info]: All JobMgr memory was freed!
+Sys [Info]: All LZMA memory was freed!
+Sys [Info]: All Lua memory was freed!
+Sys [Info]: All Navigation memory was freed!
+Sys [Info]: All PhysX memory was freed!
+Sys [Info]: All PhysicsData memory was freed!
+Sys [Info]: All RegionMgr memory was freed!
+Sys [Info]: All Sound memory was freed!
+Sys [Info]: All Temp memory was freed!
+Process returned 0
+Finished Preprocess (4.0 seconds)
+Finished Defrag (2.4 seconds)
+Total time: 9.4 seconds
+Finished ReadyToPlay (10.9 seconds)
+Finished MakeLogDirectory (0.1 seconds)
+
+GET /api/clientIP.php HTTP/1.1
+Host: api.warframe.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: Apache
+Content-Length: 36
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 08 Mar 2019 08:31:16 GMT
+Connection: keep-alive
+
+99.203.27.196
+Houston
+United States
+
+Finished ClientIP (0.5 seconds)
+ReqSpawnProcess - InitDialog
+tracert.exe -d -w 1000 content.warframe.com
+
+Tracing route to cds.b5q9z7i8.hwcdn.net [205.185.216.10]
+over a maximum of 30 hops:
+
+  1     2 ms     2 ms     2 ms  172.20.10.1 
+  2    81 ms    49 ms    39 ms  10.156.77.9 
+  3     *        *        *     Request timed out.
+  4    43 ms    38 ms    34 ms  66.1.79.9 
+  5    32 ms    37 ms    47 ms  144.228.11.49 
+  6    50 ms    56 ms    45 ms  144.232.22.82 
+  7    63 ms    63 ms    62 ms  144.232.13.86 
+  8    36 ms    48 ms    43 ms  144.232.7.66 
+  9   114 ms    38 ms    39 ms  66.110.56.98 
+ 10   114 ms    41 ms    48 ms  151.139.52.3 
+ 11   102 ms    48 ms    49 ms  151.139.52.14 
+ 12    43 ms    39 ms    39 ms  151.139.14.138 
+ 13    58 ms    49 ms    50 ms  205.185.216.10 
+
+Trace complete.
+Process returned 0
+Waiting for applet to gracefully shut down
+Finished TraceRoute (15.5 seconds)
+ReqSpawnProcess - InitDialog
+tasklist.exe
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        420 K
+Registry                       120 Services                   0     12,496 K
+smss.exe                       436 Services                   0      1,100 K
+csrss.exe                      596 Services                   0      4,496 K
+wininit.exe                    688 Services                   0      5,348 K
+csrss.exe                      696 Console                    1      4,980 K
+winlogon.exe                   800 Console                    1      9,236 K
+services.exe                   920 Services                   0     10,176 K
+lsass.exe                      940 Services                   0     16,220 K
+svchost.exe                    372 Services                   0      3,328 K
+svchost.exe                    528 Services                   0     24,780 K
+fontdrvhost.exe                500 Console                    1    245,356 K
+fontdrvhost.exe                504 Services                   0     13,544 K
+svchost.exe                    852 Services                   0     14,736 K
+svchost.exe                    992 Services                   0      8,964 K
+dwm.exe                       1036 Console                    1     68,356 K
+svchost.exe                   1136 Services                   0     10,648 K
+svchost.exe                   1168 Services                   0      5,184 K
+svchost.exe                   1216 Services                   0      5,852 K
+svchost.exe                   1316 Services                   0     10,388 K
+svchost.exe                   1348 Services                   0     17,300 K
+NVDisplay.Container.exe       1472 Services                   0     14,780 K
+svchost.exe                   1504 Services                   0      8,824 K
+svchost.exe                   1576 Services                   0      6,860 K
+svchost.exe                   1600 Services                   0     18,556 K
+svchost.exe                   1668 Services                   0      9,732 K
+svchost.exe                   1676 Services                   0      4,960 K
+svchost.exe                   1704 Services                   0      7,232 K
+svchost.exe                   1816 Services                   0      5,596 K
+svchost.exe                   1868 Services                   0      7,688 K
+svchost.exe                   1900 Services                   0      9,692 K
+svchost.exe                   1920 Services                   0     14,412 K
+svchost.exe                   1964 Services                   0      7,312 K
+svchost.exe                   1076 Services                   0      7,488 K
+svchost.exe                   2060 Services                   0      7,600 K
+svchost.exe                   2276 Services                   0      8,364 K
+svchost.exe                   2368 Services                   0     13,968 K
+svchost.exe                   2428 Services                   0     12,772 K
+svchost.exe                   2544 Services                   0      8,676 K
+360DocProtect.exe             2576 Services                   0     65,852 K
+svchost.exe                   2584 Services                   0      7,608 K
+svchost.exe                   2592 Services                   0      6,088 K
+svchost.exe                   2600 Services                   0      8,200 K
+svchost.exe                   2608 Services                   0     12,208 K
+QHActiveDefense.exe           2632 Services                   0     54,336 K
+svchost.exe                   2816 Services                   0     12,052 K
+svchost.exe                   2968 Services                   0      9,408 K
+svchost.exe                   2260 Services                   0     16,844 K
+svchost.exe                   3188 Services                   0     12,636 K
+spoolsv.exe                   3224 Services                   0     13,240 K
+svchost.exe                   3380 Services                   0      8,764 K
+svchost.exe                   3432 Services                   0      6,880 K
+svchost.exe                   3440 Services                   0      6,484 K
+svchost.exe                   3484 Services                   0      8,056 K
+svchost.exe                   3548 Services                   0     41,564 K
+svchost.exe                   3560 Services                   0     42,428 K
+svchost.exe                   3568 Services                   0     12,700 K
+mDNSResponder.exe             3660 Services                   0      7,012 K
+AppleMobileDeviceService.     3668 Services                   0     14,052 K
+IpOverUsbSvc.exe              3680 Services                   0     14,436 K
+NvTelemetryContainer.exe      3696 Services                   0     16,320 K
+PnkBstrA.exe                  3708 Services                   0      5,864 K
+PnkBstrB.exe                  3736 Services                   0      5,984 K
+svchost.exe                   3744 Services                   0      5,548 K
+RzSDKServer.exe               3752 Services                   0      6,524 K
+nvcontainer.exe               3760 Services                   0     29,072 K
+GameManagerService.exe        3768 Services                   0     91,264 K
+RazerCentralService.exe       3852 Services                   0     71,060 K
+Corsair.Service.exe           3924 Services                   0     51,120 K
+RzSurroundVADStreamingSer     3952 Services                   0     14,404 K
+svchost.exe                   3964 Services                   0     20,840 K
+svchost.exe                   3976 Services                   0      8,208 K
+SurfEasyService.exe           3984 Services                   0      9,176 K
+SecurityHealthService.exe     4008 Services                   0     12,396 K
+nordvpn-service.exe           4072 Services                   0     39,748 K
+svchost.exe                   3340 Services                   0     31,668 K
+svchost.exe                   3268 Services                   0     19,304 K
+wallpaperservice32_c.exe      4152 Services                   0      4,296 K
+svchost.exe                   4212 Services                   0      4,588 K
+openvpnserv.exe               4280 Services                   0      4,704 K
+svchost.exe                   4288 Services                   0     11,024 K
+svchost.exe                   4584 Services                   0      6,336 K
+CyberGhost.Service.exe        4592 Services                   0     56,828 K
+OriginWebHelperService.ex     4608 Services                   0     15,752 K
+svchost.exe                   4720 Services                   0      7,156 K
+audiodg.exe                   2236 Services                   0     30,400 K
+WmiPrvSE.exe                  5264 Services                   0     22,552 K
+WmiPrvSE.exe                  6008 Services                   0      9,284 K
+Razer Synapse Service.exe     5308 Services                   0     82,848 K
+Corsair.Service.CpuIdRemo     2336 Console                    1     47,672 K
+conhost.exe                   2324 Console                    1      8,608 K
+Corsair.Service.DisplayAd     6364 Console                    1     27,560 K
+conhost.exe                   6372 Console                    1      8,800 K
+QHWatchdog.exe                6676 Services                   0      4,268 K
+NVDisplay.Container.exe       5292 Console                    1     51,272 K
+svchost.exe                   6984 Services                   0     18,144 K
+wallpaper32.exe               7256 Console                    1    147,572 K
+nvcontainer.exe               7300 Console                    1     93,176 K
+nvcontainer.exe               7316 Console                    1     71,680 K
+sihost.exe                    7360 Console                    1     24,824 K
+svchost.exe                   7460 Console                    1     12,308 K
+svchost.exe                   7520 Console                    1     34,852 K
+taskhostw.exe                 7792 Console                    1     15,120 K
+svchost.exe                   7908 Services                   0      6,860 K
+ctfmon.exe                    8004 Console                    1     31,944 K
+explorer.exe                  7428 Console                    1    158,956 K
+svchost.exe                   7060 Services                   0     10,952 K
+ClassicStartMenu.exe          2044 Console                    1      9,944 K
+webwallpaper32.exe            8240 Console                    1     31,136 K
+ShellExperienceHost.exe       8724 Console                    1    104,532 K
+RuntimeBroker.exe             9020 Console                    1     28,388 K
+SearchUI.exe                  9088 Console                    1    107,624 K
+RuntimeBroker.exe             8792 Console                    1     14,600 K
+Video.UI.exe                  9444 Console                    1     14,596 K
+RuntimeBroker.exe             9808 Console                    1     27,444 K
+webwallpaper32.exe            9908 Console                    1     42,352 K
+SearchIndexer.exe             9952 Services                   0     35,480 K
+svchost.exe                   9960 Services                   0     18,048 K
+NVIDIA Web Helper.exe         9608 Console                    1     13,184 K
+conhost.exe                   8796 Console                    1        564 K
+webwallpaper32.exe           10892 Console                    1     49,160 K
+Razer Synapse Service Pro    10904 Console                    1    147,396 K
+steamcmd.exe                 10300 Services                   0     28,676 K
+conhost.exe                  10376 Services                   0      8,492 K
+TiltWheelMouse.exe           10488 Console                    1      7,736 K
+RuntimeBroker.exe            10556 Console                    1      8,304 K
+GyStation.exe                10796 Console                    1    133,180 K
+DesktopPlus64.exe            10256 Console                    1     81,512 K
+nvsphelper64.exe             11624 Console                    1     10,444 K
+NVIDIA Share.exe             11644 Console                    1     56,952 K
+Rainmeter.exe                11816 Console                    1     13,632 K
+NVIDIA Share.exe             11864 Console                    1     48,484 K
+Lightshot.exe                12032 Console                    1     30,348 K
+RzSynapse.exe                12176 Console                    1    154,892 K
+QHSafeTray.exe               12192 Console                    1     56,732 K
+NVIDIA Share.exe             11296 Console                    1     96,484 K
+Kraken71ChromaHelper.exe     10532 Console                    1     36,944 K
+iCUE.exe                     11172 Console                    1    125,532 K
+Send.exe                      9540 Console                    1     29,556 K
+SimpleHttp.exe                9788 Console                    1      6,440 K
+svchost.exe                  12320 Services                   0      7,944 K
+svchost.exe                  13276 Services                   0     11,528 K
+DiscordPTB.exe                2776 Console                    1    143,904 K
+DiscordPTB.exe                3336 Console                    1     34,988 K
+DiscordPTB.exe               11160 Console                    1     11,716 K
+sedsvc.exe                    5228 Services                   0     14,596 K
+SgrmBroker.exe               13136 Services                   0      5,868 K
+svchost.exe                   3872 Services                   0      8,840 K
+360DocProtect.exe             8392 Console                    1    133,984 K
+svchost.exe                  13380 Services                   0      5,356 K
+svchost.exe                  14740 Services                   0      6,672 K
+svchost.exe                  15196 Services                   0      7,560 K
+Steam Desktop Authenticat     5668 Console                    1     72,056 K
+dasHost.exe                   1800 Services                   0      4,008 K
+svchost.exe                   1940 Console                    1     14,652 K
+wlanext.exe                  16208 Services                   0      6,124 K
+conhost.exe                  16104 Services                   0      8,632 K
+svchost.exe                  16000 Services                   0      8,012 K
+SystemSettings.exe            7604 Console                    1     74,048 K
+ApplicationFrameHost.exe     15956 Console                    1     26,224 K
+svchost.exe                   2988 Services                   0     12,524 K
+taskhostw.exe                16516 Console                    1     14,704 K
+Steam.exe                    14964 Console                    1    133,836 K
+steamwebhelper.exe           15940 Console                    1     55,064 K
+SteamService.exe              7328 Services                   0     19,336 K
+steamwebhelper.exe            1392 Console                    1     12,620 K
+steamwebhelper.exe           10604 Console                    1     80,312 K
+steamwebhelper.exe            8844 Console                    1    124,508 K
+steamwebhelper.exe            6220 Console                    1     60,968 K
+vivaldi.exe                  17516 Console                    1    183,164 K
+vivaldi.exe                   9760 Console                    1      7,188 K
+vivaldi.exe                   3832 Console                    1    208,696 K
+vivaldi.exe                  15724 Console                    1    121,624 K
+vivaldi.exe                  15860 Console                    1    353,548 K
+vivaldi.exe                   9816 Console                    1    126,488 K
+Code - Insiders.exe           6720 Console                    1     72,176 K
+DiscordPTB.exe                7892 Console                    1    374,984 K
+DiscordPTB.exe                8644 Console                    1     68,900 K
+Code - Insiders.exe          17124 Console                    1     69,684 K
+DiscordPTB.exe                7036 Console                    1     23,052 K
+Code - Insiders.exe           6884 Console                    1    167,276 K
+Code - Insiders.exe          12208 Console                    1     65,360 K
+Code - Insiders.exe          18760 Console                    1     64,532 K
+svchost.exe                  12756 Services                   0      5,776 K
+vivaldi.exe                  14544 Console                    1    202,120 K
+vivaldi.exe                   1144 Console                    1     53,208 K
+vivaldi.exe                   9844 Console                    1     57,176 K
+svchost.exe                  13968 Services                   0      8,484 K
+svchost.exe                   7620 Services                   0      6,720 K
+vivaldi.exe                  13428 Console                    1     22,996 K
+sppsvc.exe                   19296 Services                   0     21,496 K
+vivaldi.exe                  19032 Console                    1     37,020 K
+360TsLiveUpd.exe             13096 Console                    1     20,552 K
+Launcher.exe                 15748 Console                    1    221,644 K
+GameOverlayUI.exe            15916 Console                    1     29,052 K
+steamwebhelper.exe            3808 Console                    1     43,364 K
+DiscordPTB.exe               14732 Console                    1    116,332 K
+SppExtComObj.Exe             15444 Services                   0      9,820 K
+slui.exe                     19312 Services                   0      9,604 K
+SearchProtocolHost.exe        3904 Services                   0     11,192 K
+SearchFilterHost.exe         11552 Services                   0      6,180 K
+svchost.exe                   3732 Services                   0     10,688 K
+NvOAWrapperCache.exe         14076 Console                    1     26,220 K
+tasklist.exe                  7088 Console                    1     27,176 K
+conhost.exe                   7664 Console                    1     10,836 K
+Process returned 0
+Waiting for applet to gracefully shut down
+Finished TaskList (0.5 seconds)
+DxDiag.exe /dontskip /whql:off /tDxDiag.log
+Process returned 0
+Finished DxDiag (37.3 seconds)
